@@ -1,0 +1,11804 @@
+--------------------------------------------------------------------------------
+StaticMesh Name: STMiSUPPORTbrace4x8
+
+Section 0 of 2
+   Material Name: BF
+      Face 0 of 12:- [fi: 0; vi0: 132, vi1: 133, vi2: 134]
+      Face 1 of 12:- [fi: 1; vi0: 135, vi1: 133, vi2: 132]
+      Face 2 of 12:- [fi: 2; vi0: 136, vi1: 137, vi2: 138]
+      Face 3 of 12:- [fi: 3; vi0: 136, vi1: 139, vi2: 137]
+      Face 4 of 12:- [fi: 4; vi0: 149, vi1: 150, vi2: 151]
+      Face 5 of 12:- [fi: 5; vi0: 152, vi1: 150, vi2: 149]
+      Face 6 of 12:- [fi: 6; vi0: 153, vi1: 154, vi2: 155]
+      Face 7 of 12:- [fi: 7; vi0: 153, vi1: 156, vi2: 154]
+      Face 8 of 12:- [fi: 8; vi0: 157, vi1: 158, vi2: 159]
+      Face 9 of 12:- [fi: 9; vi0: 160, vi1: 158, vi2: 157]
+      Face 10 of 12:- [fi: 10; vi0: 161, vi1: 162, vi2: 163]
+      Face 11 of 12:- [fi: 11; vi0: 161, vi1: 164, vi2: 162]
+Section 1 of 2
+   Material Name: STMwall512B_D
+      Face 0 of 76:- [fi: 12; vi0: 0, vi1: 1, vi2: 2]
+      Face 1 of 76:- [fi: 13; vi0: 0, vi1: 3, vi2: 1]
+      Face 2 of 76:- [fi: 14; vi0: 4, vi1: 5, vi2: 6]
+      Face 3 of 76:- [fi: 15; vi0: 7, vi1: 4, vi2: 6]
+      Face 4 of 76:- [fi: 16; vi0: 8, vi1: 9, vi2: 10]
+      Face 5 of 76:- [fi: 17; vi0: 11, vi1: 9, vi2: 8]
+      Face 6 of 76:- [fi: 18; vi0: 12, vi1: 13, vi2: 14]
+      Face 7 of 76:- [fi: 19; vi0: 15, vi1: 12, vi2: 14]
+      Face 8 of 76:- [fi: 20; vi0: 16, vi1: 17, vi2: 18]
+      Face 9 of 76:- [fi: 21; vi0: 17, vi1: 19, vi2: 18]
+      Face 10 of 76:- [fi: 22; vi0: 20, vi1: 21, vi2: 22]
+      Face 11 of 76:- [fi: 23; vi0: 20, vi1: 22, vi2: 23]
+      Face 12 of 76:- [fi: 24; vi0: 24, vi1: 25, vi2: 26]
+      Face 13 of 76:- [fi: 25; vi0: 27, vi1: 25, vi2: 24]
+      Face 14 of 76:- [fi: 26; vi0: 28, vi1: 29, vi2: 30]
+      Face 15 of 76:- [fi: 27; vi0: 31, vi1: 29, vi2: 28]
+      Face 16 of 76:- [fi: 28; vi0: 32, vi1: 33, vi2: 34]
+      Face 17 of 76:- [fi: 29; vi0: 32, vi1: 35, vi2: 33]
+      Face 18 of 76:- [fi: 30; vi0: 36, vi1: 37, vi2: 38]
+      Face 19 of 76:- [fi: 31; vi0: 39, vi1: 36, vi2: 38]
+      Face 20 of 76:- [fi: 32; vi0: 40, vi1: 41, vi2: 42]
+      Face 21 of 76:- [fi: 33; vi0: 43, vi1: 41, vi2: 40]
+      Face 22 of 76:- [fi: 34; vi0: 44, vi1: 45, vi2: 46]
+      Face 23 of 76:- [fi: 35; vi0: 47, vi1: 44, vi2: 46]
+      Face 24 of 76:- [fi: 36; vi0: 48, vi1: 49, vi2: 50]
+      Face 25 of 76:- [fi: 37; vi0: 49, vi1: 51, vi2: 50]
+      Face 26 of 76:- [fi: 38; vi0: 52, vi1: 53, vi2: 54]
+      Face 27 of 76:- [fi: 39; vi0: 52, vi1: 54, vi2: 55]
+      Face 28 of 76:- [fi: 40; vi0: 56, vi1: 57, vi2: 58]
+      Face 29 of 76:- [fi: 41; vi0: 59, vi1: 57, vi2: 56]
+      Face 30 of 76:- [fi: 42; vi0: 60, vi1: 61, vi2: 62]
+      Face 31 of 76:- [fi: 43; vi0: 63, vi1: 61, vi2: 60]
+      Face 32 of 76:- [fi: 44; vi0: 64, vi1: 65, vi2: 66]
+      Face 33 of 76:- [fi: 45; vi0: 67, vi1: 65, vi2: 64]
+      Face 34 of 76:- [fi: 46; vi0: 68, vi1: 69, vi2: 70]
+      Face 35 of 76:- [fi: 47; vi0: 71, vi1: 69, vi2: 68]
+      Face 36 of 76:- [fi: 48; vi0: 72, vi1: 73, vi2: 74]
+      Face 37 of 76:- [fi: 49; vi0: 72, vi1: 75, vi2: 73]
+      Face 38 of 76:- [fi: 50; vi0: 67, vi1: 76, vi2: 65]
+      Face 39 of 76:- [fi: 51; vi0: 77, vi1: 76, vi2: 67]
+      Face 40 of 76:- [fi: 52; vi0: 78, vi1: 75, vi2: 72]
+      Face 41 of 76:- [fi: 53; vi0: 78, vi1: 79, vi2: 75]
+      Face 42 of 76:- [fi: 54; vi0: 77, vi1: 80, vi2: 76]
+      Face 43 of 76:- [fi: 55; vi0: 81, vi1: 80, vi2: 77]
+      Face 44 of 76:- [fi: 56; vi0: 82, vi1: 79, vi2: 78]
+      Face 45 of 76:- [fi: 57; vi0: 82, vi1: 83, vi2: 79]
+      Face 46 of 76:- [fi: 58; vi0: 81, vi1: 84, vi2: 80]
+      Face 47 of 76:- [fi: 59; vi0: 85, vi1: 84, vi2: 81]
+      Face 48 of 76:- [fi: 60; vi0: 86, vi1: 83, vi2: 82]
+      Face 49 of 76:- [fi: 61; vi0: 86, vi1: 87, vi2: 83]
+      Face 50 of 76:- [fi: 62; vi0: 88, vi1: 89, vi2: 90]
+      Face 51 of 76:- [fi: 63; vi0: 91, vi1: 89, vi2: 88]
+      Face 52 of 76:- [fi: 64; vi0: 92, vi1: 93, vi2: 94]
+      Face 53 of 76:- [fi: 65; vi0: 92, vi1: 95, vi2: 93]
+      Face 54 of 76:- [fi: 66; vi0: 96, vi1: 97, vi2: 98]
+      Face 55 of 76:- [fi: 67; vi0: 99, vi1: 97, vi2: 96]
+      Face 56 of 76:- [fi: 68; vi0: 100, vi1: 101, vi2: 102]
+      Face 57 of 76:- [fi: 69; vi0: 100, vi1: 103, vi2: 101]
+      Face 58 of 76:- [fi: 70; vi0: 104, vi1: 105, vi2: 106]
+      Face 59 of 76:- [fi: 71; vi0: 107, vi1: 105, vi2: 104]
+      Face 60 of 76:- [fi: 72; vi0: 108, vi1: 109, vi2: 110]
+      Face 61 of 76:- [fi: 73; vi0: 108, vi1: 110, vi2: 111]
+      Face 62 of 76:- [fi: 74; vi0: 112, vi1: 113, vi2: 114]
+      Face 63 of 76:- [fi: 75; vi0: 115, vi1: 113, vi2: 112]
+      Face 64 of 76:- [fi: 76; vi0: 116, vi1: 117, vi2: 118]
+      Face 65 of 76:- [fi: 77; vi0: 116, vi1: 119, vi2: 117]
+      Face 66 of 76:- [fi: 78; vi0: 120, vi1: 121, vi2: 122]
+      Face 67 of 76:- [fi: 79; vi0: 123, vi1: 121, vi2: 120]
+      Face 68 of 76:- [fi: 80; vi0: 124, vi1: 125, vi2: 126]
+      Face 69 of 76:- [fi: 81; vi0: 125, vi1: 127, vi2: 126]
+      Face 70 of 76:- [fi: 82; vi0: 128, vi1: 129, vi2: 130]
+      Face 71 of 76:- [fi: 83; vi0: 131, vi1: 128, vi2: 130]
+      Face 72 of 76:- [fi: 84; vi0: 140, vi1: 141, vi2: 142]
+      Face 73 of 76:- [fi: 85; vi0: 143, vi1: 140, vi2: 142]
+      Face 74 of 76:- [fi: 86; vi0: 144, vi1: 145, vi2: 146]
+      Face 75 of 76:- [fi: 87; vi0: 145, vi1: 147, vi2: 148]
+
+
+Vertex 0 of 165
+
+   vPosition.x = 8
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.31607e-006
+   vS.z = 0
+
+   vT.x = -2.31607e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.406251
+   v0 = -0.426436
+
+   u1 = 0.406251
+   v1 = -0.426436
+
+   u2 = 0.406251
+   v2 = -0.426436
+
+   u3 = 0.406251
+   v3 = -0.426436
+
+Vertex 1 of 165
+
+   vPosition.x = 64
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.31607e-006
+   vS.z = 0
+
+   vT.x = -2.31607e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.625001
+   v0 = -0.379561
+
+   u1 = 0.625001
+   v1 = -0.379561
+
+   u2 = 0.625001
+   v2 = -0.379561
+
+   u3 = 0.625001
+   v3 = -0.379561
+
+Vertex 2 of 165
+
+   vPosition.x = 8
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.31607e-006
+   vS.z = 0
+
+   vT.x = -2.31607e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.406251
+   v0 = -0.379561
+
+   u1 = 0.406251
+   v1 = -0.379561
+
+   u2 = 0.406251
+   v2 = -0.379561
+
+   u3 = 0.406251
+   v3 = -0.379561
+
+Vertex 3 of 165
+
+   vPosition.x = 64
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.31607e-006
+   vS.z = 0
+
+   vT.x = -2.31607e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.625001
+   v0 = -0.426436
+
+   u1 = 0.625001
+   v1 = -0.426436
+
+   u2 = 0.625001
+   v2 = -0.426436
+
+   u3 = 0.625001
+   v3 = -0.426436
+
+Vertex 4 of 165
+
+   vPosition.x = 64
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -1
+   vS.y = 0
+   vS.z = 2.28163e-006
+
+   vT.x = 2.28163e-006
+   vT.y = 0
+   vT.z = 1
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.436002
+   v0 = -1.00363
+
+   u1 = 0.436002
+   v1 = -1.00363
+
+   u2 = 0.436002
+   v2 = -1.00363
+
+   u3 = 0.436002
+   v3 = -1.00363
+
+Vertex 5 of 165
+
+   vPosition.x = 0
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 3.88123e-008
+   vNormal.y = 1
+   vNormal.z = 3.88123e-008
+
+   vS.x = -0.707108
+   vS.y = 5.48889e-008
+   vS.z = -0.707105
+
+   vT.x = -0.707105
+   vT.y = -1.2955e-013
+   vT.z = 0.707108
+
+   vSxT.x = 3.88123e-008
+   vSxT.y = 1
+   vSxT.z = 3.88123e-008
+
+   u0 = 0.686002
+   v0 = -1.00363
+
+   u1 = 0.686002
+   v1 = -1.00363
+
+   u2 = 0.686002
+   v2 = -1.00363
+
+   u3 = 0.686002
+   v3 = -1.00363
+
+Vertex 6 of 165
+
+   vPosition.x = 8
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 1.94062e-008
+   vNormal.y = 1
+   vNormal.z = 4.00954e-008
+
+   vS.x = -0.707108
+   vS.y = 4.20739e-008
+   vS.z = -0.707105
+
+   vT.x = -0.707105
+   vT.y = -1.46296e-008
+   vT.z = 0.707108
+
+   vSxT.x = 1.94062e-008
+   vSxT.y = 1
+   vSxT.z = 4.00954e-008
+
+   u0 = 0.654752
+   v0 = -0.972373
+
+   u1 = 0.654752
+   v1 = -0.972373
+
+   u2 = 0.654752
+   v2 = -0.972373
+
+   u3 = 0.654752
+   v3 = -0.972373
+
+Vertex 7 of 165
+
+   vPosition.x = 64
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -1
+   vS.y = 0
+   vS.z = 2.17947e-006
+
+   vT.x = 2.17947e-006
+   vT.y = 0
+   vT.z = 1
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.436002
+   v0 = -0.972374
+
+   u1 = 0.436002
+   v1 = -0.972374
+
+   u2 = 0.436002
+   v2 = -0.972374
+
+   u3 = 0.436002
+   v3 = -0.972374
+
+Vertex 8 of 165
+
+   vPosition.x = 64
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -0.999962
+   vS.z = -0.00872359
+
+   vT.x = 0
+   vT.y = 0.00872359
+   vT.z = -0.999962
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.368618
+   v0 = -0.972231
+
+   u1 = 0.368618
+   v1 = -0.972231
+
+   u2 = 0.368618
+   v2 = -0.972231
+
+   u3 = 0.368618
+   v3 = -0.972231
+
+Vertex 9 of 165
+
+   vPosition.x = 64
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -0.999962
+   vS.z = -0.00872359
+
+   vT.x = 0
+   vT.y = 0.00872359
+   vT.z = -0.999962
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.321472
+   v0 = -1.00307
+
+   u1 = 0.321472
+   v1 = -1.00307
+
+   u2 = 0.321472
+   v2 = -1.00307
+
+   u3 = 0.321472
+   v3 = -1.00307
+
+Vertex 10 of 165
+
+   vPosition.x = 64
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -0.999962
+   vS.z = -0.00872421
+
+   vT.x = 0
+   vT.y = 0.00872421
+   vT.z = -0.999962
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.321745
+   v0 = -0.971823
+
+   u1 = 0.321745
+   v1 = -0.971823
+
+   u2 = 0.321745
+   v2 = -0.971823
+
+   u3 = 0.321745
+   v3 = -0.971823
+
+Vertex 11 of 165
+
+   vPosition.x = 64
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -0.999962
+   vS.z = -0.00872296
+
+   vT.x = 0
+   vT.y = 0.00872296
+   vT.z = -0.999962
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.368346
+   v0 = -1.00348
+
+   u1 = 0.368346
+   v1 = -1.00348
+
+   u2 = 0.368346
+   v2 = -1.00348
+
+   u3 = 0.368346
+   v3 = -1.00348
+
+Vertex 12 of 165
+
+   vPosition.x = 64
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -1
+   vS.y = 0
+   vS.z = 2.28163e-006
+
+   vT.x = -2.28163e-006
+   vT.y = 0
+   vT.z = -1
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.436002
+   v0 = -1.00363
+
+   u1 = 0.436002
+   v1 = -1.00363
+
+   u2 = 0.436002
+   v2 = -1.00363
+
+   u3 = 0.436002
+   v3 = -1.00363
+
+Vertex 13 of 165
+
+   vPosition.x = 64
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -1
+   vS.y = 0
+   vS.z = 2.17947e-006
+
+   vT.x = -2.17947e-006
+   vT.y = 0
+   vT.z = -1
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.436002
+   v0 = -0.972374
+
+   u1 = 0.436002
+   v1 = -0.972374
+
+   u2 = 0.436002
+   v2 = -0.972374
+
+   u3 = 0.436002
+   v3 = -0.972374
+
+Vertex 14 of 165
+
+   vPosition.x = 8
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = -1.94062e-008
+   vNormal.y = -1
+   vNormal.z = -4.00954e-008
+
+   vS.x = -0.707108
+   vS.y = 4.20739e-008
+   vS.z = -0.707105
+
+   vT.x = 0.707105
+   vT.y = 1.46296e-008
+   vT.z = -0.707108
+
+   vSxT.x = -1.94062e-008
+   vSxT.y = -1
+   vSxT.z = -4.00954e-008
+
+   u0 = 0.654752
+   v0 = -0.972373
+
+   u1 = 0.654752
+   v1 = -0.972373
+
+   u2 = 0.654752
+   v2 = -0.972373
+
+   u3 = 0.654752
+   v3 = -0.972373
+
+Vertex 15 of 165
+
+   vPosition.x = 0
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = -3.88123e-008
+   vNormal.y = -1
+   vNormal.z = -3.88123e-008
+
+   vS.x = -0.707108
+   vS.y = 5.48889e-008
+   vS.z = -0.707105
+
+   vT.x = 0.707105
+   vT.y = 1.2955e-013
+   vT.z = -0.707108
+
+   vSxT.x = -3.88123e-008
+   vSxT.y = -1
+   vSxT.z = -3.88123e-008
+
+   u0 = 0.686002
+   v0 = -1.00363
+
+   u1 = 0.686002
+   v1 = -1.00363
+
+   u2 = 0.686002
+   v2 = -1.00363
+
+   u3 = 0.686002
+   v3 = -1.00363
+
+Vertex 16 of 165
+
+   vPosition.x = 0
+   vPosition.y = 6
+   vPosition.z = -129
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.32458e-006
+   vS.z = 0
+
+   vT.x = -2.32458e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.375
+   v0 = -0.0185616
+
+   u1 = 0.375
+   v1 = -0.0185616
+
+   u2 = 0.375
+   v2 = -0.0185616
+
+   u3 = 0.375
+   v3 = -0.0185616
+
+Vertex 17 of 165
+
+   vPosition.x = 0
+   vPosition.y = -6
+   vPosition.z = -129
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.23517e-006
+   vS.z = 0
+
+   vT.x = -2.23517e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.375
+   v0 = -0.0654366
+
+   u1 = 0.375
+   v1 = -0.0654366
+
+   u2 = 0.375
+   v2 = -0.0654366
+
+   u3 = 0.375
+   v3 = -0.0654366
+
+Vertex 18 of 165
+
+   vPosition.x = 8
+   vPosition.y = 6
+   vPosition.z = -129
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.23517e-006
+   vS.z = 0
+
+   vT.x = -2.23517e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.40625
+   v0 = -0.0185616
+
+   u1 = 0.40625
+   v1 = -0.0185616
+
+   u2 = 0.40625
+   v2 = -0.0185616
+
+   u3 = 0.40625
+   v3 = -0.0185616
+
+Vertex 19 of 165
+
+   vPosition.x = 8
+   vPosition.y = -6
+   vPosition.z = -129
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.14577e-006
+   vS.z = 0
+
+   vT.x = -2.14577e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.40625
+   v0 = -0.0654366
+
+   u1 = 0.40625
+   v1 = -0.0654366
+
+   u2 = 0.40625
+   v2 = -0.0654366
+
+   u3 = 0.40625
+   v3 = -0.0654366
+
+Vertex 20 of 165
+
+   vPosition.x = 8
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 1.94062e-008
+   vNormal.y = 1
+   vNormal.z = 4.00954e-008
+
+   vS.x = -0.707108
+   vS.y = 4.20739e-008
+   vS.z = -0.707105
+
+   vT.x = -0.707105
+   vT.y = -1.46296e-008
+   vT.z = 0.707108
+
+   vSxT.x = 1.94062e-008
+   vSxT.y = 1
+   vSxT.z = 4.00954e-008
+
+   u0 = 0.669924
+   v0 = -0.972401
+
+   u1 = 0.669924
+   v1 = -0.972401
+
+   u2 = 0.669924
+   v2 = -0.972401
+
+   u3 = 0.669924
+   v3 = -0.972401
+
+Vertex 21 of 165
+
+   vPosition.x = 0
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 3.88123e-008
+   vNormal.y = 1
+   vNormal.z = 3.88123e-008
+
+   vS.x = -0.707108
+   vS.y = 5.48889e-008
+   vS.z = -0.707105
+
+   vT.x = -0.707105
+   vT.y = -1.2955e-013
+   vT.z = 0.707108
+
+   vSxT.x = 3.88123e-008
+   vSxT.y = 1
+   vSxT.z = 3.88123e-008
+
+   u0 = 0.638674
+   v0 = -1.00365
+
+   u1 = 0.638674
+   v1 = -1.00365
+
+   u2 = 0.638674
+   v2 = -1.00365
+
+   u3 = 0.638674
+   v3 = -1.00365
+
+Vertex 22 of 165
+
+   vPosition.x = 0
+   vPosition.y = 6
+   vPosition.z = -129
+
+   vNormal.x = 3.88123e-008
+   vNormal.y = 1
+   vNormal.z = 8.01908e-008
+
+   vS.x = -2.31803e-006
+   vS.y = 8.01909e-008
+   vS.z = -1
+
+   vT.x = -1
+   vT.y = 3.88121e-008
+   vT.z = 2.31803e-006
+
+   vSxT.x = 3.88123e-008
+   vSxT.y = 1
+   vSxT.z = 8.01908e-008
+
+   u0 = 1.14258
+   v0 = -1.00365
+
+   u1 = 1.14258
+   v1 = -1.00365
+
+   u2 = 1.14258
+   v2 = -1.00365
+
+   u3 = 1.14258
+   v3 = -1.00365
+
+Vertex 23 of 165
+
+   vPosition.x = 8
+   vPosition.y = 6
+   vPosition.z = -129
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 8.27569e-008
+
+   vS.x = -2.27012e-006
+   vS.y = 8.27569e-008
+   vS.z = -1
+
+   vT.x = -1
+   vT.y = -1.87868e-013
+   vT.z = 2.27012e-006
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 8.27569e-008
+
+   u0 = 1.14258
+   v0 = -0.9724
+
+   u1 = 1.14258
+   v1 = -0.9724
+
+   u2 = 1.14258
+   v2 = -0.9724
+
+   u3 = 1.14258
+   v3 = -0.9724
+
+Vertex 24 of 165
+
+   vPosition.x = 8
+   vPosition.y = -6
+   vPosition.z = -129
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.18912e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.18912e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = -0.129952
+   v0 = -0.379562
+
+   u1 = -0.129952
+   v1 = -0.379562
+
+   u2 = -0.129952
+   v2 = -0.379562
+
+   u3 = -0.129952
+   v3 = -0.379562
+
+Vertex 25 of 165
+
+   vPosition.x = 8
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.18912e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.18912e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.342704
+   v0 = -0.426436
+
+   u1 = 0.342704
+   v1 = -0.426436
+
+   u2 = 0.342704
+   v2 = -0.426436
+
+   u3 = 0.342704
+   v3 = -0.426436
+
+Vertex 26 of 165
+
+   vPosition.x = 8
+   vPosition.y = 6
+   vPosition.z = -129
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.19109e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.19109e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = -0.129952
+   v0 = -0.426437
+
+   u1 = -0.129952
+   v1 = -0.426437
+
+   u2 = -0.129952
+   v2 = -0.426437
+
+   u3 = -0.129952
+   v3 = -0.426437
+
+Vertex 27 of 165
+
+   vPosition.x = 8
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.18715e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.18715e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.342704
+   v0 = -0.379561
+
+   u1 = 0.342704
+   v1 = -0.379561
+
+   u2 = 0.342704
+   v2 = -0.379561
+
+   u3 = 0.342704
+   v3 = -0.379561
+
+Vertex 28 of 165
+
+   vPosition.x = 0
+   vPosition.y = -6
+   vPosition.z = -129
+
+   vNormal.x = -3.88123e-008
+   vNormal.y = -1
+   vNormal.z = -8.01908e-008
+
+   vS.x = -2.31803e-006
+   vS.y = 8.01909e-008
+   vS.z = -1
+
+   vT.x = 1
+   vT.y = -3.88121e-008
+   vT.z = -2.31803e-006
+
+   vSxT.x = -3.88123e-008
+   vSxT.y = -1
+   vSxT.z = -8.01908e-008
+
+   u0 = 1.14258
+   v0 = -1.00365
+
+   u1 = 1.14258
+   v1 = -1.00365
+
+   u2 = 1.14258
+   v2 = -1.00365
+
+   u3 = 1.14258
+   v3 = -1.00365
+
+Vertex 29 of 165
+
+   vPosition.x = 8
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = -1.94062e-008
+   vNormal.y = -1
+   vNormal.z = -4.00954e-008
+
+   vS.x = -0.707108
+   vS.y = 4.20739e-008
+   vS.z = -0.707105
+
+   vT.x = 0.707105
+   vT.y = 1.46296e-008
+   vT.z = -0.707108
+
+   vSxT.x = -1.94062e-008
+   vSxT.y = -1
+   vSxT.z = -4.00954e-008
+
+   u0 = 0.669924
+   v0 = -0.972401
+
+   u1 = 0.669924
+   v1 = -0.972401
+
+   u2 = 0.669924
+   v2 = -0.972401
+
+   u3 = 0.669924
+   v3 = -0.972401
+
+Vertex 30 of 165
+
+   vPosition.x = 8
+   vPosition.y = -6
+   vPosition.z = -129
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = -8.27569e-008
+
+   vS.x = -2.27012e-006
+   vS.y = 8.27569e-008
+   vS.z = -1
+
+   vT.x = 1
+   vT.y = 1.87868e-013
+   vT.z = -2.27012e-006
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = -8.27569e-008
+
+   u0 = 1.14258
+   v0 = -0.9724
+
+   u1 = 1.14258
+   v1 = -0.9724
+
+   u2 = 1.14258
+   v2 = -0.9724
+
+   u3 = 1.14258
+   v3 = -0.9724
+
+Vertex 31 of 165
+
+   vPosition.x = 0
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = -3.88123e-008
+   vNormal.y = -1
+   vNormal.z = -3.88123e-008
+
+   vS.x = -0.707108
+   vS.y = 5.48889e-008
+   vS.z = -0.707105
+
+   vT.x = 0.707105
+   vT.y = 1.2955e-013
+   vT.z = -0.707108
+
+   vSxT.x = -3.88123e-008
+   vSxT.y = -1
+   vSxT.z = -3.88123e-008
+
+   u0 = 0.638674
+   v0 = -1.00365
+
+   u1 = 0.638674
+   v1 = -1.00365
+
+   u2 = 0.638674
+   v2 = -1.00365
+
+   u3 = 0.638674
+   v3 = -1.00365
+
+Vertex 32 of 165
+
+   vPosition.x = 10
+   vPosition.y = -4.00001
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = -1
+   vS.y = 2.29359e-006
+   vS.z = 0
+
+   vT.x = 2.29359e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.43675
+   v0 = -0.026374
+
+   u1 = 0.43675
+   v1 = -0.026374
+
+   u2 = 0.43675
+   v2 = -0.026374
+
+   u3 = 0.43675
+   v3 = -0.026374
+
+Vertex 33 of 165
+
+   vPosition.x = 60
+   vPosition.y = 3.99999
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = -1
+   vS.y = 2.29359e-006
+   vS.z = 0
+
+   vT.x = 2.29359e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.241437
+   v0 = -0.0576244
+
+   u1 = 0.241437
+   v1 = -0.0576244
+
+   u2 = 0.241437
+   v2 = -0.0576244
+
+   u3 = 0.241437
+   v3 = -0.0576244
+
+Vertex 34 of 165
+
+   vPosition.x = 10
+   vPosition.y = 3.99999
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = -1
+   vS.y = 2.28882e-006
+   vS.z = 0
+
+   vT.x = 2.28882e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.43675
+   v0 = -0.057624
+
+   u1 = 0.43675
+   v1 = -0.057624
+
+   u2 = 0.43675
+   v2 = -0.057624
+
+   u3 = 0.43675
+   v3 = -0.057624
+
+Vertex 35 of 165
+
+   vPosition.x = 60
+   vPosition.y = -4.00001
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = -1
+   vS.y = 2.29836e-006
+   vS.z = 0
+
+   vT.x = 2.29836e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.241437
+   v0 = -0.0263744
+
+   u1 = 0.241437
+   v1 = -0.0263744
+
+   u2 = 0.241437
+   v2 = -0.0263744
+
+   u3 = 0.241437
+   v3 = -0.0263744
+
+Vertex 36 of 165
+
+   vPosition.x = 60
+   vPosition.y = 3.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -1
+   vS.y = 0
+   vS.z = -2.30936e-006
+
+   vT.x = -2.30936e-006
+   vT.y = 0
+   vT.z = 1
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.370438
+   v0 = -0.0410617
+
+   u1 = 0.370438
+   v1 = -0.0410617
+
+   u2 = 0.370438
+   v2 = -0.0410617
+
+   u3 = 0.370438
+   v3 = -0.0410617
+
+Vertex 37 of 165
+
+   vPosition.x = 8
+   vPosition.y = 3.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.707105
+   vS.y = 0
+   vS.z = -0.707108
+
+   vT.x = -0.707108
+   vT.y = 0
+   vT.z = 0.707105
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.573563
+   v0 = -0.0410612
+
+   u1 = 0.573563
+   v1 = -0.0410612
+
+   u2 = 0.573563
+   v2 = -0.0410612
+
+   u3 = 0.573563
+   v3 = -0.0410612
+
+Vertex 38 of 165
+
+   vPosition.x = 10
+   vPosition.y = 3.99999
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.707105
+   vS.y = 0
+   vS.z = -0.707108
+
+   vT.x = -0.707108
+   vT.y = 0
+   vT.z = 0.707105
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.56575
+   v0 = -0.0488737
+
+   u1 = 0.56575
+   v1 = -0.0488737
+
+   u2 = 0.56575
+   v2 = -0.0488737
+
+   u3 = 0.56575
+   v3 = -0.0488737
+
+Vertex 39 of 165
+
+   vPosition.x = 60
+   vPosition.y = 3.99999
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -1
+   vS.y = 0
+   vS.z = -2.30789e-006
+
+   vT.x = -2.30789e-006
+   vT.y = 0
+   vT.z = 1
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.370438
+   v0 = -0.0488742
+
+   u1 = 0.370438
+   v1 = -0.0488742
+
+   u2 = 0.370438
+   v2 = -0.0488742
+
+   u3 = 0.370438
+   v3 = -0.0488742
+
+Vertex 40 of 165
+
+   vPosition.x = 60
+   vPosition.y = -4.00001
+   vPosition.z = -10
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.14577e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.14577e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.784063
+   v0 = -0.0263732
+
+   u1 = 0.784063
+   v1 = -0.0263732
+
+   u2 = 0.784063
+   v2 = -0.0263732
+
+   u3 = 0.784063
+   v3 = -0.0263732
+
+Vertex 41 of 165
+
+   vPosition.x = 60
+   vPosition.y = 3.99999
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.14577e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.14577e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.791875
+   v0 = -0.0576232
+
+   u1 = 0.791875
+   v1 = -0.0576232
+
+   u2 = 0.791875
+   v2 = -0.0576232
+
+   u3 = 0.791875
+   v3 = -0.0576232
+
+Vertex 42 of 165
+
+   vPosition.x = 60
+   vPosition.y = 3.99999
+   vPosition.z = -10
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.14577e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.14577e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.784063
+   v0 = -0.0576232
+
+   u1 = 0.784063
+   v1 = -0.0576232
+
+   u2 = 0.784063
+   v2 = -0.0576232
+
+   u3 = 0.784063
+   v3 = -0.0576232
+
+Vertex 43 of 165
+
+   vPosition.x = 60
+   vPosition.y = -4.00001
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.14577e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.14577e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.791875
+   v0 = -0.0263732
+
+   u1 = 0.791875
+   v1 = -0.0263732
+
+   u2 = 0.791875
+   v2 = -0.0263732
+
+   u3 = 0.791875
+   v3 = -0.0263732
+
+Vertex 44 of 165
+
+   vPosition.x = 60
+   vPosition.y = -4.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -1
+   vS.y = 0
+   vS.z = -2.30936e-006
+
+   vT.x = 2.30936e-006
+   vT.y = 0
+   vT.z = -1
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.370438
+   v0 = -0.0410617
+
+   u1 = 0.370438
+   v1 = -0.0410617
+
+   u2 = 0.370438
+   v2 = -0.0410617
+
+   u3 = 0.370438
+   v3 = -0.0410617
+
+Vertex 45 of 165
+
+   vPosition.x = 60
+   vPosition.y = -4.00001
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -1
+   vS.y = 0
+   vS.z = -2.30789e-006
+
+   vT.x = 2.30789e-006
+   vT.y = 0
+   vT.z = -1
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.370438
+   v0 = -0.0488742
+
+   u1 = 0.370438
+   v1 = -0.0488742
+
+   u2 = 0.370438
+   v2 = -0.0488742
+
+   u3 = 0.370438
+   v3 = -0.0488742
+
+Vertex 46 of 165
+
+   vPosition.x = 10
+   vPosition.y = -4.00001
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.707105
+   vS.y = 0
+   vS.z = -0.707108
+
+   vT.x = 0.707108
+   vT.y = 0
+   vT.z = -0.707105
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.56575
+   v0 = -0.0488737
+
+   u1 = 0.56575
+   v1 = -0.0488737
+
+   u2 = 0.56575
+   v2 = -0.0488737
+
+   u3 = 0.56575
+   v3 = -0.0488737
+
+Vertex 47 of 165
+
+   vPosition.x = 8
+   vPosition.y = -4.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.707105
+   vS.y = 0
+   vS.z = -0.707108
+
+   vT.x = 0.707108
+   vT.y = 0
+   vT.z = -0.707105
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.573563
+   v0 = -0.0410612
+
+   u1 = 0.573563
+   v1 = -0.0410612
+
+   u2 = 0.573563
+   v2 = -0.0410612
+
+   u3 = 0.573563
+   v3 = -0.0410612
+
+Vertex 48 of 165
+
+   vPosition.x = 8
+   vPosition.y = 3.99999
+   vPosition.z = -96
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = -1
+   vS.y = 2.38419e-006
+   vS.z = 0
+
+   vT.x = 2.38419e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.444562
+   v0 = -0.057624
+
+   u1 = 0.444562
+   v1 = -0.057624
+
+   u2 = 0.444562
+   v2 = -0.057624
+
+   u3 = 0.444562
+   v3 = -0.057624
+
+Vertex 49 of 165
+
+   vPosition.x = 8
+   vPosition.y = -4.00001
+   vPosition.z = -96
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = -1
+   vS.y = 2.26498e-006
+   vS.z = 0
+
+   vT.x = 2.26498e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.444562
+   v0 = -0.026374
+
+   u1 = 0.444562
+   v1 = -0.026374
+
+   u2 = 0.444562
+   v2 = -0.026374
+
+   u3 = 0.444562
+   v3 = -0.026374
+
+Vertex 50 of 165
+
+   vPosition.x = 10
+   vPosition.y = 3.99999
+   vPosition.z = -96
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = -1
+   vS.y = 2.26498e-006
+   vS.z = 0
+
+   vT.x = 2.26498e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.43675
+   v0 = -0.057624
+
+   u1 = 0.43675
+   v1 = -0.057624
+
+   u2 = 0.43675
+   v2 = -0.057624
+
+   u3 = 0.43675
+   v3 = -0.057624
+
+Vertex 51 of 165
+
+   vPosition.x = 10
+   vPosition.y = -4.00001
+   vPosition.z = -96
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = -1
+   vS.y = 2.14577e-006
+   vS.z = 0
+
+   vT.x = 2.14577e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.43675
+   v0 = -0.026374
+
+   u1 = 0.43675
+   v1 = -0.026374
+
+   u2 = 0.43675
+   v2 = -0.026374
+
+   u3 = 0.43675
+   v3 = -0.026374
+
+Vertex 52 of 165
+
+   vPosition.x = 10
+   vPosition.y = 3.99999
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.707105
+   vS.y = 0
+   vS.z = -0.707108
+
+   vT.x = -0.707108
+   vT.y = 0
+   vT.z = 0.707105
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.553281
+   v0 = -0.048905
+
+   u1 = 0.553281
+   v1 = -0.048905
+
+   u2 = 0.553281
+   v2 = -0.048905
+
+   u3 = 0.553281
+   v3 = -0.048905
+
+Vertex 53 of 165
+
+   vPosition.x = 8
+   vPosition.y = 3.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.707105
+   vS.y = 0
+   vS.z = -0.707108
+
+   vT.x = -0.707108
+   vT.y = 0
+   vT.z = 0.707105
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.545469
+   v0 = -0.0410925
+
+   u1 = 0.545469
+   v1 = -0.0410925
+
+   u2 = 0.545469
+   v2 = -0.0410925
+
+   u3 = 0.545469
+   v3 = -0.0410925
+
+Vertex 54 of 165
+
+   vPosition.x = 8
+   vPosition.y = 3.99999
+   vPosition.z = -96
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 2.29648e-006
+   vS.y = 0
+   vS.z = -1
+
+   vT.x = -1
+   vT.y = 0
+   vT.z = -2.29648e-006
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.889219
+   v0 = -0.0410918
+
+   u1 = 0.889219
+   v1 = -0.0410918
+
+   u2 = 0.889219
+   v2 = -0.0410918
+
+   u3 = 0.889219
+   v3 = -0.0410918
+
+Vertex 55 of 165
+
+   vPosition.x = 10
+   vPosition.y = 3.99999
+   vPosition.z = -96
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 2.29547e-006
+   vS.y = 0
+   vS.z = -1
+
+   vT.x = -1
+   vT.y = 0
+   vT.z = -2.29547e-006
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.889219
+   v0 = -0.0489043
+
+   u1 = 0.889219
+   v1 = -0.0489043
+
+   u2 = 0.889219
+   v2 = -0.0489043
+
+   u3 = 0.889219
+   v3 = -0.0489043
+
+Vertex 56 of 165
+
+   vPosition.x = 10
+   vPosition.y = -4.00001
+   vPosition.z = -96
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.2927e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.2927e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.448125
+   v0 = -0.026374
+
+   u1 = 0.448125
+   v1 = -0.026374
+
+   u2 = 0.448125
+   v2 = -0.026374
+
+   u3 = 0.448125
+   v3 = -0.026374
+
+Vertex 57 of 165
+
+   vPosition.x = 10
+   vPosition.y = 3.99999
+   vPosition.z = -10
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.2927e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.2927e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.784063
+   v0 = -0.0576232
+
+   u1 = 0.784063
+   v1 = -0.0576232
+
+   u2 = 0.784063
+   v2 = -0.0576232
+
+   u3 = 0.784063
+   v3 = -0.0576232
+
+Vertex 58 of 165
+
+   vPosition.x = 10
+   vPosition.y = 3.99999
+   vPosition.z = -96
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.28993e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.28993e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.448125
+   v0 = -0.057624
+
+   u1 = 0.448125
+   v1 = -0.057624
+
+   u2 = 0.448125
+   v2 = -0.057624
+
+   u3 = 0.448125
+   v3 = -0.057624
+
+Vertex 59 of 165
+
+   vPosition.x = 10
+   vPosition.y = -4.00001
+   vPosition.z = -10
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.29547e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.29547e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.784063
+   v0 = -0.0263732
+
+   u1 = 0.784063
+   v1 = -0.0263732
+
+   u2 = 0.784063
+   v2 = -0.0263732
+
+   u3 = 0.784063
+   v3 = -0.0263732
+
+Vertex 60 of 165
+
+   vPosition.x = 8
+   vPosition.y = -4.00001
+   vPosition.z = -96
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 2.29648e-006
+   vS.y = 0
+   vS.z = -1
+
+   vT.x = 1
+   vT.y = 0
+   vT.z = 2.29648e-006
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.889219
+   v0 = -0.0410918
+
+   u1 = 0.889219
+   v1 = -0.0410918
+
+   u2 = 0.889219
+   v2 = -0.0410918
+
+   u3 = 0.889219
+   v3 = -0.0410918
+
+Vertex 61 of 165
+
+   vPosition.x = 10
+   vPosition.y = -4.00001
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.707105
+   vS.y = 0
+   vS.z = -0.707108
+
+   vT.x = 0.707108
+   vT.y = 0
+   vT.z = -0.707105
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.553281
+   v0 = -0.048905
+
+   u1 = 0.553281
+   v1 = -0.048905
+
+   u2 = 0.553281
+   v2 = -0.048905
+
+   u3 = 0.553281
+   v3 = -0.048905
+
+Vertex 62 of 165
+
+   vPosition.x = 10
+   vPosition.y = -4.00001
+   vPosition.z = -96
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 2.29547e-006
+   vS.y = 0
+   vS.z = -1
+
+   vT.x = 1
+   vT.y = 0
+   vT.z = 2.29547e-006
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.889219
+   v0 = -0.0489043
+
+   u1 = 0.889219
+   v1 = -0.0489043
+
+   u2 = 0.889219
+   v2 = -0.0489043
+
+   u3 = 0.889219
+   v3 = -0.0489043
+
+Vertex 63 of 165
+
+   vPosition.x = 8
+   vPosition.y = -4.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.707105
+   vS.y = 0
+   vS.z = -0.707108
+
+   vT.x = 0.707108
+   vT.y = 0
+   vT.z = -0.707105
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.545469
+   v0 = -0.0410925
+
+   u1 = 0.545469
+   v1 = -0.0410925
+
+   u2 = 0.545469
+   v2 = -0.0410925
+
+   u3 = 0.545469
+   v3 = -0.0410925
+
+Vertex 64 of 165
+
+   vPosition.x = 10
+   vPosition.y = -2.00001
+   vPosition.z = -78
+
+   vNormal.x = 0.991068
+   vNormal.y = 0
+   vNormal.z = -0.133356
+
+   vS.x = 0.133356
+   vS.y = 1.78766e-006
+   vS.z = 0.991068
+
+   vT.x = 2.38396e-007
+   vT.y = -1
+   vT.z = 1.77169e-006
+
+   vSxT.x = 0.991068
+   vSxT.y = 0
+   vSxT.z = -0.133356
+
+   u0 = 0.260281
+   v0 = -0.0379994
+
+   u1 = 0.260281
+   v1 = -0.0379994
+
+   u2 = 0.260281
+   v2 = -0.0379994
+
+   u3 = 0.260281
+   v3 = -0.0379994
+
+Vertex 65 of 165
+
+   vPosition.x = 13.5015
+   vPosition.y = 1.99999
+   vPosition.z = -51.9775
+
+   vNormal.x = 0.973582
+   vNormal.y = 0
+   vNormal.z = -0.228338
+
+   vS.x = 0.228338
+   vS.y = 1.78295e-006
+   vS.z = 0.973582
+
+   vT.x = 4.07116e-007
+   vT.y = -1
+   vT.z = 1.73585e-006
+
+   vSxT.x = 0.973582
+   vSxT.y = 0
+   vSxT.z = -0.228338
+
+   u0 = 0.361932
+   v0 = -0.0579992
+
+   u1 = 0.361932
+   v1 = -0.0579992
+
+   u2 = 0.361932
+   v2 = -0.0579992
+
+   u3 = 0.361932
+   v3 = -0.0579992
+
+Vertex 66 of 165
+
+   vPosition.x = 10
+   vPosition.y = 1.99999
+   vPosition.z = -78
+
+   vNormal.x = 0.991068
+   vNormal.y = 0
+   vNormal.z = -0.133356
+
+   vS.x = 0.133356
+   vS.y = 1.78766e-006
+   vS.z = 0.991068
+
+   vT.x = 2.38396e-007
+   vT.y = -1
+   vT.z = 1.77169e-006
+
+   vSxT.x = 0.991068
+   vSxT.y = 0
+   vSxT.z = -0.133356
+
+   u0 = 0.260281
+   v0 = -0.0579994
+
+   u1 = 0.260281
+   v1 = -0.0579994
+
+   u2 = 0.260281
+   v2 = -0.0579994
+
+   u3 = 0.260281
+   v3 = -0.0579994
+
+Vertex 67 of 165
+
+   vPosition.x = 13.5015
+   vPosition.y = -2.00001
+   vPosition.z = -51.9775
+
+   vNormal.x = 0.94672
+   vNormal.y = 0
+   vNormal.z = -0.322058
+
+   vS.x = 0.322058
+   vS.y = 1.76133e-006
+   vS.z = 0.94672
+
+   vT.x = 5.67252e-007
+   vT.y = -1
+   vT.z = 1.66749e-006
+
+   vSxT.x = 0.94672
+   vSxT.y = 0
+   vSxT.z = -0.322058
+
+   u0 = 0.361932
+   v0 = -0.0379992
+
+   u1 = 0.361932
+   v1 = -0.0379992
+
+   u2 = 0.361932
+   v2 = -0.0379992
+
+   u3 = 0.361932
+   v3 = -0.0379992
+
+Vertex 68 of 165
+
+   vPosition.x = 8
+   vPosition.y = 1.99999
+   vPosition.z = -78
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.325281
+   v0 = -0.0579992
+
+   u1 = 0.325281
+   v1 = -0.0579992
+
+   u2 = 0.325281
+   v2 = -0.0579992
+
+   u3 = 0.325281
+   v3 = -0.0579992
+
+Vertex 69 of 165
+
+   vPosition.x = 10
+   vPosition.y = -2.00001
+   vPosition.z = -78
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.325281
+   v0 = -0.0379992
+
+   u1 = 0.325281
+   v1 = -0.0379992
+
+   u2 = 0.325281
+   v2 = -0.0379992
+
+   u3 = 0.325281
+   v3 = -0.0379992
+
+Vertex 70 of 165
+
+   vPosition.x = 10
+   vPosition.y = 1.99999
+   vPosition.z = -78
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.325281
+   v0 = -0.0579992
+
+   u1 = 0.325281
+   v1 = -0.0579992
+
+   u2 = 0.325281
+   v2 = -0.0579992
+
+   u3 = 0.325281
+   v3 = -0.0579992
+
+Vertex 71 of 165
+
+   vPosition.x = 8
+   vPosition.y = -2.00001
+   vPosition.z = -78
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.325281
+   v0 = -0.0379992
+
+   u1 = 0.325281
+   v1 = -0.0379992
+
+   u2 = 0.325281
+   v2 = -0.0379992
+
+   u3 = 0.325281
+   v3 = -0.0379992
+
+Vertex 72 of 165
+
+   vPosition.x = 11.6538
+   vPosition.y = 1.99999
+   vPosition.z = -51.2122
+
+   vNormal.x = -0.972916
+   vNormal.y = 0
+   vNormal.z = 0.231159
+
+   vS.x = 0.231159
+   vS.y = 1.78797e-006
+   vS.z = 0.972916
+
+   vT.x = -4.13305e-007
+   vT.y = 1
+   vT.z = -1.73954e-006
+
+   vSxT.x = -0.972916
+   vSxT.y = 0
+   vSxT.z = 0.231159
+
+   u0 = 0.354921
+   v0 = -0.0579992
+
+   u1 = 0.354921
+   v1 = -0.0579992
+
+   u2 = 0.354921
+   v2 = -0.0579992
+
+   u3 = 0.354921
+   v3 = -0.0579992
+
+Vertex 73 of 165
+
+   vPosition.x = 8
+   vPosition.y = -2.00001
+   vPosition.z = -78
+
+   vNormal.x = -0.990826
+   vNormal.y = 0
+   vNormal.z = 0.135146
+
+   vS.x = 0.135146
+   vS.y = 1.79128e-006
+   vS.z = 0.990826
+
+   vT.x = -2.42084e-007
+   vT.y = 1
+   vT.z = -1.77485e-006
+
+   vSxT.x = -0.990826
+   vSxT.y = 0
+   vSxT.z = 0.135146
+
+   u0 = 0.250281
+   v0 = -0.0379994
+
+   u1 = 0.250281
+   v1 = -0.0379994
+
+   u2 = 0.250281
+   v2 = -0.0379994
+
+   u3 = 0.250281
+   v3 = -0.0379994
+
+Vertex 74 of 165
+
+   vPosition.x = 8
+   vPosition.y = 1.99999
+   vPosition.z = -78
+
+   vNormal.x = -0.990826
+   vNormal.y = 0
+   vNormal.z = 0.135146
+
+   vS.x = 0.135146
+   vS.y = 1.79128e-006
+   vS.z = 0.990826
+
+   vT.x = -2.42084e-007
+   vT.y = 1
+   vT.z = -1.77485e-006
+
+   vSxT.x = -0.990826
+   vSxT.y = 0
+   vSxT.z = 0.135146
+
+   u0 = 0.250281
+   v0 = -0.0579994
+
+   u1 = 0.250281
+   v1 = -0.0579994
+
+   u2 = 0.250281
+   v2 = -0.0579994
+
+   u3 = 0.250281
+   v3 = -0.0579994
+
+Vertex 75 of 165
+
+   vPosition.x = 11.6538
+   vPosition.y = -2.00001
+   vPosition.z = -51.2122
+
+   vNormal.x = -0.945417
+   vNormal.y = 0
+   vNormal.z = 0.325865
+
+   vS.x = 0.325865
+   vS.y = 1.76732e-006
+   vS.z = 0.945417
+
+   vT.x = -5.75906e-007
+   vT.y = 1
+   vT.z = -1.67085e-006
+
+   vSxT.x = -0.945417
+   vSxT.y = 0
+   vSxT.z = 0.325865
+
+   u0 = 0.354921
+   v0 = -0.0379992
+
+   u1 = 0.354921
+   v1 = -0.0379992
+
+   u2 = 0.354921
+   v2 = -0.0379992
+
+   u3 = 0.354921
+   v3 = -0.0379992
+
+Vertex 76 of 165
+
+   vPosition.x = 23.4731
+   vPosition.y = 1.99999
+   vPosition.z = -29.9167
+
+   vNormal.x = 0.854478
+   vNormal.y = 0
+   vNormal.z = -0.519487
+
+   vS.x = 0.519487
+   vS.y = 1.70719e-006
+   vS.z = 0.854478
+
+   vT.x = 8.86864e-007
+   vT.y = -1
+   vT.z = 1.45876e-006
+
+   vSxT.x = 0.854478
+   vSxT.y = 0
+   vSxT.z = -0.519487
+
+   u0 = 0.453107
+   v0 = -0.057999
+
+   u1 = 0.453107
+   v1 = -0.057999
+
+   u2 = 0.453107
+   v2 = -0.057999
+
+   u3 = 0.453107
+   v3 = -0.057999
+
+Vertex 77 of 165
+
+   vPosition.x = 23.4731
+   vPosition.y = -2.00001
+   vPosition.z = -29.9167
+
+   vNormal.x = 0.783924
+   vNormal.y = 0
+   vNormal.z = -0.620857
+
+   vS.x = 0.620857
+   vS.y = 1.66488e-006
+   vS.z = 0.783924
+
+   vT.x = 1.03365e-006
+   vT.y = -1
+   vT.z = 1.30514e-006
+
+   vSxT.x = 0.783924
+   vSxT.y = 0
+   vSxT.z = -0.620857
+
+   u0 = 0.453107
+   v0 = -0.037999
+
+   u1 = 0.453107
+   v1 = -0.037999
+
+   u2 = 0.453107
+   v2 = -0.037999
+
+   u3 = 0.453107
+   v3 = -0.037999
+
+Vertex 78 of 165
+
+   vPosition.x = 22.0589
+   vPosition.y = 1.99999
+   vPosition.z = -28.5025
+
+   vNormal.x = -0.851523
+   vNormal.y = 0
+   vNormal.z = 0.524318
+
+   vS.x = 0.524318
+   vS.y = 1.72755e-006
+   vS.z = 0.851523
+
+   vT.x = -9.05785e-007
+   vT.y = 1
+   vT.z = -1.47105e-006
+
+   vSxT.x = -0.851523
+   vSxT.y = 0
+   vSxT.z = 0.524318
+
+   u0 = 0.448631
+   v0 = -0.057999
+
+   u1 = 0.448631
+   v1 = -0.057999
+
+   u2 = 0.448631
+   v2 = -0.057999
+
+   u3 = 0.448631
+   v3 = -0.057999
+
+Vertex 79 of 165
+
+   vPosition.x = 22.0589
+   vPosition.y = -2.00001
+   vPosition.z = -28.5025
+
+   vNormal.x = -0.780037
+   vNormal.y = 0
+   vNormal.z = 0.625733
+
+   vS.x = 0.625733
+   vS.y = 1.69875e-006
+   vS.z = 0.780037
+
+   vT.x = -1.06296e-006
+   vT.y = 1
+   vT.z = -1.32508e-006
+
+   vSxT.x = -0.780037
+   vSxT.y = 0
+   vSxT.z = 0.625733
+
+   u0 = 0.448631
+   v0 = -0.037999
+
+   u1 = 0.448631
+   v1 = -0.037999
+
+   u2 = 0.448631
+   v2 = -0.037999
+
+   u3 = 0.448631
+   v3 = -0.037999
+
+Vertex 80 of 165
+
+   vPosition.x = 38.3966
+   vPosition.y = 1.99999
+   vPosition.z = -15.1762
+
+   vNormal.x = 0.578041
+   vNormal.y = 0
+   vNormal.z = -0.816007
+
+   vS.x = 0.816008
+   vS.y = 1.65133e-006
+   vS.z = 0.578041
+
+   vT.x = 1.3475e-006
+   vT.y = -1
+   vT.z = 9.54537e-007
+
+   vSxT.x = 0.578041
+   vSxT.y = 0
+   vSxT.z = -0.816007
+
+   u0 = 0.525687
+   v0 = -0.0579988
+
+   u1 = 0.525687
+   v1 = -0.0579988
+
+   u2 = 0.525687
+   v2 = -0.0579988
+
+   u3 = 0.525687
+   v3 = -0.0579988
+
+Vertex 81 of 165
+
+   vPosition.x = 38.3966
+   vPosition.y = -2.00001
+   vPosition.z = -15.1762
+
+   vNormal.x = 0.433963
+   vNormal.y = 0
+   vNormal.z = -0.900931
+
+   vS.x = 0.900931
+   vS.y = 1.66018e-006
+   vS.z = 0.433963
+
+   vT.x = 1.49571e-006
+   vT.y = -1
+   vT.z = 7.20459e-007
+
+   vSxT.x = 0.433963
+   vSxT.y = 0
+   vSxT.z = -0.900931
+
+   u0 = 0.525687
+   v0 = -0.0379988
+
+   u1 = 0.525687
+   v1 = -0.0379988
+
+   u2 = 0.525687
+   v2 = -0.0379988
+
+   u3 = 0.525687
+   v3 = -0.0379988
+
+Vertex 82 of 165
+
+   vPosition.x = 37.6312
+   vPosition.y = 1.99999
+   vPosition.z = -13.3284
+
+   vNormal.x = -0.573325
+   vNormal.y = 0
+   vNormal.z = 0.819328
+
+   vS.x = 0.819328
+   vS.y = 1.71331e-006
+   vS.z = 0.573325
+
+   vT.x = -1.40376e-006
+   vT.y = 1
+   vT.z = -9.8228e-007
+
+   vSxT.x = -0.573325
+   vSxT.y = 0
+   vSxT.z = 0.819328
+
+   u0 = 0.527905
+   v0 = -0.0579988
+
+   u1 = 0.527905
+   v1 = -0.0579988
+
+   u2 = 0.527905
+   v2 = -0.0579988
+
+   u3 = 0.527905
+   v3 = -0.0579988
+
+Vertex 83 of 165
+
+   vPosition.x = 37.6312
+   vPosition.y = -2.00001
+   vPosition.z = -13.3284
+
+   vNormal.x = -0.429754
+   vNormal.y = 0
+   vNormal.z = 0.902946
+
+   vS.x = 0.902946
+   vS.y = 1.73701e-006
+   vS.z = 0.429754
+
+   vT.x = -1.56842e-006
+   vT.y = 1
+   vT.z = -7.46485e-007
+
+   vSxT.x = -0.429754
+   vSxT.y = 0
+   vSxT.z = 0.902946
+
+   u0 = 0.527905
+   v0 = -0.0379988
+
+   u1 = 0.527905
+   v1 = -0.0379988
+
+   u2 = 0.527905
+   v2 = -0.0379988
+
+   u3 = 0.527905
+   v3 = -0.0379988
+
+Vertex 84 of 165
+
+   vPosition.x = 56
+   vPosition.y = 1.99999
+   vPosition.z = -10
+
+   vNormal.x = 0.282102
+   vNormal.y = 0
+   vNormal.z = -0.959384
+
+   vS.x = 0.959384
+   vS.y = 1.62423e-006
+   vS.z = 0.282102
+
+   vT.x = 1.55826e-006
+   vT.y = -1
+   vT.z = 4.58198e-007
+
+   vSxT.x = 0.282102
+   vSxT.y = 0
+   vSxT.z = -0.959384
+
+   u0 = 0.590906
+   v0 = -0.0579986
+
+   u1 = 0.590906
+   v1 = -0.0579986
+
+   u2 = 0.590906
+   v2 = -0.0579986
+
+   u3 = 0.590906
+   v3 = -0.0579986
+
+Vertex 85 of 165
+
+   vPosition.x = 56
+   vPosition.y = -2.00001
+   vPosition.z = -10
+
+   vNormal.x = 0.282102
+   vNormal.y = 0
+   vNormal.z = -0.959384
+
+   vS.x = 0.959384
+   vS.y = 1.62423e-006
+   vS.z = 0.282102
+
+   vT.x = 1.55826e-006
+   vT.y = -1
+   vT.z = 4.58198e-007
+
+   vSxT.x = 0.282102
+   vSxT.y = 0
+   vSxT.z = -0.959384
+
+   u0 = 0.590906
+   v0 = -0.0379986
+
+   u1 = 0.590906
+   v1 = -0.0379986
+
+   u2 = 0.590906
+   v2 = -0.0379986
+
+   u3 = 0.590906
+   v3 = -0.0379986
+
+Vertex 86 of 165
+
+   vPosition.x = 56
+   vPosition.y = 1.99999
+   vPosition.z = -8
+
+   vNormal.x = -0.278596
+   vNormal.y = 0
+   vNormal.z = 0.960408
+
+   vS.x = 0.960408
+   vS.y = 1.71403e-006
+   vS.z = 0.278596
+
+   vT.x = -1.64617e-006
+   vT.y = 1
+   vT.z = -4.77521e-007
+
+   vSxT.x = -0.278596
+   vSxT.y = 0
+   vSxT.z = 0.960408
+
+   u0 = 0.598719
+   v0 = -0.0579986
+
+   u1 = 0.598719
+   v1 = -0.0579986
+
+   u2 = 0.598719
+   v2 = -0.0579986
+
+   u3 = 0.598719
+   v3 = -0.0579986
+
+Vertex 87 of 165
+
+   vPosition.x = 56
+   vPosition.y = -2.00001
+   vPosition.z = -8
+
+   vNormal.x = -0.278596
+   vNormal.y = 0
+   vNormal.z = 0.960408
+
+   vS.x = 0.960408
+   vS.y = 1.71403e-006
+   vS.z = 0.278596
+
+   vT.x = -1.64617e-006
+   vT.y = 1
+   vT.z = -4.77521e-007
+
+   vSxT.x = -0.278596
+   vSxT.y = 0
+   vSxT.z = 0.960408
+
+   u0 = 0.598719
+   v0 = -0.0379986
+
+   u1 = 0.598719
+   v1 = -0.0379986
+
+   u2 = 0.598719
+   v2 = -0.0379986
+
+   u3 = 0.598719
+   v3 = -0.0379986
+
+Vertex 88 of 165
+
+   vPosition.x = 56
+   vPosition.y = -2.00001
+   vPosition.z = -10
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 1.86265e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 1.86265e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.590906
+   v0 = -0.0379986
+
+   u1 = 0.590906
+   v1 = -0.0379986
+
+   u2 = 0.590906
+   v2 = -0.0379986
+
+   u3 = 0.590906
+   v3 = -0.0379986
+
+Vertex 89 of 165
+
+   vPosition.x = 56
+   vPosition.y = 1.99999
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 1.86265e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 1.86265e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.598719
+   v0 = -0.0579986
+
+   u1 = 0.598719
+   v1 = -0.0579986
+
+   u2 = 0.598719
+   v2 = -0.0579986
+
+   u3 = 0.598719
+   v3 = -0.0579986
+
+Vertex 90 of 165
+
+   vPosition.x = 56
+   vPosition.y = 1.99999
+   vPosition.z = -10
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 1.86265e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 1.86265e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.590906
+   v0 = -0.0579986
+
+   u1 = 0.590906
+   v1 = -0.0579986
+
+   u2 = 0.590906
+   v2 = -0.0579986
+
+   u3 = 0.590906
+   v3 = -0.0579986
+
+Vertex 91 of 165
+
+   vPosition.x = 56
+   vPosition.y = -2.00001
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 1.86265e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 1.86265e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.598719
+   v0 = -0.0379986
+
+   u1 = 0.598719
+   v1 = -0.0379986
+
+   u2 = 0.598719
+   v2 = -0.0379986
+
+   u3 = 0.598719
+   v3 = -0.0379986
+
+Vertex 92 of 165
+
+   vPosition.x = 13.5015
+   vPosition.y = 1.99999
+   vPosition.z = -51.9775
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.228925
+   vS.y = 0
+   vS.z = -0.973444
+
+   vT.x = -0.973444
+   vT.y = 0
+   vT.z = 0.228925
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.864784
+   v0 = -0.0528155
+
+   u1 = 0.864784
+   v1 = -0.0528155
+
+   u2 = 0.864784
+   v2 = -0.0528155
+
+   u3 = 0.864784
+   v3 = -0.0528155
+
+Vertex 93 of 165
+
+   vPosition.x = 8
+   vPosition.y = 1.99999
+   vPosition.z = -78
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.134249
+   vS.y = 0
+   vS.z = -0.990948
+
+   vT.x = -0.990948
+   vT.y = 0
+   vT.z = 0.134249
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.968436
+   v0 = -0.0433126
+
+   u1 = 0.968436
+   v1 = -0.0433126
+
+   u2 = 0.968436
+   v2 = -0.0433126
+
+   u3 = 0.968436
+   v3 = -0.0433126
+
+Vertex 94 of 165
+
+   vPosition.x = 10
+   vPosition.y = 1.99999
+   vPosition.z = -78
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.133354
+   vS.y = 0
+   vS.z = -0.991068
+
+   vT.x = -0.991068
+   vT.y = 0
+   vT.z = 0.133354
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.967348
+   v0 = -0.0528153
+
+   u1 = 0.967348
+   v1 = -0.0528153
+
+   u2 = 0.967348
+   v2 = -0.0528153
+
+   u3 = 0.967348
+   v3 = -0.0528153
+
+Vertex 95 of 165
+
+   vPosition.x = 11.6538
+   vPosition.y = 1.99999
+   vPosition.z = -51.2122
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.324242
+   vS.y = 0
+   vS.z = -0.945974
+
+   vT.x = -0.945974
+   vT.y = 0
+   vT.z = 0.324242
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.862828
+   v0 = -0.0433128
+
+   u1 = 0.862828
+   v1 = -0.0433128
+
+   u2 = 0.862828
+   v2 = -0.0433128
+
+   u3 = 0.862828
+   v3 = -0.0433128
+
+Vertex 96 of 165
+
+   vPosition.x = 8
+   vPosition.y = -2.00001
+   vPosition.z = -78
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.134249
+   vS.y = 0
+   vS.z = -0.990948
+
+   vT.x = 0.990948
+   vT.y = 0
+   vT.z = -0.134249
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.968436
+   v0 = -0.0433126
+
+   u1 = 0.968436
+   v1 = -0.0433126
+
+   u2 = 0.968436
+   v2 = -0.0433126
+
+   u3 = 0.968436
+   v3 = -0.0433126
+
+Vertex 97 of 165
+
+   vPosition.x = 13.5015
+   vPosition.y = -2.00001
+   vPosition.z = -51.9775
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.228925
+   vS.y = 0
+   vS.z = -0.973444
+
+   vT.x = 0.973444
+   vT.y = 0
+   vT.z = -0.228925
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.864784
+   v0 = -0.0528155
+
+   u1 = 0.864784
+   v1 = -0.0528155
+
+   u2 = 0.864784
+   v2 = -0.0528155
+
+   u3 = 0.864784
+   v3 = -0.0528155
+
+Vertex 98 of 165
+
+   vPosition.x = 10
+   vPosition.y = -2.00001
+   vPosition.z = -78
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.133354
+   vS.y = 0
+   vS.z = -0.991068
+
+   vT.x = 0.991068
+   vT.y = 0
+   vT.z = -0.133354
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.967348
+   v0 = -0.0528153
+
+   u1 = 0.967348
+   v1 = -0.0528153
+
+   u2 = 0.967348
+   v2 = -0.0528153
+
+   u3 = 0.967348
+   v3 = -0.0528153
+
+Vertex 99 of 165
+
+   vPosition.x = 11.6538
+   vPosition.y = -2.00001
+   vPosition.z = -51.2122
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.324242
+   vS.y = 0
+   vS.z = -0.945974
+
+   vT.x = 0.945974
+   vT.y = 0
+   vT.z = -0.324242
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.862828
+   v0 = -0.0433128
+
+   u1 = 0.862828
+   v1 = -0.0433128
+
+   u2 = 0.862828
+   v2 = -0.0433128
+
+   u3 = 0.862828
+   v3 = -0.0433128
+
+Vertex 100 of 165
+
+   vPosition.x = 23.4731
+   vPosition.y = 1.99999
+   vPosition.z = -29.9167
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.520953
+   vS.y = 0
+   vS.z = -0.853585
+
+   vT.x = -0.853585
+   vT.y = 0
+   vT.z = 0.520953
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.770988
+   v0 = -0.0528157
+
+   u1 = 0.770988
+   v1 = -0.0528157
+
+   u2 = 0.770988
+   v2 = -0.0528157
+
+   u3 = 0.770988
+   v3 = -0.0528157
+
+Vertex 101 of 165
+
+   vPosition.x = 11.6538
+   vPosition.y = 1.99999
+   vPosition.z = -51.2122
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.324242
+   vS.y = 0
+   vS.z = -0.945974
+
+   vT.x = -0.945974
+   vT.y = 0
+   vT.z = 0.324242
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.86576
+   v0 = -0.0433128
+
+   u1 = 0.86576
+   v1 = -0.0433128
+
+   u2 = 0.86576
+   v2 = -0.0433128
+
+   u3 = 0.86576
+   v3 = -0.0433128
+
+Vertex 102 of 165
+
+   vPosition.x = 13.5015
+   vPosition.y = 1.99999
+   vPosition.z = -51.9775
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.228925
+   vS.y = 0
+   vS.z = -0.973444
+
+   vT.x = -0.973444
+   vT.y = 0
+   vT.z = 0.228925
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.865555
+   v0 = -0.0528155
+
+   u1 = 0.865555
+   v1 = -0.0528155
+
+   u2 = 0.865555
+   v2 = -0.0528155
+
+   u3 = 0.865555
+   v3 = -0.0528155
+
+Vertex 103 of 165
+
+   vPosition.x = 22.0589
+   vPosition.y = 1.99999
+   vPosition.z = -28.5025
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.623953
+   vS.y = 0
+   vS.z = -0.781462
+
+   vT.x = -0.781462
+   vT.y = 0
+   vT.z = 0.623953
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.768188
+   v0 = -0.043313
+
+   u1 = 0.768188
+   v1 = -0.043313
+
+   u2 = 0.768188
+   v2 = -0.043313
+
+   u3 = 0.768188
+   v3 = -0.043313
+
+Vertex 104 of 165
+
+   vPosition.x = 11.6538
+   vPosition.y = -2.00001
+   vPosition.z = -51.2122
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.324242
+   vS.y = 0
+   vS.z = -0.945974
+
+   vT.x = 0.945974
+   vT.y = 0
+   vT.z = -0.324242
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.86576
+   v0 = -0.0433128
+
+   u1 = 0.86576
+   v1 = -0.0433128
+
+   u2 = 0.86576
+   v2 = -0.0433128
+
+   u3 = 0.86576
+   v3 = -0.0433128
+
+Vertex 105 of 165
+
+   vPosition.x = 23.4731
+   vPosition.y = -2.00001
+   vPosition.z = -29.9167
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.520953
+   vS.y = 0
+   vS.z = -0.853585
+
+   vT.x = 0.853585
+   vT.y = 0
+   vT.z = -0.520953
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.770988
+   v0 = -0.0528157
+
+   u1 = 0.770988
+   v1 = -0.0528157
+
+   u2 = 0.770988
+   v2 = -0.0528157
+
+   u3 = 0.770988
+   v3 = -0.0528157
+
+Vertex 106 of 165
+
+   vPosition.x = 13.5015
+   vPosition.y = -2.00001
+   vPosition.z = -51.9775
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.228925
+   vS.y = 0
+   vS.z = -0.973444
+
+   vT.x = 0.973444
+   vT.y = 0
+   vT.z = -0.228925
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.865555
+   v0 = -0.0528155
+
+   u1 = 0.865555
+   v1 = -0.0528155
+
+   u2 = 0.865555
+   v2 = -0.0528155
+
+   u3 = 0.865555
+   v3 = -0.0528155
+
+Vertex 107 of 165
+
+   vPosition.x = 22.0589
+   vPosition.y = -2.00001
+   vPosition.z = -28.5025
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.623953
+   vS.y = 0
+   vS.z = -0.781462
+
+   vT.x = 0.781462
+   vT.y = 0
+   vT.z = -0.623953
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.768188
+   v0 = -0.043313
+
+   u1 = 0.768188
+   v1 = -0.043313
+
+   u2 = 0.768188
+   v2 = -0.043313
+
+   u3 = 0.768188
+   v3 = -0.043313
+
+Vertex 108 of 165
+
+   vPosition.x = 38.3966
+   vPosition.y = 1.99999
+   vPosition.z = -15.1762
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.81733
+   vS.y = 0
+   vS.z = -0.57617
+
+   vT.x = -0.57617
+   vT.y = 0
+   vT.z = 0.81733
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.68786
+   v0 = -0.0528159
+
+   u1 = 0.68786
+   v1 = -0.0528159
+
+   u2 = 0.68786
+   v2 = -0.0528159
+
+   u3 = 0.68786
+   v3 = -0.0528159
+
+Vertex 109 of 165
+
+   vPosition.x = 37.6312
+   vPosition.y = 1.99999
+   vPosition.z = -13.3284
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.902414
+   vS.y = 0
+   vS.z = -0.43087
+
+   vT.x = -0.43087
+   vT.y = 0
+   vT.z = 0.902414
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.684996
+   v0 = -0.0433132
+
+   u1 = 0.684996
+   v1 = -0.0433132
+
+   u2 = 0.684996
+   v2 = -0.0433132
+
+   u3 = 0.684996
+   v3 = -0.0433132
+
+Vertex 110 of 165
+
+   vPosition.x = 22.0589
+   vPosition.y = 1.99999
+   vPosition.z = -28.5025
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.623953
+   vS.y = 0
+   vS.z = -0.781462
+
+   vT.x = -0.781462
+   vT.y = 0
+   vT.z = 0.623953
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.769928
+   v0 = -0.043313
+
+   u1 = 0.769928
+   v1 = -0.043313
+
+   u2 = 0.769928
+   v2 = -0.043313
+
+   u3 = 0.769928
+   v3 = -0.043313
+
+Vertex 111 of 165
+
+   vPosition.x = 23.4731
+   vPosition.y = 1.99999
+   vPosition.z = -29.9167
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.520953
+   vS.y = 0
+   vS.z = -0.853585
+
+   vT.x = -0.853585
+   vT.y = 0
+   vT.z = 0.520953
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.769792
+   v0 = -0.0528157
+
+   u1 = 0.769792
+   v1 = -0.0528157
+
+   u2 = 0.769792
+   v2 = -0.0528157
+
+   u3 = 0.769792
+   v3 = -0.0528157
+
+Vertex 112 of 165
+
+   vPosition.x = 22.0589
+   vPosition.y = -2.00001
+   vPosition.z = -28.5025
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.623953
+   vS.y = 0
+   vS.z = -0.781462
+
+   vT.x = 0.781462
+   vT.y = 0
+   vT.z = -0.623953
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.769928
+   v0 = -0.043313
+
+   u1 = 0.769928
+   v1 = -0.043313
+
+   u2 = 0.769928
+   v2 = -0.043313
+
+   u3 = 0.769928
+   v3 = -0.043313
+
+Vertex 113 of 165
+
+   vPosition.x = 38.3966
+   vPosition.y = -2.00001
+   vPosition.z = -15.1762
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.81733
+   vS.y = 0
+   vS.z = -0.57617
+
+   vT.x = 0.57617
+   vT.y = 0
+   vT.z = -0.81733
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.68786
+   v0 = -0.0528159
+
+   u1 = 0.68786
+   v1 = -0.0528159
+
+   u2 = 0.68786
+   v2 = -0.0528159
+
+   u3 = 0.68786
+   v3 = -0.0528159
+
+Vertex 114 of 165
+
+   vPosition.x = 23.4731
+   vPosition.y = -2.00001
+   vPosition.z = -29.9167
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.520953
+   vS.y = 0
+   vS.z = -0.853585
+
+   vT.x = 0.853585
+   vT.y = 0
+   vT.z = -0.520953
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.769792
+   v0 = -0.0528157
+
+   u1 = 0.769792
+   v1 = -0.0528157
+
+   u2 = 0.769792
+   v2 = -0.0528157
+
+   u3 = 0.769792
+   v3 = -0.0528157
+
+Vertex 115 of 165
+
+   vPosition.x = 37.6312
+   vPosition.y = -2.00001
+   vPosition.z = -13.3284
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.902414
+   vS.y = 0
+   vS.z = -0.43087
+
+   vT.x = 0.43087
+   vT.y = 0
+   vT.z = -0.902414
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.684996
+   v0 = -0.0433132
+
+   u1 = 0.684996
+   v1 = -0.0433132
+
+   u2 = 0.684996
+   v2 = -0.0433132
+
+   u3 = 0.684996
+   v3 = -0.0433132
+
+Vertex 116 of 165
+
+   vPosition.x = 56
+   vPosition.y = 1.99999
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.959897
+   vS.y = 0
+   vS.z = -0.280351
+
+   vT.x = -0.280351
+   vT.y = 0
+   vT.z = 0.959897
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.618155
+   v0 = -0.0528161
+
+   u1 = 0.618155
+   v1 = -0.0528161
+
+   u2 = 0.618155
+   v2 = -0.0528161
+
+   u3 = 0.618155
+   v3 = -0.0528161
+
+Vertex 117 of 165
+
+   vPosition.x = 37.6312
+   vPosition.y = 1.99999
+   vPosition.z = -13.3284
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.902414
+   vS.y = 0
+   vS.z = -0.43087
+
+   vT.x = -0.43087
+   vT.y = 0
+   vT.z = 0.902414
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.690712
+   v0 = -0.0433132
+
+   u1 = 0.690712
+   v1 = -0.0433132
+
+   u2 = 0.690712
+   v2 = -0.0433132
+
+   u3 = 0.690712
+   v3 = -0.0433132
+
+Vertex 118 of 165
+
+   vPosition.x = 38.3966
+   vPosition.y = 1.99999
+   vPosition.z = -15.1762
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.81733
+   vS.y = 0
+   vS.z = -0.57617
+
+   vT.x = -0.57617
+   vT.y = 0
+   vT.z = 0.81733
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.689828
+   v0 = -0.0528159
+
+   u1 = 0.689828
+   v1 = -0.0528159
+
+   u2 = 0.689828
+   v2 = -0.0528159
+
+   u3 = 0.689828
+   v3 = -0.0528159
+
+Vertex 119 of 165
+
+   vPosition.x = 56
+   vPosition.y = 1.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = -0.960408
+   vS.y = 0
+   vS.z = -0.278598
+
+   vT.x = -0.278598
+   vT.y = 0
+   vT.z = 0.960408
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.616001
+   v0 = -0.0433134
+
+   u1 = 0.616001
+   v1 = -0.0433134
+
+   u2 = 0.616001
+   v2 = -0.0433134
+
+   u3 = 0.616001
+   v3 = -0.0433134
+
+Vertex 120 of 165
+
+   vPosition.x = 37.6312
+   vPosition.y = -2.00001
+   vPosition.z = -13.3284
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.902414
+   vS.y = 0
+   vS.z = -0.43087
+
+   vT.x = 0.43087
+   vT.y = 0
+   vT.z = -0.902414
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.690712
+   v0 = -0.0433132
+
+   u1 = 0.690712
+   v1 = -0.0433132
+
+   u2 = 0.690712
+   v2 = -0.0433132
+
+   u3 = 0.690712
+   v3 = -0.0433132
+
+Vertex 121 of 165
+
+   vPosition.x = 56
+   vPosition.y = -2.00001
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.959897
+   vS.y = 0
+   vS.z = -0.280351
+
+   vT.x = 0.280351
+   vT.y = 0
+   vT.z = -0.959897
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.618155
+   v0 = -0.0528161
+
+   u1 = 0.618155
+   v1 = -0.0528161
+
+   u2 = 0.618155
+   v2 = -0.0528161
+
+   u3 = 0.618155
+   v3 = -0.0528161
+
+Vertex 122 of 165
+
+   vPosition.x = 38.3966
+   vPosition.y = -2.00001
+   vPosition.z = -15.1762
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.81733
+   vS.y = 0
+   vS.z = -0.57617
+
+   vT.x = 0.57617
+   vT.y = 0
+   vT.z = -0.81733
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.689828
+   v0 = -0.0528159
+
+   u1 = 0.689828
+   v1 = -0.0528159
+
+   u2 = 0.689828
+   v2 = -0.0528159
+
+   u3 = 0.689828
+   v3 = -0.0528159
+
+Vertex 123 of 165
+
+   vPosition.x = 56
+   vPosition.y = -2.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = -0.960408
+   vS.y = 0
+   vS.z = -0.278598
+
+   vT.x = 0.278598
+   vT.y = 0
+   vT.z = -0.960408
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.616001
+   v0 = -0.0433134
+
+   u1 = 0.616001
+   v1 = -0.0433134
+
+   u2 = 0.616001
+   v2 = -0.0433134
+
+   u3 = 0.616001
+   v3 = -0.0433134
+
+Vertex 124 of 165
+
+   vPosition.x = 8.51472
+   vPosition.y = 0.999992
+   vPosition.z = -9.92893
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707106
+
+   vS.x = -0.707106
+   vS.y = -0.000178705
+   vS.z = 0.707107
+
+   vT.x = -0.000126364
+   vT.y = 1
+   vT.z = 0.000126364
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707106
+
+   u0 = 0.247224
+   v0 = -0.0521017
+
+   u1 = 0.247224
+   v1 = -0.0521017
+
+   u2 = 0.247224
+   v2 = -0.0521017
+
+   u3 = 0.247224
+   v3 = -0.0521017
+
+Vertex 125 of 165
+
+   vPosition.x = 8.51472
+   vPosition.y = -1.00001
+   vPosition.z = -9.92893
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707106
+
+   vS.x = -0.707106
+   vS.y = -0.000178705
+   vS.z = 0.707107
+
+   vT.x = -0.000126364
+   vT.y = 1
+   vT.z = 0.000126364
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707106
+
+   u0 = 0.247224
+   v0 = -0.0446017
+
+   u1 = 0.247224
+   v1 = -0.0446017
+
+   u2 = 0.247224
+   v2 = -0.0446017
+
+   u3 = 0.247224
+   v3 = -0.0446017
+
+Vertex 126 of 165
+
+   vPosition.x = 25.0711
+   vPosition.y = 0.999992
+   vPosition.z = -26.4853
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707106
+
+   vS.x = -0.707106
+   vS.y = -0.000178705
+   vS.z = 0.707107
+
+   vT.x = -0.000126364
+   vT.y = 1
+   vT.z = 0.000126364
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707106
+
+   u0 = 0.155782
+   v0 = -0.052086
+
+   u1 = 0.155782
+   v1 = -0.052086
+
+   u2 = 0.155782
+   v2 = -0.052086
+
+   u3 = 0.155782
+   v3 = -0.052086
+
+Vertex 127 of 165
+
+   vPosition.x = 25.0711
+   vPosition.y = -1.00001
+   vPosition.z = -26.4853
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707106
+
+   vS.x = -0.707106
+   vS.y = -0.000178705
+   vS.z = 0.707107
+
+   vT.x = -0.000126364
+   vT.y = 1
+   vT.z = 0.000126364
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707106
+
+   u0 = 0.155782
+   v0 = -0.044586
+
+   u1 = 0.155782
+   v1 = -0.044586
+
+   u2 = 0.155782
+   v2 = -0.044586
+
+   u3 = 0.155782
+   v3 = -0.044586
+
+Vertex 128 of 165
+
+   vPosition.x = 9.92893
+   vPosition.y = 0.999992
+   vPosition.z = -8.51472
+
+   vNormal.x = 1.94422e-007
+   vNormal.y = 1
+   vNormal.z = 1.63822e-007
+
+   vS.x = 0.706985
+   vS.y = -2.15945e-008
+   vS.z = -0.707228
+
+   vT.x = -0.707228
+   vT.y = 2.5332e-007
+   vT.z = -0.706985
+
+   vSxT.x = 1.94422e-007
+   vSxT.y = 1
+   vSxT.z = 1.63822e-007
+
+   u0 = 0.15577
+   v0 = -0.0523973
+
+   u1 = 0.15577
+   v1 = -0.0523973
+
+   u2 = 0.15577
+   v2 = -0.0523973
+
+   u3 = 0.15577
+   v3 = -0.0523973
+
+Vertex 129 of 165
+
+   vPosition.x = 8.51472
+   vPosition.y = 0.999992
+   vPosition.z = -9.92893
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 0.706985
+   vS.y = 0
+   vS.z = -0.707229
+
+   vT.x = -0.707229
+   vT.y = 0
+   vT.z = -0.706985
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.155782
+   v0 = -0.044586
+
+   u1 = 0.155782
+   v1 = -0.044586
+
+   u2 = 0.155782
+   v2 = -0.044586
+
+   u3 = 0.155782
+   v3 = -0.044586
+
+Vertex 130 of 165
+
+   vPosition.x = 25.0711
+   vPosition.y = 0.999992
+   vPosition.z = -26.4853
+
+   vNormal.x = 1.94422e-007
+   vNormal.y = 1
+   vNormal.z = 1.63822e-007
+
+   vS.x = 0.706985
+   vS.y = -2.15945e-008
+   vS.z = -0.707228
+
+   vT.x = -0.707228
+   vT.y = 2.5332e-007
+   vT.z = -0.706985
+
+   vSxT.x = 1.94422e-007
+   vSxT.y = 1
+   vSxT.z = 1.63822e-007
+
+   u0 = 0.247224
+   v0 = -0.0446017
+
+   u1 = 0.247224
+   v1 = -0.0446017
+
+   u2 = 0.247224
+   v2 = -0.0446017
+
+   u3 = 0.247224
+   v3 = -0.0446017
+
+Vertex 131 of 165
+
+   vPosition.x = 26.4853
+   vPosition.y = 0.999991
+   vPosition.z = -25.0711
+
+   vNormal.x = 3.88845e-007
+   vNormal.y = 1
+   vNormal.z = 3.27643e-007
+
+   vS.x = 0.706986
+   vS.y = -4.31892e-008
+   vS.z = -0.707228
+
+   vT.x = -0.707228
+   vT.y = 5.06641e-007
+   vT.z = -0.706986
+
+   vSxT.x = 3.88845e-007
+   vSxT.y = 1
+   vSxT.z = 3.27643e-007
+
+   u0 = 0.247224
+   v0 = -0.052413
+
+   u1 = 0.247224
+   v1 = -0.052413
+
+   u2 = 0.247224
+   v2 = -0.052413
+
+   u3 = 0.247224
+   v3 = -0.052413
+
+Vertex 132 of 165
+
+   vPosition.x = 25.0711
+   vPosition.y = -1.00001
+   vPosition.z = -26.4853
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.247224
+   v0 = -0.0446017
+
+   u1 = 0.247224
+   v1 = -0.0446017
+
+   u2 = 0.247224
+   v2 = -0.0446017
+
+   u3 = 0.247224
+   v3 = -0.0446017
+
+Vertex 133 of 165
+
+   vPosition.x = 26.4853
+   vPosition.y = 0.999991
+   vPosition.z = -25.0711
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.247224
+   v0 = -0.052413
+
+   u1 = 0.247224
+   v1 = -0.052413
+
+   u2 = 0.247224
+   v2 = -0.052413
+
+   u3 = 0.247224
+   v3 = -0.052413
+
+Vertex 134 of 165
+
+   vPosition.x = 25.0711
+   vPosition.y = 0.999992
+   vPosition.z = -26.4853
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.247224
+   v0 = -0.0446017
+
+   u1 = 0.247224
+   v1 = -0.0446017
+
+   u2 = 0.247224
+   v2 = -0.0446017
+
+   u3 = 0.247224
+   v3 = -0.0446017
+
+Vertex 135 of 165
+
+   vPosition.x = 26.4853
+   vPosition.y = -1.00001
+   vPosition.z = -25.0711
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.247224
+   v0 = -0.052413
+
+   u1 = 0.247224
+   v1 = -0.052413
+
+   u2 = 0.247224
+   v2 = -0.052413
+
+   u3 = 0.247224
+   v3 = -0.052413
+
+Vertex 136 of 165
+
+   vPosition.x = 9.92893
+   vPosition.y = 0.999992
+   vPosition.z = -8.51472
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.15577
+   v0 = -0.0523973
+
+   u1 = 0.15577
+   v1 = -0.0523973
+
+   u2 = 0.15577
+   v2 = -0.0523973
+
+   u3 = 0.15577
+   v3 = -0.0523973
+
+Vertex 137 of 165
+
+   vPosition.x = 8.51472
+   vPosition.y = -1.00001
+   vPosition.z = -9.92893
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.155782
+   v0 = -0.044586
+
+   u1 = 0.155782
+   v1 = -0.044586
+
+   u2 = 0.155782
+   v2 = -0.044586
+
+   u3 = 0.155782
+   v3 = -0.044586
+
+Vertex 138 of 165
+
+   vPosition.x = 8.51472
+   vPosition.y = 0.999992
+   vPosition.z = -9.92893
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.155782
+   v0 = -0.044586
+
+   u1 = 0.155782
+   v1 = -0.044586
+
+   u2 = 0.155782
+   v2 = -0.044586
+
+   u3 = 0.155782
+   v3 = -0.044586
+
+Vertex 139 of 165
+
+   vPosition.x = 9.92893
+   vPosition.y = -1.00001
+   vPosition.z = -8.51472
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.15577
+   v0 = -0.0523973
+
+   u1 = 0.15577
+   v1 = -0.0523973
+
+   u2 = 0.15577
+   v2 = -0.0523973
+
+   u3 = 0.15577
+   v3 = -0.0523973
+
+Vertex 140 of 165
+
+   vPosition.x = 9.92893
+   vPosition.y = -1.00001
+   vPosition.z = -8.51472
+
+   vNormal.x = 0.707106
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = 0.000178727
+   vS.z = -0.707106
+
+   vT.x = -0.000126379
+   vT.y = 1
+   vT.z = 0.000126379
+
+   vSxT.x = 0.707106
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.15577
+   v0 = -0.0598973
+
+   u1 = 0.15577
+   v1 = -0.0598973
+
+   u2 = 0.15577
+   v2 = -0.0598973
+
+   u3 = 0.15577
+   v3 = -0.0598973
+
+Vertex 141 of 165
+
+   vPosition.x = 9.92893
+   vPosition.y = 0.999992
+   vPosition.z = -8.51472
+
+   vNormal.x = 0.707106
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = 0.000178707
+   vS.z = -0.707106
+
+   vT.x = -0.000126365
+   vT.y = 1
+   vT.z = 0.000126365
+
+   vSxT.x = 0.707106
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.15577
+   v0 = -0.0523973
+
+   u1 = 0.15577
+   v1 = -0.0523973
+
+   u2 = 0.15577
+   v2 = -0.0523973
+
+   u3 = 0.15577
+   v3 = -0.0523973
+
+Vertex 142 of 165
+
+   vPosition.x = 26.4853
+   vPosition.y = 0.999991
+   vPosition.z = -25.0711
+
+   vNormal.x = 0.707106
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = 0.000178727
+   vS.z = -0.707106
+
+   vT.x = -0.000126379
+   vT.y = 1
+   vT.z = 0.000126379
+
+   vSxT.x = 0.707106
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.247224
+   v0 = -0.052413
+
+   u1 = 0.247224
+   v1 = -0.052413
+
+   u2 = 0.247224
+   v2 = -0.052413
+
+   u3 = 0.247224
+   v3 = -0.052413
+
+Vertex 143 of 165
+
+   vPosition.x = 26.4853
+   vPosition.y = -1.00001
+   vPosition.z = -25.0711
+
+   vNormal.x = 0.707106
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = 0.000178748
+   vS.z = -0.707106
+
+   vT.x = -0.000126394
+   vT.y = 1
+   vT.z = 0.000126394
+
+   vSxT.x = 0.707106
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.247224
+   v0 = -0.059913
+
+   u1 = 0.247224
+   v1 = -0.059913
+
+   u2 = 0.247224
+   v2 = -0.059913
+
+   u3 = 0.247224
+   v3 = -0.059913
+
+Vertex 144 of 165
+
+   vPosition.x = 8.51472
+   vPosition.y = -1.00001
+   vPosition.z = -9.92893
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.706985
+   vS.y = 0
+   vS.z = -0.707229
+
+   vT.x = 0.707229
+   vT.y = 0
+   vT.z = 0.706985
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.155782
+   v0 = -0.044586
+
+   u1 = 0.155782
+   v1 = -0.044586
+
+   u2 = 0.155782
+   v2 = -0.044586
+
+   u3 = 0.155782
+   v3 = -0.044586
+
+Vertex 145 of 165
+
+   vPosition.x = 9.92893
+   vPosition.y = -1.00001
+   vPosition.z = -8.51472
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.706986
+   vS.y = 0
+   vS.z = -0.707228
+
+   vT.x = 0.707228
+   vT.y = 0
+   vT.z = 0.706986
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.15577
+   v0 = -0.0523973
+
+   u1 = 0.15577
+   v1 = -0.0523973
+
+   u2 = 0.15577
+   v2 = -0.0523973
+
+   u3 = 0.15577
+   v3 = -0.0523973
+
+Vertex 146 of 165
+
+   vPosition.x = 25.0711
+   vPosition.y = -1.00001
+   vPosition.z = -26.4853
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.706986
+   vS.y = 0
+   vS.z = -0.707228
+
+   vT.x = 0.707228
+   vT.y = 0
+   vT.z = 0.706986
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.247224
+   v0 = -0.0446017
+
+   u1 = 0.247224
+   v1 = -0.0446017
+
+   u2 = 0.247224
+   v2 = -0.0446017
+
+   u3 = 0.247224
+   v3 = -0.0446017
+
+Vertex 147 of 165
+
+   vPosition.x = 26.4853
+   vPosition.y = -1.00001
+   vPosition.z = -25.0711
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.706986
+   vS.y = 0
+   vS.z = -0.707228
+
+   vT.x = 0.707228
+   vT.y = 0
+   vT.z = 0.706986
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.247224
+   v0 = -0.052413
+
+   u1 = 0.247224
+   v1 = -0.052413
+
+   u2 = 0.247224
+   v2 = -0.052413
+
+   u3 = 0.247224
+   v3 = -0.052413
+
+Vertex 148 of 165
+
+   vPosition.x = 25.0711
+   vPosition.y = -1.00001
+   vPosition.z = -26.4853
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.706986
+   vS.y = 0
+   vS.z = -0.707228
+
+   vT.x = 0.707228
+   vT.y = 0
+   vT.z = 0.706986
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.247224
+   v0 = -0.0445892
+
+   u1 = 0.247224
+   v1 = -0.0445892
+
+   u2 = 0.247224
+   v2 = -0.0445892
+
+   u3 = 0.247224
+   v3 = -0.0445892
+
+Vertex 149 of 165
+
+   vPosition.x = 64
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.30807e-006
+   vS.z = 0
+
+   vT.x = 2.30807e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 3.91282
+   v0 = -0.254413
+
+   u1 = 3.91282
+   v1 = -0.254413
+
+   u2 = 3.91282
+   v2 = -0.254413
+
+   u3 = 3.91282
+   v3 = -0.254413
+
+Vertex 150 of 165
+
+   vPosition.x = 0
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.30807e-006
+   vS.z = 0
+
+   vT.x = 2.30807e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 1.48532
+   v0 = -0.709575
+
+   u1 = 1.48532
+   v1 = -0.709575
+
+   u2 = 1.48532
+   v2 = -0.709575
+
+   u3 = 1.48532
+   v3 = -0.709575
+
+Vertex 151 of 165
+
+   vPosition.x = 0
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.30807e-006
+   vS.z = 0
+
+   vT.x = 2.30807e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 1.48532
+   v0 = -0.254419
+
+   u1 = 1.48532
+   v1 = -0.254419
+
+   u2 = 1.48532
+   v2 = -0.254419
+
+   u3 = 1.48532
+   v3 = -0.254419
+
+Vertex 152 of 165
+
+   vPosition.x = 64
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.30807e-006
+   vS.z = 0
+
+   vT.x = 2.30807e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 3.91282
+   v0 = -0.709569
+
+   u1 = 3.91282
+   v1 = -0.709569
+
+   u2 = 3.91282
+   v2 = -0.709569
+
+   u3 = 3.91282
+   v3 = -0.709569
+
+Vertex 153 of 165
+
+   vPosition.x = 0
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.22354e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.22354e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 1.47516
+   v0 = -0.709575
+
+   u1 = 1.47516
+   v1 = -0.709575
+
+   u2 = 1.47516
+   v2 = -0.709575
+
+   u3 = 1.47516
+   v3 = -0.709575
+
+Vertex 154 of 165
+
+   vPosition.x = 0
+   vPosition.y = -6
+   vPosition.z = -129
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.22354e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.22354e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = -3.41777
+   v0 = -0.25443
+
+   u1 = -3.41777
+   v1 = -0.25443
+
+   u2 = -3.41777
+   v2 = -0.25443
+
+   u3 = -3.41777
+   v3 = -0.25443
+
+Vertex 155 of 165
+
+   vPosition.x = 0
+   vPosition.y = 6
+   vPosition.z = -129
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.22474e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.22474e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = -3.41777
+   v0 = -0.709586
+
+   u1 = -3.41777
+   v1 = -0.709586
+
+   u2 = -3.41777
+   v2 = -0.709586
+
+   u3 = -3.41777
+   v3 = -0.709586
+
+Vertex 156 of 165
+
+   vPosition.x = 0
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.22234e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.22234e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 1.47516
+   v0 = -0.254419
+
+   u1 = 1.47516
+   v1 = -0.254419
+
+   u2 = 1.47516
+   v2 = -0.254419
+
+   u3 = 1.47516
+   v3 = -0.254419
+
+Vertex 157 of 165
+
+   vPosition.x = 60
+   vPosition.y = 3.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = -1
+   vS.y = 2.29249e-006
+   vS.z = 0
+
+   vT.x = -2.29249e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 0.241437
+   v0 = -0.0576244
+
+   u1 = 0.241437
+   v1 = -0.0576244
+
+   u2 = 0.241437
+   v2 = -0.0576244
+
+   u3 = 0.241437
+   v3 = -0.0576244
+
+Vertex 158 of 165
+
+   vPosition.x = 8
+   vPosition.y = -4.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = -1
+   vS.y = 2.29249e-006
+   vS.z = 0
+
+   vT.x = -2.29249e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 0.444562
+   v0 = -0.026374
+
+   u1 = 0.444562
+   v1 = -0.026374
+
+   u2 = 0.444562
+   v2 = -0.026374
+
+   u3 = 0.444562
+   v3 = -0.026374
+
+Vertex 159 of 165
+
+   vPosition.x = 8
+   vPosition.y = 3.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = -1
+   vS.y = 2.29249e-006
+   vS.z = 0
+
+   vT.x = -2.29249e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 0.444562
+   v0 = -0.057624
+
+   u1 = 0.444562
+   v1 = -0.057624
+
+   u2 = 0.444562
+   v2 = -0.057624
+
+   u3 = 0.444562
+   v3 = -0.057624
+
+Vertex 160 of 165
+
+   vPosition.x = 60
+   vPosition.y = -4.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = -1
+   vS.y = 2.29249e-006
+   vS.z = 0
+
+   vT.x = -2.29249e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 0.241437
+   v0 = -0.0263744
+
+   u1 = 0.241437
+   v1 = -0.0263744
+
+   u2 = 0.241437
+   v2 = -0.0263744
+
+   u3 = 0.241437
+   v3 = -0.0263744
+
+Vertex 161 of 165
+
+   vPosition.x = 8
+   vPosition.y = 3.99999
+   vPosition.z = -8
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.29478e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.29478e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.791875
+   v0 = -0.0576232
+
+   u1 = 0.791875
+   v1 = -0.0576232
+
+   u2 = 0.791875
+   v2 = -0.0576232
+
+   u3 = 0.791875
+   v3 = -0.0576232
+
+Vertex 162 of 165
+
+   vPosition.x = 8
+   vPosition.y = -4.00001
+   vPosition.z = -96
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.29478e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.29478e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.448125
+   v0 = -0.026374
+
+   u1 = 0.448125
+   v1 = -0.026374
+
+   u2 = 0.448125
+   v2 = -0.026374
+
+   u3 = 0.448125
+   v3 = -0.026374
+
+Vertex 163 of 165
+
+   vPosition.x = 8
+   vPosition.y = 3.99999
+   vPosition.z = -96
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.29749e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.29749e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.448125
+   v0 = -0.057624
+
+   u1 = 0.448125
+   v1 = -0.057624
+
+   u2 = 0.448125
+   v2 = -0.057624
+
+   u3 = 0.448125
+   v3 = -0.057624
+
+Vertex 164 of 165
+
+   vPosition.x = 8
+   vPosition.y = -4.00001
+   vPosition.z = -8
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.29207e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.29207e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.791875
+   v0 = -0.0263732
+
+   u1 = 0.791875
+   v1 = -0.0263732
+
+   u2 = 0.791875
+   v2 = -0.0263732
+
+   u3 = 0.791875
+   v3 = -0.0263732
+
+
+
+
+
+--------------------------------------------------------------------------------
+StaticMesh Name: STMiSUPPORTbrace12x8
+
+Section 0 of 2
+   Material Name: BF
+      Face 0 of 16:- [fi: 0; vi0: 0, vi1: 1, vi2: 2]
+      Face 1 of 16:- [fi: 1; vi0: 3, vi1: 1, vi2: 0]
+      Face 2 of 16:- [fi: 2; vi0: 4, vi1: 5, vi2: 6]
+      Face 3 of 16:- [fi: 3; vi0: 4, vi1: 7, vi2: 5]
+      Face 4 of 16:- [fi: 4; vi0: 8, vi1: 9, vi2: 10]
+      Face 5 of 16:- [fi: 5; vi0: 11, vi1: 9, vi2: 8]
+      Face 6 of 16:- [fi: 6; vi0: 12, vi1: 13, vi2: 14]
+      Face 7 of 16:- [fi: 7; vi0: 12, vi1: 15, vi2: 13]
+      Face 8 of 16:- [fi: 8; vi0: 16, vi1: 17, vi2: 18]
+      Face 9 of 16:- [fi: 9; vi0: 19, vi1: 17, vi2: 16]
+      Face 10 of 16:- [fi: 10; vi0: 20, vi1: 21, vi2: 22]
+      Face 11 of 16:- [fi: 11; vi0: 23, vi1: 21, vi2: 20]
+      Face 12 of 16:- [fi: 12; vi0: 24, vi1: 25, vi2: 26]
+      Face 13 of 16:- [fi: 13; vi0: 24, vi1: 27, vi2: 25]
+      Face 14 of 16:- [fi: 14; vi0: 28, vi1: 29, vi2: 30]
+      Face 15 of 16:- [fi: 15; vi0: 31, vi1: 29, vi2: 28]
+Section 1 of 2
+   Material Name: STMwall512B_D
+      Face 0 of 80:- [fi: 16; vi0: 32, vi1: 33, vi2: 34]
+      Face 1 of 80:- [fi: 17; vi0: 32, vi1: 35, vi2: 33]
+      Face 2 of 80:- [fi: 18; vi0: 36, vi1: 37, vi2: 38]
+      Face 3 of 80:- [fi: 19; vi0: 39, vi1: 36, vi2: 38]
+      Face 4 of 80:- [fi: 20; vi0: 40, vi1: 41, vi2: 42]
+      Face 5 of 80:- [fi: 21; vi0: 43, vi1: 41, vi2: 40]
+      Face 6 of 80:- [fi: 22; vi0: 44, vi1: 45, vi2: 46]
+      Face 7 of 80:- [fi: 23; vi0: 47, vi1: 44, vi2: 46]
+      Face 8 of 80:- [fi: 24; vi0: 48, vi1: 49, vi2: 50]
+      Face 9 of 80:- [fi: 25; vi0: 51, vi1: 49, vi2: 48]
+      Face 10 of 80:- [fi: 26; vi0: 52, vi1: 53, vi2: 54]
+      Face 11 of 80:- [fi: 27; vi0: 52, vi1: 55, vi2: 53]
+      Face 12 of 80:- [fi: 28; vi0: 56, vi1: 57, vi2: 58]
+      Face 13 of 80:- [fi: 29; vi0: 59, vi1: 57, vi2: 56]
+      Face 14 of 80:- [fi: 30; vi0: 60, vi1: 61, vi2: 62]
+      Face 15 of 80:- [fi: 31; vi0: 63, vi1: 61, vi2: 60]
+      Face 16 of 80:- [fi: 32; vi0: 64, vi1: 65, vi2: 66]
+      Face 17 of 80:- [fi: 33; vi0: 64, vi1: 67, vi2: 65]
+      Face 18 of 80:- [fi: 34; vi0: 68, vi1: 69, vi2: 70]
+      Face 19 of 80:- [fi: 35; vi0: 71, vi1: 68, vi2: 70]
+      Face 20 of 80:- [fi: 36; vi0: 72, vi1: 73, vi2: 74]
+      Face 21 of 80:- [fi: 37; vi0: 75, vi1: 73, vi2: 72]
+      Face 22 of 80:- [fi: 38; vi0: 76, vi1: 77, vi2: 78]
+      Face 23 of 80:- [fi: 39; vi0: 79, vi1: 76, vi2: 78]
+      Face 24 of 80:- [fi: 40; vi0: 80, vi1: 81, vi2: 82]
+      Face 25 of 80:- [fi: 41; vi0: 83, vi1: 81, vi2: 80]
+      Face 26 of 80:- [fi: 42; vi0: 84, vi1: 85, vi2: 86]
+      Face 27 of 80:- [fi: 43; vi0: 84, vi1: 87, vi2: 85]
+      Face 28 of 80:- [fi: 44; vi0: 88, vi1: 89, vi2: 90]
+      Face 29 of 80:- [fi: 45; vi0: 91, vi1: 89, vi2: 88]
+      Face 30 of 80:- [fi: 46; vi0: 92, vi1: 93, vi2: 94]
+      Face 31 of 80:- [fi: 47; vi0: 95, vi1: 93, vi2: 92]
+      Face 32 of 80:- [fi: 48; vi0: 96, vi1: 97, vi2: 98]
+      Face 33 of 80:- [fi: 49; vi0: 96, vi1: 99, vi2: 97]
+      Face 34 of 80:- [fi: 50; vi0: 100, vi1: 101, vi2: 102]
+      Face 35 of 80:- [fi: 51; vi0: 103, vi1: 101, vi2: 100]
+      Face 36 of 80:- [fi: 52; vi0: 98, vi1: 104, vi2: 105]
+      Face 37 of 80:- [fi: 53; vi0: 98, vi1: 97, vi2: 104]
+      Face 38 of 80:- [fi: 54; vi0: 106, vi1: 102, vi2: 107]
+      Face 39 of 80:- [fi: 55; vi0: 100, vi1: 102, vi2: 106]
+      Face 40 of 80:- [fi: 56; vi0: 105, vi1: 108, vi2: 109]
+      Face 41 of 80:- [fi: 57; vi0: 105, vi1: 104, vi2: 108]
+      Face 42 of 80:- [fi: 58; vi0: 110, vi1: 107, vi2: 111]
+      Face 43 of 80:- [fi: 59; vi0: 106, vi1: 107, vi2: 110]
+      Face 44 of 80:- [fi: 60; vi0: 109, vi1: 112, vi2: 113]
+      Face 45 of 80:- [fi: 61; vi0: 109, vi1: 108, vi2: 112]
+      Face 46 of 80:- [fi: 62; vi0: 114, vi1: 111, vi2: 115]
+      Face 47 of 80:- [fi: 63; vi0: 110, vi1: 111, vi2: 114]
+      Face 48 of 80:- [fi: 64; vi0: 113, vi1: 116, vi2: 117]
+      Face 49 of 80:- [fi: 65; vi0: 113, vi1: 112, vi2: 116]
+      Face 50 of 80:- [fi: 66; vi0: 118, vi1: 115, vi2: 119]
+      Face 51 of 80:- [fi: 67; vi0: 114, vi1: 115, vi2: 118]
+      Face 52 of 80:- [fi: 68; vi0: 120, vi1: 121, vi2: 122]
+      Face 53 of 80:- [fi: 69; vi0: 120, vi1: 122, vi2: 123]
+      Face 54 of 80:- [fi: 70; vi0: 124, vi1: 125, vi2: 126]
+      Face 55 of 80:- [fi: 71; vi0: 126, vi1: 125, vi2: 127]
+      Face 56 of 80:- [fi: 72; vi0: 128, vi1: 129, vi2: 130]
+      Face 57 of 80:- [fi: 73; vi0: 128, vi1: 130, vi2: 131]
+      Face 58 of 80:- [fi: 74; vi0: 132, vi1: 133, vi2: 134]
+      Face 59 of 80:- [fi: 75; vi0: 134, vi1: 133, vi2: 135]
+      Face 60 of 80:- [fi: 76; vi0: 136, vi1: 137, vi2: 138]
+      Face 61 of 80:- [fi: 77; vi0: 136, vi1: 138, vi2: 139]
+      Face 62 of 80:- [fi: 78; vi0: 140, vi1: 141, vi2: 142]
+      Face 63 of 80:- [fi: 79; vi0: 142, vi1: 141, vi2: 143]
+      Face 64 of 80:- [fi: 80; vi0: 144, vi1: 145, vi2: 146]
+      Face 65 of 80:- [fi: 81; vi0: 144, vi1: 146, vi2: 147]
+      Face 66 of 80:- [fi: 82; vi0: 148, vi1: 149, vi2: 150]
+      Face 67 of 80:- [fi: 83; vi0: 150, vi1: 149, vi2: 151]
+      Face 68 of 80:- [fi: 84; vi0: 152, vi1: 153, vi2: 154]
+      Face 69 of 80:- [fi: 85; vi0: 152, vi1: 154, vi2: 155]
+      Face 70 of 80:- [fi: 86; vi0: 156, vi1: 157, vi2: 158]
+      Face 71 of 80:- [fi: 87; vi0: 159, vi1: 157, vi2: 156]
+      Face 72 of 80:- [fi: 88; vi0: 160, vi1: 161, vi2: 162]
+      Face 73 of 80:- [fi: 89; vi0: 160, vi1: 163, vi2: 161]
+      Face 74 of 80:- [fi: 90; vi0: 164, vi1: 165, vi2: 166]
+      Face 75 of 80:- [fi: 91; vi0: 167, vi1: 165, vi2: 164]
+      Face 76 of 80:- [fi: 92; vi0: 168, vi1: 169, vi2: 170]
+      Face 77 of 80:- [fi: 93; vi0: 169, vi1: 171, vi2: 170]
+      Face 78 of 80:- [fi: 94; vi0: 172, vi1: 173, vi2: 174]
+      Face 79 of 80:- [fi: 95; vi0: 175, vi1: 172, vi2: 174]
+
+
+Vertex 0 of 176
+
+   vPosition.x = 128
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.37625e-006
+   vS.z = 0
+
+   vT.x = 2.37625e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 2.6528
+   v0 = -0.248169
+
+   u1 = 2.6528
+   v1 = -0.248169
+
+   u2 = 2.6528
+   v2 = -0.248169
+
+   u3 = 2.6528
+   v3 = -0.248169
+
+Vertex 1 of 176
+
+   vPosition.x = 0
+   vPosition.y = -6
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.37625e-006
+   vS.z = 0
+
+   vT.x = 2.37625e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = -1.6528
+   v0 = -0.651829
+
+   u1 = -1.6528
+   v1 = -0.651829
+
+   u2 = -1.6528
+   v2 = -0.651829
+
+   u3 = -1.6528
+   v3 = -0.651829
+
+Vertex 2 of 176
+
+   vPosition.x = 0
+   vPosition.y = 6
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.37625e-006
+   vS.z = 0
+
+   vT.x = 2.37625e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = -1.6528
+   v0 = -0.248179
+
+   u1 = -1.6528
+   v1 = -0.248179
+
+   u2 = -1.6528
+   v2 = -0.248179
+
+   u3 = -1.6528
+   v3 = -0.248179
+
+Vertex 3 of 176
+
+   vPosition.x = 128
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.37625e-006
+   vS.z = 0
+
+   vT.x = 2.37625e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 2.6528
+   v0 = -0.651819
+
+   u1 = 2.6528
+   v1 = -0.651819
+
+   u2 = 2.6528
+   v2 = -0.651819
+
+   u3 = 2.6528
+   v3 = -0.651819
+
+Vertex 4 of 176
+
+   vPosition.x = 0
+   vPosition.y = 6
+   vPosition.z = 0
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.88968e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.88968e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = -1.6528
+   v0 = -0.248179
+
+   u1 = -1.6528
+   v1 = -0.248179
+
+   u2 = -1.6528
+   v2 = -0.248179
+
+   u3 = -1.6528
+   v3 = -0.248179
+
+Vertex 5 of 176
+
+   vPosition.x = 0
+   vPosition.y = -5.99999
+   vPosition.z = -192
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.88968e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.88968e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 6.6072
+   v0 = -0.65181
+
+   u1 = 6.6072
+   v1 = -0.65181
+
+   u2 = 6.6072
+   v2 = -0.65181
+
+   u3 = 6.6072
+   v3 = -0.65181
+
+Vertex 6 of 176
+
+   vPosition.x = 0
+   vPosition.y = 6.00001
+   vPosition.z = -192
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.88498e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.88498e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 6.6072
+   v0 = -0.24816
+
+   u1 = 6.6072
+   v1 = -0.24816
+
+   u2 = 6.6072
+   v2 = -0.24816
+
+   u3 = 6.6072
+   v3 = -0.24816
+
+Vertex 7 of 176
+
+   vPosition.x = 0
+   vPosition.y = -6
+   vPosition.z = 0
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.89438e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.89438e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = -1.6528
+   v0 = -0.651829
+
+   u1 = -1.6528
+   v1 = -0.651829
+
+   u2 = -1.6528
+   v2 = -0.651829
+
+   u3 = -1.6528
+   v3 = -0.651829
+
+Vertex 8 of 176
+
+   vPosition.x = 112
+   vPosition.y = 2.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.39204e-006
+   vS.z = 0
+
+   vT.x = 2.39204e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 4.08109
+   v0 = -0.253389
+
+   u1 = 4.08109
+   v1 = -0.253389
+
+   u2 = 4.08109
+   v2 = -0.253389
+
+   u3 = 4.08109
+   v3 = -0.253389
+
+Vertex 9 of 176
+
+   vPosition.x = 8
+   vPosition.y = -3
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.39204e-006
+   vS.z = 0
+
+   vT.x = 2.39204e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = -3.08109
+   v0 = -0.666609
+
+   u1 = -3.08109
+   v1 = -0.666609
+
+   u2 = -3.08109
+   v2 = -0.666609
+
+   u3 = -3.08109
+   v3 = -0.666609
+
+Vertex 10 of 176
+
+   vPosition.x = 8
+   vPosition.y = 3
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.39089e-006
+   vS.z = 0
+
+   vT.x = 2.39089e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = -3.08109
+   v0 = -0.253405
+
+   u1 = -3.08109
+   v1 = -0.253405
+
+   u2 = -3.08109
+   v2 = -0.253405
+
+   u3 = -3.08109
+   v3 = -0.253405
+
+Vertex 11 of 176
+
+   vPosition.x = 112
+   vPosition.y = -3.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = 1
+
+   vS.x = 1
+   vS.y = -2.39319e-006
+   vS.z = 0
+
+   vT.x = 2.39319e-006
+   vT.y = 1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = 1
+
+   u0 = 4.08109
+   v0 = -0.666593
+
+   u1 = 4.08109
+   v1 = -0.666593
+
+   u2 = 4.08109
+   v2 = -0.666593
+
+   u3 = 4.08109
+   v3 = -0.666593
+
+Vertex 12 of 176
+
+   vPosition.x = 8
+   vPosition.y = 3
+   vPosition.z = -8
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23484e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.23484e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 6.44891
+   v0 = -0.672446
+
+   u1 = 6.44891
+   v1 = -0.672446
+
+   u2 = 6.44891
+   v2 = -0.672446
+
+   u3 = 6.44891
+   v3 = -0.672446
+
+Vertex 13 of 176
+
+   vPosition.x = 8
+   vPosition.y = -2.99999
+   vPosition.z = -176
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23484e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.23484e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = -5.44891
+   v0 = -0.247552
+
+   u1 = -5.44891
+   v1 = -0.247552
+
+   u2 = -5.44891
+   v2 = -0.247552
+
+   u3 = -5.44891
+   v3 = -0.247552
+
+Vertex 14 of 176
+
+   vPosition.x = 8
+   vPosition.y = 3.00001
+   vPosition.z = -176
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23484e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.23484e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = -5.44891
+   v0 = -0.672473
+
+   u1 = -5.44891
+   v1 = -0.672473
+
+   u2 = -5.44891
+   v2 = -0.672473
+
+   u3 = -5.44891
+   v3 = -0.672473
+
+Vertex 15 of 176
+
+   vPosition.x = 8
+   vPosition.y = -3
+   vPosition.z = -8
+
+   vNormal.x = -1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23484e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.23484e-006
+
+   vSxT.x = -1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 6.44891
+   v0 = -0.247524
+
+   u1 = 6.44891
+   v1 = -0.247524
+
+   u2 = 6.44891
+   v2 = -0.247524
+
+   u3 = 6.44891
+   v3 = -0.247524
+
+Vertex 16 of 176
+
+   vPosition.x = 103
+   vPosition.y = -2.02801
+   vPosition.z = -12
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.956988
+   v0 = -0.0390862
+
+   u1 = 0.956988
+   v1 = -0.0390862
+
+   u2 = 0.956988
+   v2 = -0.0390862
+
+   u3 = 0.956988
+   v3 = -0.0390862
+
+Vertex 17 of 176
+
+   vPosition.x = 103
+   vPosition.y = 2.02799
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.960768
+   v0 = -0.0542471
+
+   u1 = 0.960768
+   v1 = -0.0542471
+
+   u2 = 0.960768
+   v2 = -0.0542471
+
+   u3 = 0.960768
+   v3 = -0.0542471
+
+Vertex 18 of 176
+
+   vPosition.x = 103
+   vPosition.y = 2.02799
+   vPosition.z = -12
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.956988
+   v0 = -0.0390862
+
+   u1 = 0.956988
+   v1 = -0.0390862
+
+   u2 = 0.956988
+   v2 = -0.0390862
+
+   u3 = 0.956988
+   v3 = -0.0390862
+
+Vertex 19 of 176
+
+   vPosition.x = 103
+   vPosition.y = -2.02801
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.960768
+   v0 = -0.0542471
+
+   u1 = 0.960768
+   v1 = -0.0542471
+
+   u2 = 0.960768
+   v2 = -0.0542471
+
+   u3 = 0.960768
+   v3 = -0.0542471
+
+Vertex 20 of 176
+
+   vPosition.x = 8
+   vPosition.y = 2.02801
+   vPosition.z = -152
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.209601
+   v0 = -0.0505494
+
+   u1 = 0.209601
+   v1 = -0.0505494
+
+   u2 = 0.209601
+   v2 = -0.0505494
+
+   u3 = 0.209601
+   v3 = -0.0505494
+
+Vertex 21 of 176
+
+   vPosition.x = 12
+   vPosition.y = -2.02799
+   vPosition.z = -152
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.211234
+   v0 = -0.0351349
+
+   u1 = 0.211234
+   v1 = -0.0351349
+
+   u2 = 0.211234
+   v2 = -0.0351349
+
+   u3 = 0.211234
+   v3 = -0.0351349
+
+Vertex 22 of 176
+
+   vPosition.x = 12
+   vPosition.y = 2.02801
+   vPosition.z = -152
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.211234
+   v0 = -0.0351349
+
+   u1 = 0.211234
+   v1 = -0.0351349
+
+   u2 = 0.211234
+   v2 = -0.0351349
+
+   u3 = 0.211234
+   v3 = -0.0351349
+
+Vertex 23 of 176
+
+   vPosition.x = 8
+   vPosition.y = -2.02799
+   vPosition.z = -152
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.209601
+   v0 = -0.0505494
+
+   u1 = 0.209601
+   v1 = -0.0505494
+
+   u2 = 0.209601
+   v2 = -0.0505494
+
+   u3 = 0.209601
+   v3 = -0.0505494
+
+Vertex 24 of 176
+
+   vPosition.x = 10
+   vPosition.y = 0.999996
+   vPosition.z = -8
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = -1.68301e-006
+   vS.z = 0.707107
+
+   vT.x = 1.19007e-006
+   vT.y = 1
+   vT.z = 1.19007e-006
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = -2.94336
+   v0 = -0.39114
+
+   u1 = -2.94336
+   v1 = -0.39114
+
+   u2 = -2.94336
+   v2 = -0.39114
+
+   u3 = -2.94336
+   v3 = -0.39114
+
+Vertex 25 of 176
+
+   vPosition.x = 8
+   vPosition.y = -1
+   vPosition.z = -10
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = -1.68301e-006
+   vS.z = 0.707107
+
+   vT.x = 1.19007e-006
+   vT.y = 1
+   vT.z = 1.19007e-006
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = -3.08109
+   v0 = -0.528874
+
+   u1 = -3.08109
+   v1 = -0.528874
+
+   u2 = -3.08109
+   v2 = -0.528874
+
+   u3 = -3.08109
+   v3 = -0.528874
+
+Vertex 26 of 176
+
+   vPosition.x = 8
+   vPosition.y = 0.999996
+   vPosition.z = -10
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = -1.53001e-006
+   vS.z = 0.707107
+
+   vT.x = 1.08188e-006
+   vT.y = 1
+   vT.z = 1.08188e-006
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = -3.08109
+   v0 = -0.39114
+
+   u1 = -3.08109
+   v1 = -0.39114
+
+   u2 = -3.08109
+   v2 = -0.39114
+
+   u3 = -3.08109
+   v3 = -0.39114
+
+Vertex 27 of 176
+
+   vPosition.x = 10
+   vPosition.y = -1
+   vPosition.z = -8
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = -1.83601e-006
+   vS.z = 0.707107
+
+   vT.x = 1.29826e-006
+   vT.y = 1
+   vT.z = 1.29826e-006
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = -2.94336
+   v0 = -0.528874
+
+   u1 = -2.94336
+   v1 = -0.528874
+
+   u2 = -2.94336
+   v2 = -0.528874
+
+   u3 = -2.94336
+   v3 = -0.528874
+
+Vertex 28 of 176
+
+   vPosition.x = 43
+   vPosition.y = -1
+   vPosition.z = -45
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.417971
+   v0 = -0.699218
+
+   u1 = 0.417971
+   v1 = -0.699218
+
+   u2 = 0.417971
+   v2 = -0.699218
+
+   u3 = 0.417971
+   v3 = -0.699218
+
+Vertex 29 of 176
+
+   vPosition.x = 45
+   vPosition.y = 0.999995
+   vPosition.z = -43
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.425783
+   v0 = -0.70703
+
+   u1 = 0.425783
+   v1 = -0.70703
+
+   u2 = 0.425783
+   v2 = -0.70703
+
+   u3 = 0.425783
+   v3 = -0.70703
+
+Vertex 30 of 176
+
+   vPosition.x = 43
+   vPosition.y = 0.999995
+   vPosition.z = -45
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.417971
+   v0 = -0.699218
+
+   u1 = 0.417971
+   v1 = -0.699218
+
+   u2 = 0.417971
+   v2 = -0.699218
+
+   u3 = 0.417971
+   v3 = -0.699218
+
+Vertex 31 of 176
+
+   vPosition.x = 45
+   vPosition.y = -1
+   vPosition.z = -43
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0
+   vS.y = 0
+   vS.z = 0
+
+   vT.x = 0
+   vT.y = 0
+   vT.z = 0
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.425783
+   v0 = -0.70703
+
+   u1 = 0.425783
+   v1 = -0.70703
+
+   u2 = 0.425783
+   v2 = -0.70703
+
+   u3 = 0.425783
+   v3 = -0.70703
+
+Vertex 32 of 176
+
+   vPosition.x = 8
+   vPosition.y = -6
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.37028e-006
+   vS.z = 0
+
+   vT.x = -2.37028e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.265625
+   v0 = -0.162437
+
+   u1 = 0.265625
+   v1 = -0.162437
+
+   u2 = 0.265625
+   v2 = -0.162437
+
+   u3 = 0.265625
+   v3 = -0.162437
+
+Vertex 33 of 176
+
+   vPosition.x = 128
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.37028e-006
+   vS.z = 0
+
+   vT.x = -2.37028e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.734375
+   v0 = -0.115561
+
+   u1 = 0.734375
+   v1 = -0.115561
+
+   u2 = 0.734375
+   v2 = -0.115561
+
+   u3 = 0.734375
+   v3 = -0.115561
+
+Vertex 34 of 176
+
+   vPosition.x = 8
+   vPosition.y = 6
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.36829e-006
+   vS.z = 0
+
+   vT.x = -2.36829e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.265625
+   v0 = -0.115562
+
+   u1 = 0.265625
+   v1 = -0.115562
+
+   u2 = 0.265625
+   v2 = -0.115562
+
+   u3 = 0.265625
+   v3 = -0.115562
+
+Vertex 35 of 176
+
+   vPosition.x = 128
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.37226e-006
+   vS.z = 0
+
+   vT.x = -2.37226e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.734375
+   v0 = -0.162436
+
+   u1 = 0.734375
+   v1 = -0.162436
+
+   u2 = 0.734375
+   v2 = -0.162436
+
+   u3 = 0.734375
+   v3 = -0.162436
+
+Vertex 36 of 176
+
+   vPosition.x = 128
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 8.08388e-008
+   vNormal.y = 1
+   vNormal.z = 3.91155e-008
+
+   vS.x = 1
+   vS.y = -8.08389e-008
+   vS.z = 2.2769e-006
+
+   vT.x = 2.2769e-006
+   vT.y = 3.91154e-008
+   vT.z = -1
+
+   vSxT.x = 8.08388e-008
+   vSxT.y = 1
+   vSxT.z = 3.91155e-008
+
+   u0 = 0.765002
+   v0 = -0.999998
+
+   u1 = 0.765002
+   v1 = -0.999998
+
+   u2 = 0.765002
+   v2 = -0.999998
+
+   u3 = 0.765002
+   v3 = -0.999998
+
+Vertex 37 of 176
+
+   vPosition.x = 0
+   vPosition.y = 6
+   vPosition.z = 0
+
+   vNormal.x = 6.51926e-008
+   vNormal.y = 1
+   vNormal.z = 6.51926e-008
+
+   vS.x = 0.707105
+   vS.y = -9.21962e-008
+   vS.z = 0.707108
+
+   vT.x = 0.707108
+   vT.y = -2.13718e-013
+   vT.z = -0.707105
+
+   vSxT.x = 6.51926e-008
+   vSxT.y = 1
+   vSxT.z = 6.51926e-008
+
+   u0 = 0.265002
+   v0 = -0.999999
+
+   u1 = 0.265002
+   v1 = -0.999999
+
+   u2 = 0.265002
+   v2 = -0.999999
+
+   u3 = 0.265002
+   v3 = -0.999999
+
+Vertex 38 of 176
+
+   vPosition.x = 8
+   vPosition.y = 6
+   vPosition.z = -8
+
+   vNormal.x = 5.34579e-008
+   vNormal.y = 1
+   vNormal.z = 4.62017e-008
+
+   vS.x = 0.707105
+   vS.y = -7.047e-008
+   vS.z = 0.707108
+
+   vT.x = 0.707108
+   vT.y = -5.13108e-009
+   vT.z = -0.707105
+
+   vSxT.x = 5.34579e-008
+   vSxT.y = 1
+   vSxT.z = 4.62017e-008
+
+   u0 = 0.296252
+   v0 = -0.968749
+
+   u1 = 0.296252
+   v1 = -0.968749
+
+   u2 = 0.296252
+   v2 = -0.968749
+
+   u3 = 0.296252
+   v3 = -0.968749
+
+Vertex 39 of 176
+
+   vPosition.x = 128
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 8.34465e-008
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 1
+   vS.y = -8.34465e-008
+   vS.z = 2.28882e-006
+
+   vT.x = 2.28882e-006
+   vT.y = -1.90994e-013
+   vT.z = -1
+
+   vSxT.x = 8.34465e-008
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.765002
+   v0 = -0.968748
+
+   u1 = 0.765002
+   v1 = -0.968748
+
+   u2 = 0.765002
+   v2 = -0.968748
+
+   u3 = 0.765002
+   v3 = -0.968748
+
+Vertex 40 of 176
+
+   vPosition.x = 128
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.37784e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.37784e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.890625
+   v0 = -0.163373
+
+   u1 = 0.890625
+   v1 = -0.163373
+
+   u2 = 0.890625
+   v2 = -0.163373
+
+   u3 = 0.890625
+   v3 = -0.163373
+
+Vertex 41 of 176
+
+   vPosition.x = 128
+   vPosition.y = 5.99999
+   vPosition.z = 0
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.37784e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.37784e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.859375
+   v0 = -0.116373
+
+   u1 = 0.859375
+   v1 = -0.116373
+
+   u2 = 0.859375
+   v2 = -0.116373
+
+   u3 = 0.859375
+   v3 = -0.116373
+
+Vertex 42 of 176
+
+   vPosition.x = 128
+   vPosition.y = 5.99999
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.37784e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.37784e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.890625
+   v0 = -0.116373
+
+   u1 = 0.890625
+   v1 = -0.116373
+
+   u2 = 0.890625
+   v2 = -0.116373
+
+   u3 = 0.890625
+   v3 = -0.116373
+
+Vertex 43 of 176
+
+   vPosition.x = 128
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.37784e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.37784e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.859375
+   v0 = -0.163373
+
+   u1 = 0.859375
+   v1 = -0.163373
+
+   u2 = 0.859375
+   v2 = -0.163373
+
+   u3 = 0.859375
+   v3 = -0.163373
+
+Vertex 44 of 176
+
+   vPosition.x = 128
+   vPosition.y = -6.00001
+   vPosition.z = 0
+
+   vNormal.x = -8.08388e-008
+   vNormal.y = -1
+   vNormal.z = -3.91155e-008
+
+   vS.x = 1
+   vS.y = -8.08389e-008
+   vS.z = 2.2769e-006
+
+   vT.x = -2.2769e-006
+   vT.y = -3.91154e-008
+   vT.z = 1
+
+   vSxT.x = -8.08388e-008
+   vSxT.y = -1
+   vSxT.z = -3.91155e-008
+
+   u0 = 0.765002
+   v0 = -0.999998
+
+   u1 = 0.765002
+   v1 = -0.999998
+
+   u2 = 0.765002
+   v2 = -0.999998
+
+   u3 = 0.765002
+   v3 = -0.999998
+
+Vertex 45 of 176
+
+   vPosition.x = 128
+   vPosition.y = -6.00001
+   vPosition.z = -8
+
+   vNormal.x = -8.34465e-008
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 1
+   vS.y = -8.34465e-008
+   vS.z = 2.28882e-006
+
+   vT.x = -2.28882e-006
+   vT.y = 1.90994e-013
+   vT.z = 1
+
+   vSxT.x = -8.34465e-008
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.765002
+   v0 = -0.968748
+
+   u1 = 0.765002
+   v1 = -0.968748
+
+   u2 = 0.765002
+   v2 = -0.968748
+
+   u3 = 0.765002
+   v3 = -0.968748
+
+Vertex 46 of 176
+
+   vPosition.x = 8
+   vPosition.y = -6
+   vPosition.z = -8
+
+   vNormal.x = -5.34579e-008
+   vNormal.y = -1
+   vNormal.z = -4.62017e-008
+
+   vS.x = 0.707105
+   vS.y = -7.047e-008
+   vS.z = 0.707108
+
+   vT.x = -0.707108
+   vT.y = 5.13108e-009
+   vT.z = 0.707105
+
+   vSxT.x = -5.34579e-008
+   vSxT.y = -1
+   vSxT.z = -4.62017e-008
+
+   u0 = 0.296252
+   v0 = -0.968749
+
+   u1 = 0.296252
+   v1 = -0.968749
+
+   u2 = 0.296252
+   v2 = -0.968749
+
+   u3 = 0.296252
+   v3 = -0.968749
+
+Vertex 47 of 176
+
+   vPosition.x = 0
+   vPosition.y = -6
+   vPosition.z = 0
+
+   vNormal.x = -6.51926e-008
+   vNormal.y = -1
+   vNormal.z = -6.51926e-008
+
+   vS.x = 0.707105
+   vS.y = -9.21962e-008
+   vS.z = 0.707108
+
+   vT.x = -0.707108
+   vT.y = 2.13718e-013
+   vT.z = 0.707105
+
+   vSxT.x = -6.51926e-008
+   vSxT.y = -1
+   vSxT.z = -6.51926e-008
+
+   u0 = 0.265002
+   v0 = -0.999999
+
+   u1 = 0.265002
+   v1 = -0.999999
+
+   u2 = 0.265002
+   v2 = -0.999999
+
+   u3 = 0.265002
+   v3 = -0.999999
+
+Vertex 48 of 176
+
+   vPosition.x = 0
+   vPosition.y = 6.00001
+   vPosition.z = -192
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.38801e-006
+   vS.z = 0
+
+   vT.x = -2.38801e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.7344
+   v0 = -0.115598
+
+   u1 = 0.7344
+   v1 = -0.115598
+
+   u2 = 0.7344
+   v2 = -0.115598
+
+   u3 = 0.7344
+   v3 = -0.115598
+
+Vertex 49 of 176
+
+   vPosition.x = 8
+   vPosition.y = -5.99999
+   vPosition.z = -192
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.38801e-006
+   vS.z = 0
+
+   vT.x = -2.38801e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.76565
+   v0 = -0.162398
+
+   u1 = 0.76565
+   v1 = -0.162398
+
+   u2 = 0.76565
+   v2 = -0.162398
+
+   u3 = 0.76565
+   v3 = -0.162398
+
+Vertex 50 of 176
+
+   vPosition.x = 8
+   vPosition.y = 6.00001
+   vPosition.z = -192
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.38801e-006
+   vS.z = 0
+
+   vT.x = -2.38801e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.76565
+   v0 = -0.115598
+
+   u1 = 0.76565
+   v1 = -0.115598
+
+   u2 = 0.76565
+   v2 = -0.115598
+
+   u3 = 0.76565
+   v3 = -0.115598
+
+Vertex 51 of 176
+
+   vPosition.x = 0
+   vPosition.y = -5.99999
+   vPosition.z = -192
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.38801e-006
+   vS.z = 0
+
+   vT.x = -2.38801e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.7344
+   v0 = -0.162398
+
+   u1 = 0.7344
+   v1 = -0.162398
+
+   u2 = 0.7344
+   v2 = -0.162398
+
+   u3 = 0.7344
+   v3 = -0.162398
+
+Vertex 52 of 176
+
+   vPosition.x = 8
+   vPosition.y = 6
+   vPosition.z = -8
+
+   vNormal.x = 5.34579e-008
+   vNormal.y = 1
+   vNormal.z = 4.62017e-008
+
+   vS.x = 0.707105
+   vS.y = -7.047e-008
+   vS.z = 0.707108
+
+   vT.x = 0.707108
+   vT.y = -5.13108e-009
+   vT.z = -0.707105
+
+   vSxT.x = 5.34579e-008
+   vSxT.y = 1
+   vSxT.z = 4.62017e-008
+
+   u0 = 0.221377
+   v0 = -0.968374
+
+   u1 = 0.221377
+   v1 = -0.968374
+
+   u2 = 0.221377
+   v2 = -0.968374
+
+   u3 = 0.221377
+   v3 = -0.968374
+
+Vertex 53 of 176
+
+   vPosition.x = 0
+   vPosition.y = 6.00001
+   vPosition.z = -192
+
+   vNormal.x = 2.6077e-008
+   vNormal.y = 1
+   vNormal.z = 5.32878e-008
+
+   vS.x = -2.31335e-006
+   vS.y = -5.32878e-008
+   vS.z = 1
+
+   vT.x = 1
+   vT.y = -2.60772e-008
+   vT.z = 2.31335e-006
+
+   vSxT.x = 2.6077e-008
+   vSxT.y = 1
+   vSxT.z = 5.32878e-008
+
+   u0 = -0.497373
+   v0 = -0.999626
+
+   u1 = -0.497373
+   v1 = -0.999626
+
+   u2 = -0.497373
+   v2 = -0.999626
+
+   u3 = -0.497373
+   v3 = -0.999626
+
+Vertex 54 of 176
+
+   vPosition.x = 8
+   vPosition.y = 6.00001
+   vPosition.z = -192
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 5.44216e-008
+
+   vS.x = -2.32199e-006
+   vS.y = -5.44216e-008
+   vS.z = 1
+
+   vT.x = 1
+   vT.y = -1.26366e-013
+   vT.z = 2.32199e-006
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 5.44216e-008
+
+   u0 = -0.497373
+   v0 = -0.968376
+
+   u1 = -0.497373
+   v1 = -0.968376
+
+   u2 = -0.497373
+   v2 = -0.968376
+
+   u3 = -0.497373
+   v3 = -0.968376
+
+Vertex 55 of 176
+
+   vPosition.x = 0
+   vPosition.y = 6
+   vPosition.z = 0
+
+   vNormal.x = 6.51926e-008
+   vNormal.y = 1
+   vNormal.z = 6.51926e-008
+
+   vS.x = 0.707105
+   vS.y = -9.21962e-008
+   vS.z = 0.707108
+
+   vT.x = 0.707108
+   vT.y = -2.13718e-013
+   vT.z = -0.707105
+
+   vSxT.x = 6.51926e-008
+   vSxT.y = 1
+   vSxT.z = 6.51926e-008
+
+   u0 = 0.252627
+   v0 = -0.999624
+
+   u1 = 0.252627
+   v1 = -0.999624
+
+   u2 = 0.252627
+   v2 = -0.999624
+
+   u3 = 0.252627
+   v3 = -0.999624
+
+Vertex 56 of 176
+
+   vPosition.x = 8
+   vPosition.y = -5.99999
+   vPosition.z = -192
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23777e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.23777e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.140625
+   v0 = -0.116562
+
+   u1 = 0.140625
+   v1 = -0.116562
+
+   u2 = 0.140625
+   v2 = -0.116562
+
+   u3 = 0.140625
+   v3 = -0.116562
+
+Vertex 57 of 176
+
+   vPosition.x = 8
+   vPosition.y = 6
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23777e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.23777e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.859375
+   v0 = -0.163435
+
+   u1 = 0.859375
+   v1 = -0.163435
+
+   u2 = 0.859375
+   v2 = -0.163435
+
+   u3 = 0.859375
+   v3 = -0.163435
+
+Vertex 58 of 176
+
+   vPosition.x = 8
+   vPosition.y = 6.00001
+   vPosition.z = -192
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.2287e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.2287e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.140625
+   v0 = -0.163437
+
+   u1 = 0.140625
+   v1 = -0.163437
+
+   u2 = 0.140625
+   v2 = -0.163437
+
+   u3 = 0.140625
+   v3 = -0.163437
+
+Vertex 59 of 176
+
+   vPosition.x = 8
+   vPosition.y = -6
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.24684e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.24684e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.859375
+   v0 = -0.11656
+
+   u1 = 0.859375
+   v1 = -0.11656
+
+   u2 = 0.859375
+   v2 = -0.11656
+
+   u3 = 0.859375
+   v3 = -0.11656
+
+Vertex 60 of 176
+
+   vPosition.x = 0
+   vPosition.y = -5.99999
+   vPosition.z = -192
+
+   vNormal.x = -2.6077e-008
+   vNormal.y = -1
+   vNormal.z = -5.32878e-008
+
+   vS.x = -2.31335e-006
+   vS.y = -5.32878e-008
+   vS.z = 1
+
+   vT.x = -1
+   vT.y = 2.60772e-008
+   vT.z = -2.31335e-006
+
+   vSxT.x = -2.6077e-008
+   vSxT.y = -1
+   vSxT.z = -5.32878e-008
+
+   u0 = -0.497373
+   v0 = -0.999626
+
+   u1 = -0.497373
+   v1 = -0.999626
+
+   u2 = -0.497373
+   v2 = -0.999626
+
+   u3 = -0.497373
+   v3 = -0.999626
+
+Vertex 61 of 176
+
+   vPosition.x = 8
+   vPosition.y = -6
+   vPosition.z = -8
+
+   vNormal.x = -5.34579e-008
+   vNormal.y = -1
+   vNormal.z = -4.62017e-008
+
+   vS.x = 0.707105
+   vS.y = -7.047e-008
+   vS.z = 0.707108
+
+   vT.x = -0.707108
+   vT.y = 5.13108e-009
+   vT.z = 0.707105
+
+   vSxT.x = -5.34579e-008
+   vSxT.y = -1
+   vSxT.z = -4.62017e-008
+
+   u0 = 0.221377
+   v0 = -0.968374
+
+   u1 = 0.221377
+   v1 = -0.968374
+
+   u2 = 0.221377
+   v2 = -0.968374
+
+   u3 = 0.221377
+   v3 = -0.968374
+
+Vertex 62 of 176
+
+   vPosition.x = 8
+   vPosition.y = -5.99999
+   vPosition.z = -192
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = -5.44216e-008
+
+   vS.x = -2.32199e-006
+   vS.y = -5.44216e-008
+   vS.z = 1
+
+   vT.x = -1
+   vT.y = 1.26366e-013
+   vT.z = -2.32199e-006
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = -5.44216e-008
+
+   u0 = -0.497373
+   v0 = -0.968376
+
+   u1 = -0.497373
+   v1 = -0.968376
+
+   u2 = -0.497373
+   v2 = -0.968376
+
+   u3 = -0.497373
+   v3 = -0.968376
+
+Vertex 63 of 176
+
+   vPosition.x = 0
+   vPosition.y = -6
+   vPosition.z = 0
+
+   vNormal.x = -6.51926e-008
+   vNormal.y = -1
+   vNormal.z = -6.51926e-008
+
+   vS.x = 0.707105
+   vS.y = -9.21962e-008
+   vS.z = 0.707108
+
+   vT.x = -0.707108
+   vT.y = 2.13718e-013
+   vT.z = 0.707105
+
+   vSxT.x = -6.51926e-008
+   vSxT.y = -1
+   vSxT.z = -6.51926e-008
+
+   u0 = 0.252627
+   v0 = -0.999624
+
+   u1 = 0.252627
+   v1 = -0.999624
+
+   u2 = 0.252627
+   v2 = -0.999624
+
+   u3 = 0.252627
+   v3 = -0.999624
+
+Vertex 64 of 176
+
+   vPosition.x = 12
+   vPosition.y = -3
+   vPosition.z = -12
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.39611e-006
+   vS.z = 0
+
+   vT.x = -2.39611e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.304688
+   v0 = -0.021718
+
+   u1 = 0.304688
+   v1 = -0.021718
+
+   u2 = 0.304688
+   v2 = -0.021718
+
+   u3 = 0.304688
+   v3 = -0.021718
+
+Vertex 65 of 176
+
+   vPosition.x = 112
+   vPosition.y = 2.99999
+   vPosition.z = -12
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.39611e-006
+   vS.z = 0
+
+   vT.x = -2.39611e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.695312
+   v0 = 0.00172036
+
+   u1 = 0.695312
+   v1 = 0.00172036
+
+   u2 = 0.695312
+   v2 = 0.00172036
+
+   u3 = 0.695312
+   v3 = 0.00172036
+
+Vertex 66 of 176
+
+   vPosition.x = 12
+   vPosition.y = 3
+   vPosition.z = -12
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.39849e-006
+   vS.z = 0
+
+   vT.x = -2.39849e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.304688
+   v0 = 0.00171946
+
+   u1 = 0.304688
+   v1 = 0.00171946
+
+   u2 = 0.304688
+   v2 = 0.00171946
+
+   u3 = 0.304688
+   v3 = 0.00171946
+
+Vertex 67 of 176
+
+   vPosition.x = 112
+   vPosition.y = -3.00001
+   vPosition.z = -12
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.39373e-006
+   vS.z = 0
+
+   vT.x = -2.39373e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.695312
+   v0 = -0.0217171
+
+   u1 = 0.695312
+   v1 = -0.0217171
+
+   u2 = 0.695312
+   v2 = -0.0217171
+
+   u3 = 0.695312
+   v3 = -0.0217171
+
+Vertex 68 of 176
+
+   vPosition.x = 112
+   vPosition.y = 2.99999
+   vPosition.z = -8
+
+   vNormal.x = 9.70639e-008
+   vNormal.y = 1
+   vNormal.z = 1.71936e-008
+
+   vS.x = 1
+   vS.y = -9.70639e-008
+   vS.z = 2.29682e-006
+
+   vT.x = 2.29682e-006
+   vT.y = 1.71934e-008
+   vT.z = -1
+
+   vSxT.x = 9.70639e-008
+   vSxT.y = 1
+   vSxT.z = 1.71936e-008
+
+   u0 = 0.6495
+   v0 = -0.0177485
+
+   u1 = 0.6495
+   v1 = -0.0177485
+
+   u2 = 0.6495
+   v2 = -0.0177485
+
+   u3 = 0.6495
+   v3 = -0.0177485
+
+Vertex 69 of 176
+
+   vPosition.x = 8
+   vPosition.y = 3
+   vPosition.z = -8
+
+   vNormal.x = 7.67983e-008
+   vNormal.y = 1
+   vNormal.z = 7.67983e-008
+
+   vS.x = 0.707105
+   vS.y = -1.08609e-007
+   vS.z = 0.707108
+
+   vT.x = 0.707108
+   vT.y = -2.51764e-013
+   vT.z = -0.707105
+
+   vSxT.x = 7.67983e-008
+   vSxT.y = 1
+   vSxT.z = 7.67983e-008
+
+   u0 = 0.24325
+   v0 = -0.0177494
+
+   u1 = 0.24325
+   v1 = -0.0177494
+
+   u2 = 0.24325
+   v2 = -0.0177494
+
+   u3 = 0.24325
+   v3 = -0.0177494
+
+Vertex 70 of 176
+
+   vPosition.x = 12
+   vPosition.y = 3
+   vPosition.z = -12
+
+   vNormal.x = 4.85319e-008
+   vNormal.y = 1
+   vNormal.z = 3.9126e-008
+
+   vS.x = 0.707105
+   vS.y = -6.19835e-008
+   vS.z = 0.707108
+
+   vT.x = 0.707108
+   vT.y = -6.65112e-009
+   vT.z = -0.707105
+
+   vSxT.x = 4.85319e-008
+   vSxT.y = 1
+   vSxT.z = 3.9126e-008
+
+   u0 = 0.258875
+   v0 = -0.00212443
+
+   u1 = 0.258875
+   v1 = -0.00212443
+
+   u2 = 0.258875
+   v2 = -0.00212443
+
+   u3 = 0.258875
+   v3 = -0.00212443
+
+Vertex 71 of 176
+
+   vPosition.x = 112
+   vPosition.y = 2.99999
+   vPosition.z = -12
+
+   vNormal.x = 1.00136e-007
+   vNormal.y = 1
+   vNormal.z = -5.96046e-008
+
+   vS.x = 1
+   vS.y = -1.00136e-007
+   vS.z = 2.29657e-006
+
+   vT.x = 2.29657e-006
+   vT.y = -5.96049e-008
+   vT.z = -1
+
+   vSxT.x = 1.00136e-007
+   vSxT.y = 1
+   vSxT.z = -5.96046e-008
+
+   u0 = 0.6495
+   v0 = -0.00212353
+
+   u1 = 0.6495
+   v1 = -0.00212353
+
+   u2 = 0.6495
+   v2 = -0.00212353
+
+   u3 = 0.6495
+   v3 = -0.00212353
+
+Vertex 72 of 176
+
+   vPosition.x = 112
+   vPosition.y = -3.00001
+   vPosition.z = -12
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.38419e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.38419e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 1.30531
+   v0 = -0.0217157
+
+   u1 = 1.30531
+   v1 = -0.0217157
+
+   u2 = 1.30531
+   v2 = -0.0217157
+
+   u3 = 1.30531
+   v3 = -0.0217157
+
+Vertex 73 of 176
+
+   vPosition.x = 112
+   vPosition.y = 2.99999
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.38419e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.38419e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 1.28969
+   v0 = 0.00172172
+
+   u1 = 1.28969
+   v1 = 0.00172172
+
+   u2 = 1.28969
+   v2 = 0.00172172
+
+   u3 = 1.28969
+   v3 = 0.00172172
+
+Vertex 74 of 176
+
+   vPosition.x = 112
+   vPosition.y = 2.99999
+   vPosition.z = -12
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.38419e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.38419e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 1.30531
+   v0 = 0.00172176
+
+   u1 = 1.30531
+   v1 = 0.00172176
+
+   u2 = 1.30531
+   v2 = 0.00172176
+
+   u3 = 1.30531
+   v3 = 0.00172176
+
+Vertex 75 of 176
+
+   vPosition.x = 112
+   vPosition.y = -3.00001
+   vPosition.z = -8
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = -2.38419e-006
+   vS.z = -1
+
+   vT.x = 0
+   vT.y = 1
+   vT.z = -2.38419e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 1.28969
+   v0 = -0.0217157
+
+   u1 = 1.28969
+   v1 = -0.0217157
+
+   u2 = 1.28969
+   v2 = -0.0217157
+
+   u3 = 1.28969
+   v3 = -0.0217157
+
+Vertex 76 of 176
+
+   vPosition.x = 112
+   vPosition.y = -3.00001
+   vPosition.z = -8
+
+   vNormal.x = -9.82101e-008
+   vNormal.y = -1
+   vNormal.z = -4.81422e-008
+
+   vS.x = 1
+   vS.y = -9.82102e-008
+   vS.z = 2.29652e-006
+
+   vT.x = -2.29652e-006
+   vT.y = -4.8142e-008
+   vT.z = 1
+
+   vSxT.x = -9.82101e-008
+   vSxT.y = -1
+   vSxT.z = -4.81422e-008
+
+   u0 = 0.6495
+   v0 = -0.0177485
+
+   u1 = 0.6495
+   v1 = -0.0177485
+
+   u2 = 0.6495
+   v2 = -0.0177485
+
+   u3 = 0.6495
+   v3 = -0.0177485
+
+Vertex 77 of 176
+
+   vPosition.x = 112
+   vPosition.y = -3.00001
+   vPosition.z = -12
+
+   vNormal.x = -1.00136e-007
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 1
+   vS.y = -1.00136e-007
+   vS.z = 2.29597e-006
+
+   vT.x = -2.29597e-006
+   vT.y = 2.29909e-013
+   vT.z = 1
+
+   vSxT.x = -1.00136e-007
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.6495
+   v0 = -0.00212353
+
+   u1 = 0.6495
+   v1 = -0.00212353
+
+   u2 = 0.6495
+   v2 = -0.00212353
+
+   u3 = 0.6495
+   v3 = -0.00212353
+
+Vertex 78 of 176
+
+   vPosition.x = 12
+   vPosition.y = -3
+   vPosition.z = -12
+
+   vNormal.x = -6.40062e-008
+   vNormal.y = -1
+   vNormal.z = -5.42369e-008
+
+   vS.x = 0.707105
+   vS.y = -8.36105e-008
+   vS.z = 0.707108
+
+   vT.x = -0.707108
+   vT.y = 6.90816e-009
+   vT.z = 0.707105
+
+   vSxT.x = -6.40062e-008
+   vSxT.y = -1
+   vSxT.z = -5.42369e-008
+
+   u0 = 0.258875
+   v0 = -0.00212443
+
+   u1 = 0.258875
+   v1 = -0.00212443
+
+   u2 = 0.258875
+   v2 = -0.00212443
+
+   u3 = 0.258875
+   v3 = -0.00212443
+
+Vertex 79 of 176
+
+   vPosition.x = 8
+   vPosition.y = -3
+   vPosition.z = -8
+
+   vNormal.x = -7.79445e-008
+   vNormal.y = -1
+   vNormal.z = -7.79445e-008
+
+   vS.x = 0.707105
+   vS.y = -1.1023e-007
+   vS.z = 0.707108
+
+   vT.x = -0.707108
+   vT.y = 2.55522e-013
+   vT.z = 0.707105
+
+   vSxT.x = -7.79445e-008
+   vSxT.y = -1
+   vSxT.z = -7.79445e-008
+
+   u0 = 0.24325
+   v0 = -0.0177494
+
+   u1 = 0.24325
+   v1 = -0.0177494
+
+   u2 = 0.24325
+   v2 = -0.0177494
+
+   u3 = 0.24325
+   v3 = -0.0177494
+
+Vertex 80 of 176
+
+   vPosition.x = 8
+   vPosition.y = 3.00001
+   vPosition.z = -176
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.30968e-006
+   vS.z = 0
+
+   vT.x = -2.30968e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.649188
+   v0 = 0.00172025
+
+   u1 = 0.649188
+   v1 = 0.00172025
+
+   u2 = 0.649188
+   v2 = 0.00172025
+
+   u3 = 0.649188
+   v3 = 0.00172025
+
+Vertex 81 of 176
+
+   vPosition.x = 12
+   vPosition.y = -2.99999
+   vPosition.z = -176
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.30968e-006
+   vS.z = 0
+
+   vT.x = -2.30968e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.664813
+   v0 = -0.0217172
+
+   u1 = 0.664813
+   v1 = -0.0217172
+
+   u2 = 0.664813
+   v2 = -0.0217172
+
+   u3 = 0.664813
+   v3 = -0.0217172
+
+Vertex 82 of 176
+
+   vPosition.x = 12
+   vPosition.y = 3.00001
+   vPosition.z = -176
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.23518e-006
+   vS.z = 0
+
+   vT.x = -2.23518e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.664813
+   v0 = 0.00172029
+
+   u1 = 0.664813
+   v1 = 0.00172029
+
+   u2 = 0.664813
+   v2 = 0.00172029
+
+   u3 = 0.664813
+   v3 = 0.00172029
+
+Vertex 83 of 176
+
+   vPosition.x = 8
+   vPosition.y = -2.99999
+   vPosition.z = -176
+
+   vNormal.x = 0
+   vNormal.y = 0
+   vNormal.z = -1
+
+   vS.x = 1
+   vS.y = -2.38419e-006
+   vS.z = 0
+
+   vT.x = -2.38419e-006
+   vT.y = -1
+   vT.z = 0
+
+   vSxT.x = 0
+   vSxT.y = 0
+   vSxT.z = -1
+
+   u0 = 0.649188
+   v0 = -0.0217172
+
+   u1 = 0.649188
+   v1 = -0.0217172
+
+   u2 = 0.649188
+   v2 = -0.0217172
+
+   u3 = 0.649188
+   v3 = -0.0217172
+
+Vertex 84 of 176
+
+   vPosition.x = 12
+   vPosition.y = 3
+   vPosition.z = -12
+
+   vNormal.x = 4.85319e-008
+   vNormal.y = 1
+   vNormal.z = 3.9126e-008
+
+   vS.x = 0.707105
+   vS.y = -6.19835e-008
+   vS.z = 0.707108
+
+   vT.x = 0.707108
+   vT.y = -6.65112e-009
+   vT.z = -0.707105
+
+   vSxT.x = 4.85319e-008
+   vSxT.y = 1
+   vSxT.z = 3.9126e-008
+
+   u0 = 0.226562
+   v0 = -0.00231196
+
+   u1 = 0.226562
+   v1 = -0.00231196
+
+   u2 = 0.226562
+   v2 = -0.00231196
+
+   u3 = 0.226562
+   v3 = -0.00231196
+
+Vertex 85 of 176
+
+   vPosition.x = 8
+   vPosition.y = 3.00001
+   vPosition.z = -176
+
+   vNormal.x = 1.77636e-015
+   vNormal.y = 1
+   vNormal.z = 6.10584e-008
+
+   vS.x = -2.29799e-006
+   vS.y = -6.10584e-008
+   vS.z = 1
+
+   vT.x = 1
+   vT.y = -1.42088e-013
+   vT.z = 2.29799e-006
+
+   vSxT.x = 1.77636e-015
+   vSxT.y = 1
+   vSxT.z = 6.10584e-008
+
+   u0 = -0.414062
+   v0 = -0.0179385
+
+   u1 = -0.414062
+   v1 = -0.0179385
+
+   u2 = -0.414062
+   v2 = -0.0179385
+
+   u3 = -0.414062
+   v3 = -0.0179385
+
+Vertex 86 of 176
+
+   vPosition.x = 12
+   vPosition.y = 3.00001
+   vPosition.z = -176
+
+   vNormal.x = -5.96046e-008
+   vNormal.y = 1
+   vNormal.z = 6.25122e-008
+
+   vS.x = -2.29696e-006
+   vS.y = -6.25123e-008
+   vS.z = 1
+
+   vT.x = 1
+   vT.y = 5.96045e-008
+   vT.z = 2.29696e-006
+
+   vSxT.x = -5.96046e-008
+   vSxT.y = 1
+   vSxT.z = 6.25122e-008
+
+   u0 = -0.414062
+   v0 = -0.00231343
+
+   u1 = -0.414062
+   v1 = -0.00231343
+
+   u2 = -0.414062
+   v2 = -0.00231343
+
+   u3 = -0.414062
+   v3 = -0.00231343
+
+Vertex 87 of 176
+
+   vPosition.x = 8
+   vPosition.y = 3
+   vPosition.z = -8
+
+   vNormal.x = 7.67983e-008
+   vNormal.y = 1
+   vNormal.z = 7.67983e-008
+
+   vS.x = 0.707105
+   vS.y = -1.08609e-007
+   vS.z = 0.707108
+
+   vT.x = 0.707108
+   vT.y = -2.51764e-013
+   vT.z = -0.707105
+
+   vSxT.x = 7.67983e-008
+   vSxT.y = 1
+   vSxT.z = 7.67983e-008
+
+   u0 = 0.242188
+   v0 = -0.0179369
+
+   u1 = 0.242188
+   v1 = -0.0179369
+
+   u2 = 0.242188
+   v2 = -0.0179369
+
+   u3 = 0.242188
+   v3 = -0.0179369
+
+Vertex 88 of 176
+
+   vPosition.x = 12
+   vPosition.y = -2.99999
+   vPosition.z = -176
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23581e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.23581e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.664688
+   v0 = 0.00172029
+
+   u1 = 0.664688
+   v1 = 0.00172029
+
+   u2 = 0.664688
+   v2 = 0.00172029
+
+   u3 = 0.664688
+   v3 = 0.00172029
+
+Vertex 89 of 176
+
+   vPosition.x = 12
+   vPosition.y = 3
+   vPosition.z = -12
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23581e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.23581e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 1.30531
+   v0 = -0.0217157
+
+   u1 = 1.30531
+   v1 = -0.0217157
+
+   u2 = 1.30531
+   v2 = -0.0217157
+
+   u3 = 1.30531
+   v3 = -0.0217157
+
+Vertex 90 of 176
+
+   vPosition.x = 12
+   vPosition.y = 3.00001
+   vPosition.z = -176
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.2359e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.2359e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 0.664688
+   v0 = -0.0217172
+
+   u1 = 0.664688
+   v1 = -0.0217172
+
+   u2 = 0.664688
+   v2 = -0.0217172
+
+   u3 = 0.664688
+   v3 = -0.0217172
+
+Vertex 91 of 176
+
+   vPosition.x = 12
+   vPosition.y = -3
+   vPosition.z = -12
+
+   vNormal.x = 1
+   vNormal.y = 0
+   vNormal.z = 0
+
+   vS.x = 0
+   vS.y = 2.23572e-006
+   vS.z = 1
+
+   vT.x = 0
+   vT.y = -1
+   vT.z = 2.23572e-006
+
+   vSxT.x = 1
+   vSxT.y = 0
+   vSxT.z = 0
+
+   u0 = 1.30531
+   v0 = 0.00172176
+
+   u1 = 1.30531
+   v1 = 0.00172176
+
+   u2 = 1.30531
+   v2 = 0.00172176
+
+   u3 = 1.30531
+   v3 = 0.00172176
+
+Vertex 92 of 176
+
+   vPosition.x = 8
+   vPosition.y = -2.99999
+   vPosition.z = -176
+
+   vNormal.x = -2.98023e-008
+   vNormal.y = -1
+   vNormal.z = -6.03315e-008
+
+   vS.x = -2.29799e-006
+   vS.y = -6.03315e-008
+   vS.z = 1
+
+   vT.x = -1
+   vT.y = 2.98025e-008
+   vT.z = -2.29799e-006
+
+   vSxT.x = -2.98023e-008
+   vSxT.y = -1
+   vSxT.z = -6.03315e-008
+
+   u0 = -0.414062
+   v0 = -0.0179385
+
+   u1 = -0.414062
+   v1 = -0.0179385
+
+   u2 = -0.414062
+   v2 = -0.0179385
+
+   u3 = -0.414062
+   v3 = -0.0179385
+
+Vertex 93 of 176
+
+   vPosition.x = 12
+   vPosition.y = -3
+   vPosition.z = -12
+
+   vNormal.x = -6.40062e-008
+   vNormal.y = -1
+   vNormal.z = -5.42369e-008
+
+   vS.x = 0.707105
+   vS.y = -8.36105e-008
+   vS.z = 0.707108
+
+   vT.x = -0.707108
+   vT.y = 6.90816e-009
+   vT.z = 0.707105
+
+   vSxT.x = -6.40062e-008
+   vSxT.y = -1
+   vSxT.z = -5.42369e-008
+
+   u0 = 0.226562
+   v0 = -0.00231196
+
+   u1 = 0.226562
+   v1 = -0.00231196
+
+   u2 = 0.226562
+   v2 = -0.00231196
+
+   u3 = 0.226562
+   v3 = -0.00231196
+
+Vertex 94 of 176
+
+   vPosition.x = 12
+   vPosition.y = -2.99999
+   vPosition.z = -176
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = -6.10584e-008
+
+   vS.x = -2.29696e-006
+   vS.y = -6.10584e-008
+   vS.z = 1
+
+   vT.x = -1
+   vT.y = 1.40249e-013
+   vT.z = -2.29696e-006
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = -6.10584e-008
+
+   u0 = -0.414062
+   v0 = -0.00231343
+
+   u1 = -0.414062
+   v1 = -0.00231343
+
+   u2 = -0.414062
+   v2 = -0.00231343
+
+   u3 = -0.414062
+   v3 = -0.00231343
+
+Vertex 95 of 176
+
+   vPosition.x = 8
+   vPosition.y = -3
+   vPosition.z = -8
+
+   vNormal.x = -7.79445e-008
+   vNormal.y = -1
+   vNormal.z = -7.79445e-008
+
+   vS.x = 0.707105
+   vS.y = -1.1023e-007
+   vS.z = 0.707108
+
+   vT.x = -0.707108
+   vT.y = 2.55522e-013
+   vT.z = 0.707105
+
+   vSxT.x = -7.79445e-008
+   vSxT.y = -1
+   vSxT.z = -7.79445e-008
+
+   u0 = 0.242188
+   v0 = -0.0179369
+
+   u1 = 0.242188
+   v1 = -0.0179369
+
+   u2 = 0.242188
+   v2 = -0.0179369
+
+   u3 = 0.242188
+   v3 = -0.0179369
+
+Vertex 96 of 176
+
+   vPosition.x = 103
+   vPosition.y = 2.02799
+   vPosition.z = -8
+
+   vNormal.x = -0.233444
+   vNormal.y = 0
+   vNormal.z = 0.97237
+
+   vS.x = 0.97237
+   vS.y = 2.14799e-006
+   vS.z = 0.233444
+
+   vT.x = -2.08864e-006
+   vT.y = 1
+   vT.z = -5.01436e-007
+
+   vSxT.x = -0.233444
+   vSxT.y = 0
+   vSxT.z = 0.97237
+
+   u0 = 0.85625
+   v0 = -0.0479199
+
+   u1 = 0.85625
+   v1 = -0.0479199
+
+   u2 = 0.85625
+   v2 = -0.0479199
+
+   u3 = 0.85625
+   v3 = -0.0479199
+
+Vertex 97 of 176
+
+   vPosition.x = 73.6434
+   vPosition.y = -2.028
+   vPosition.z = -15.0479
+
+   vNormal.x = -0.366599
+   vNormal.y = 0
+   vNormal.z = 0.930379
+
+   vS.x = 0.930379
+   vS.y = 2.16819e-006
+   vS.z = 0.366599
+
+   vT.x = -2.01724e-006
+   vT.y = 1
+   vT.z = -7.94857e-007
+
+   vSxT.x = -0.366599
+   vSxT.y = 0
+   vSxT.z = 0.930379
+
+   u0 = 0.738719
+   v0 = -0.0320764
+
+   u1 = 0.738719
+   v1 = -0.0320764
+
+   u2 = 0.738719
+   v2 = -0.0320764
+
+   u3 = 0.738719
+   v3 = -0.0320764
+
+Vertex 98 of 176
+
+   vPosition.x = 73.6434
+   vPosition.y = 2.02799
+   vPosition.z = -15.0479
+
+   vNormal.x = -0.495065
+   vNormal.y = 0
+   vNormal.z = 0.868856
+
+   vS.x = 0.868856
+   vS.y = 2.09719e-006
+   vS.z = 0.495065
+
+   vT.x = -1.82216e-006
+   vT.y = 1
+   vT.z = -1.03825e-006
+
+   vSxT.x = -0.495065
+   vSxT.y = 0
+   vSxT.z = 0.868856
+
+   u0 = 0.738719
+   v0 = -0.0479202
+
+   u1 = 0.738719
+   v1 = -0.0479202
+
+   u2 = 0.738719
+   v2 = -0.0479202
+
+   u3 = 0.738719
+   v3 = -0.0479202
+
+Vertex 99 of 176
+
+   vPosition.x = 103
+   vPosition.y = -2.02801
+   vPosition.z = -8
+
+   vNormal.x = -0.233444
+   vNormal.y = 0
+   vNormal.z = 0.97237
+
+   vS.x = 0.97237
+   vS.y = 1.99005e-006
+   vS.z = 0.233444
+
+   vT.x = -1.93507e-006
+   vT.y = 1
+   vT.z = -4.64567e-007
+
+   vSxT.x = -0.233444
+   vSxT.y = 0
+   vSxT.z = 0.97237
+
+   u0 = 0.85625
+   v0 = -0.0320761
+
+   u1 = 0.85625
+   v1 = -0.0320761
+
+   u2 = 0.85625
+   v2 = -0.0320761
+
+   u3 = 0.85625
+   v3 = -0.0320761
+
+Vertex 100 of 176
+
+   vPosition.x = 74.8795
+   vPosition.y = -2.028
+   vPosition.z = -18.8521
+
+   vNormal.x = 0.370906
+   vNormal.y = 0
+   vNormal.z = -0.92867
+
+   vS.x = 0.92867
+   vS.y = 2.2168e-006
+   vS.z = 0.370906
+
+   vT.x = 2.05867e-006
+   vT.y = -1
+   vT.z = 8.22223e-007
+
+   vSxT.x = 0.370906
+   vSxT.y = 0
+   vSxT.z = -0.92867
+
+   u0 = 0.391672
+   v0 = -0.0320772
+
+   u1 = 0.391672
+   v1 = -0.0320772
+
+   u2 = 0.391672
+   v2 = -0.0320772
+
+   u3 = 0.391672
+   v3 = -0.0320772
+
+Vertex 101 of 176
+
+   vPosition.x = 103
+   vPosition.y = 2.02799
+   vPosition.z = -12
+
+   vNormal.x = 0.236742
+   vNormal.y = 0
+   vNormal.z = -0.971573
+
+   vS.x = 0.971573
+   vS.y = 2.10466e-006
+   vS.z = 0.236742
+
+   vT.x = 2.04483e-006
+   vT.y = -1
+   vT.z = 4.9826e-007
+
+   vSxT.x = 0.236742
+   vSxT.y = 0
+   vSxT.z = -0.971573
+
+   u0 = 0.503438
+   v0 = -0.0479207
+
+   u1 = 0.503438
+   v1 = -0.0479207
+
+   u2 = 0.503438
+   v2 = -0.0479207
+
+   u3 = 0.503438
+   v3 = -0.0479207
+
+Vertex 102 of 176
+
+   vPosition.x = 74.8795
+   vPosition.y = 2.02799
+   vPosition.z = -18.8521
+
+   vNormal.x = 0.500228
+   vNormal.y = 0
+   vNormal.z = -0.865894
+
+   vS.x = 0.865894
+   vS.y = 2.23765e-006
+   vS.z = 0.500228
+
+   vT.x = 1.93757e-006
+   vT.y = -1
+   vT.z = 1.11934e-006
+
+   vSxT.x = 0.500228
+   vSxT.y = 0
+   vSxT.z = -0.865894
+
+   u0 = 0.391672
+   v0 = -0.047921
+
+   u1 = 0.391672
+   v1 = -0.047921
+
+   u2 = 0.391672
+   v2 = -0.047921
+
+   u3 = 0.391672
+   v3 = -0.047921
+
+Vertex 103 of 176
+
+   vPosition.x = 103
+   vPosition.y = -2.02801
+   vPosition.z = -12
+
+   vNormal.x = 0.236742
+   vNormal.y = 0
+   vNormal.z = -0.971573
+
+   vS.x = 0.971573
+   vS.y = 1.93579e-006
+   vS.z = 0.236742
+
+   vT.x = 1.88076e-006
+   vT.y = -1
+   vT.z = 4.58283e-007
+
+   vSxT.x = 0.236742
+   vSxT.y = 0
+   vSxT.z = -0.971573
+
+   u0 = 0.503438
+   v0 = -0.0320769
+
+   u1 = 0.503438
+   v1 = -0.0320769
+
+   u2 = 0.503438
+   v2 = -0.0320769
+
+   u3 = 0.503438
+   v3 = -0.0320769
+
+Vertex 104 of 176
+
+   vPosition.x = 47.1604
+   vPosition.y = -2.028
+   vPosition.z = -35.5016
+
+   vNormal.x = -0.694113
+   vNormal.y = 0
+   vNormal.z = 0.719867
+
+   vS.x = 0.719867
+   vS.y = 2.02803e-006
+   vS.z = 0.694113
+
+   vT.x = -1.45991e-006
+   vT.y = 1
+   vT.z = -1.40768e-006
+
+   vSxT.x = -0.694113
+   vSxT.y = 0
+   vSxT.z = 0.719867
+
+   u0 = 0.618822
+   v0 = -0.0320767
+
+   u1 = 0.618822
+   v1 = -0.0320767
+
+   u2 = 0.618822
+   v2 = -0.0320767
+
+   u3 = 0.618822
+   v3 = -0.0320767
+
+Vertex 105 of 176
+
+   vPosition.x = 47.1604
+   vPosition.y = 2.028
+   vPosition.z = -35.5016
+
+   vNormal.x = -0.769509
+   vNormal.y = 0
+   vNormal.z = 0.638635
+
+   vS.x = 0.638635
+   vS.y = 2.05113e-006
+   vS.z = 0.769509
+
+   vT.x = -1.30992e-006
+   vT.y = 1
+   vT.z = -1.57836e-006
+
+   vSxT.x = -0.769509
+   vSxT.y = 0
+   vSxT.z = 0.638635
+
+   u0 = 0.618822
+   v0 = -0.0479205
+
+   u1 = 0.618822
+   v1 = -0.0479205
+
+   u2 = 0.618822
+   v2 = -0.0479205
+
+   u3 = 0.618822
+   v3 = -0.0479205
+
+Vertex 106 of 176
+
+   vPosition.x = 49.5115
+   vPosition.y = -2.028
+   vPosition.z = -38.7376
+
+   vNormal.x = 0.699182
+   vNormal.y = 0
+   vNormal.z = -0.714944
+
+   vS.x = 0.714944
+   vS.y = 2.1841e-006
+   vS.z = 0.699182
+
+   vT.x = 1.56151e-006
+   vT.y = -1
+   vT.z = 1.52708e-006
+
+   vSxT.x = 0.699182
+   vSxT.y = 0
+   vSxT.z = -0.714944
+
+   u0 = 0.263994
+   v0 = -0.0320775
+
+   u1 = 0.263994
+   v1 = -0.0320775
+
+   u2 = 0.263994
+   v2 = -0.0320775
+
+   u3 = 0.263994
+   v3 = -0.0320775
+
+Vertex 107 of 176
+
+   vPosition.x = 49.5115
+   vPosition.y = 2.028
+   vPosition.z = -38.7376
+
+   vNormal.x = 0.773919
+   vNormal.y = 0
+   vNormal.z = -0.633284
+
+   vS.x = 0.633284
+   vS.y = 2.13714e-006
+   vS.z = 0.77392
+
+   vT.x = 1.35342e-006
+   vT.y = -1
+   vT.z = 1.65398e-006
+
+   vSxT.x = 0.773919
+   vSxT.y = 0
+   vSxT.z = -0.633284
+
+   u0 = 0.263994
+   v0 = -0.0479213
+
+   u1 = 0.263994
+   v1 = -0.0479213
+
+   u2 = 0.263994
+   v2 = -0.0479213
+
+   u3 = 0.263994
+   v3 = -0.0479213
+
+Vertex 108 of 176
+
+   vPosition.x = 26.1434
+   vPosition.y = -2.028
+   vPosition.z = -67.3589
+
+   vNormal.x = -0.878971
+   vNormal.y = 0
+   vNormal.z = 0.476875
+
+   vS.x = 0.476875
+   vS.y = 2.17693e-006
+   vS.z = 0.878971
+
+   vT.x = -1.03812e-006
+   vT.y = 1
+   vT.z = -1.91346e-006
+
+   vSxT.x = -0.878971
+   vSxT.y = 0
+   vSxT.z = 0.476875
+
+   u0 = 0.479379
+   v0 = -0.032077
+
+   u1 = 0.479379
+   v1 = -0.032077
+
+   u2 = 0.479379
+   v2 = -0.032077
+
+   u3 = 0.479379
+   v3 = -0.032077
+
+Vertex 109 of 176
+
+   vPosition.x = 26.1434
+   vPosition.y = 2.028
+   vPosition.z = -67.3589
+
+   vNormal.x = -0.916975
+   vNormal.y = 0
+   vNormal.z = 0.398943
+
+   vS.x = 0.398943
+   vS.y = 2.18881e-006
+   vS.z = 0.916975
+
+   vT.x = -8.73211e-007
+   vT.y = 1
+   vT.z = -2.00708e-006
+
+   vSxT.x = -0.916975
+   vSxT.y = 0
+   vSxT.z = 0.398943
+
+   u0 = 0.479379
+   v0 = -0.0479208
+
+   u1 = 0.479379
+   v1 = -0.0479208
+
+   u2 = 0.479379
+   v2 = -0.0479208
+
+   u3 = 0.479379
+   v3 = -0.0479208
+
+Vertex 110 of 176
+
+   vPosition.x = 29.3795
+   vPosition.y = -2.028
+   vPosition.z = -69.7101
+
+   vNormal.x = 0.881831
+   vNormal.y = 0
+   vNormal.z = -0.471566
+
+   vS.x = 0.471566
+   vS.y = 2.18853e-006
+   vS.z = 0.881831
+
+   vT.x = 1.03204e-006
+   vT.y = -1
+   vT.z = 1.92991e-006
+
+   vSxT.x = 0.881831
+   vSxT.y = 0
+   vSxT.z = -0.471566
+
+   u0 = 0.128008
+   v0 = -0.0320778
+
+   u1 = 0.128008
+   v1 = -0.0320778
+
+   u2 = 0.128008
+   v2 = -0.0320778
+
+   u3 = 0.128008
+   v3 = -0.0320778
+
+Vertex 111 of 176
+
+   vPosition.x = 29.3795
+   vPosition.y = 2.028
+   vPosition.z = -69.7101
+
+   vNormal.x = 0.919051
+   vNormal.y = 0
+   vNormal.z = -0.394138
+
+   vS.x = 0.394138
+   vS.y = 2.19253e-006
+   vS.z = 0.919051
+
+   vT.x = 8.6416e-007
+   vT.y = -1
+   vT.z = 2.01505e-006
+
+   vSxT.x = 0.919051
+   vSxT.y = 0
+   vSxT.z = -0.394138
+
+   u0 = 0.128008
+   v0 = -0.0479216
+
+   u1 = 0.128008
+   v1 = -0.0479216
+
+   u2 = 0.128008
+   v2 = -0.0479216
+
+   u3 = 0.128008
+   v3 = -0.0479216
+
+Vertex 112 of 176
+
+   vPosition.x = 12.6496
+   vPosition.y = -2.028
+   vPosition.z = -107.502
+
+   vNormal.x = -0.968659
+   vNormal.y = 0
+   vNormal.z = 0.248395
+
+   vS.x = 0.248395
+   vS.y = 2.15345e-006
+   vS.z = 0.968659
+
+   vT.x = -5.34906e-007
+   vT.y = 1
+   vT.z = -2.08596e-006
+
+   vSxT.x = -0.968659
+   vSxT.y = 0
+   vSxT.z = 0.248395
+
+   u0 = 0.322572
+   v0 = -0.0320774
+
+   u1 = 0.322572
+   v1 = -0.0320774
+
+   u2 = 0.322572
+   v2 = -0.0320774
+
+   u3 = 0.322572
+   v3 = -0.0320774
+
+Vertex 113 of 176
+
+   vPosition.x = 12.6496
+   vPosition.y = 2.028
+   vPosition.z = -107.502
+
+   vNormal.x = -0.984311
+   vNormal.y = 0
+   vNormal.z = 0.17644
+
+   vS.x = 0.17644
+   vS.y = 2.11255e-006
+   vS.z = 0.984311
+
+   vT.x = -3.72738e-007
+   vT.y = 1
+   vT.z = -2.0794e-006
+
+   vSxT.x = -0.984311
+   vSxT.y = 0
+   vSxT.z = 0.17644
+
+   u0 = 0.322572
+   v0 = -0.0479212
+
+   u1 = 0.322572
+   v1 = -0.0479212
+
+   u2 = 0.322572
+   v2 = -0.0479212
+
+   u3 = 0.322572
+   v3 = -0.0479212
+
+Vertex 114 of 176
+
+   vPosition.x = 16.4539
+   vPosition.y = -2.028
+   vPosition.z = -108.738
+
+   vNormal.x = 0.969518
+   vNormal.y = 0
+   vNormal.z = -0.245018
+
+   vS.x = 0.245018
+   vS.y = 2.14834e-006
+   vS.z = 0.969518
+
+   vT.x = 5.26382e-007
+   vT.y = -1
+   vT.z = 2.08285e-006
+
+   vSxT.x = 0.969518
+   vSxT.y = 0
+   vSxT.z = -0.245018
+
+   u0 = -0.0244437
+   v0 = -0.0320782
+
+   u1 = -0.0244437
+   v1 = -0.0320782
+
+   u2 = -0.0244437
+   v2 = -0.0320782
+
+   u3 = -0.0244437
+   v3 = -0.0320782
+
+Vertex 115 of 176
+
+   vPosition.x = 16.4539
+   vPosition.y = 2.028
+   vPosition.z = -108.738
+
+   vNormal.x = 0.984749
+   vNormal.y = 0
+   vNormal.z = -0.173983
+
+   vS.x = 0.173983
+   vS.y = 2.10837e-006
+   vS.z = 0.984749
+
+   vT.x = 3.66821e-007
+   vT.y = -1
+   vT.z = 2.07622e-006
+
+   vSxT.x = 0.984749
+   vSxT.y = 0
+   vSxT.z = -0.173983
+
+   u0 = -0.0244437
+   v0 = -0.047922
+
+   u1 = -0.0244437
+   v1 = -0.047922
+
+   u2 = -0.0244437
+   v2 = -0.047922
+
+   u3 = -0.0244437
+   v3 = -0.047922
+
+Vertex 116 of 176
+
+   vPosition.x = 8
+   vPosition.y = -2.02799
+   vPosition.z = -152
+
+   vNormal.x = -0.994585
+   vNormal.y = 0
+   vNormal.z = 0.103924
+
+   vS.x = 0.103924
+   vS.y = 2.05961e-006
+   vS.z = 0.994585
+
+   vT.x = -2.14042e-007
+   vT.y = 1
+   vT.z = -2.04846e-006
+
+   vSxT.x = -0.994585
+   vSxT.y = 0
+   vSxT.z = 0.103924
+
+   u0 = 0.14875
+   v0 = -0.0320778
+
+   u1 = 0.14875
+   v1 = -0.0320778
+
+   u2 = 0.14875
+   v2 = -0.0320778
+
+   u3 = 0.14875
+   v3 = -0.0320778
+
+Vertex 117 of 176
+
+   vPosition.x = 8
+   vPosition.y = 2.02801
+   vPosition.z = -152
+
+   vNormal.x = -0.994585
+   vNormal.y = 0
+   vNormal.z = 0.103924
+
+   vS.x = 0.103924
+   vS.y = 2.06227e-006
+   vS.z = 0.994585
+
+   vT.x = -2.14319e-007
+   vT.y = 1
+   vT.z = -2.05111e-006
+
+   vSxT.x = -0.994585
+   vSxT.y = 0
+   vSxT.z = 0.103924
+
+   u0 = 0.14875
+   v0 = -0.0479216
+
+   u1 = 0.14875
+   v1 = -0.0479216
+
+   u2 = 0.14875
+   v2 = -0.0479216
+
+   u3 = 0.14875
+   v3 = -0.0479216
+
+Vertex 118 of 176
+
+   vPosition.x = 12
+   vPosition.y = -2.02799
+   vPosition.z = -152
+
+   vNormal.x = 0.994742
+   vNormal.y = 0
+   vNormal.z = -0.102409
+
+   vS.x = 0.102409
+   vS.y = 2.05575e-006
+   vS.z = 0.994742
+
+   vT.x = 2.10526e-007
+   vT.y = -1
+   vT.z = 2.04494e-006
+
+   vSxT.x = 0.994742
+   vSxT.y = 0
+   vSxT.z = -0.102409
+
+   u0 = -0.193438
+   v0 = -0.0320785
+
+   u1 = -0.193438
+   v1 = -0.0320785
+
+   u2 = -0.193438
+   v2 = -0.0320785
+
+   u3 = -0.193438
+   v3 = -0.0320785
+
+Vertex 119 of 176
+
+   vPosition.x = 12
+   vPosition.y = 2.02801
+   vPosition.z = -152
+
+   vNormal.x = 0.994742
+   vNormal.y = 0
+   vNormal.z = -0.102409
+
+   vS.x = 0.102409
+   vS.y = 2.06123e-006
+   vS.z = 0.994742
+
+   vT.x = 2.11088e-007
+   vT.y = -1
+   vT.z = 2.05039e-006
+
+   vSxT.x = 0.994742
+   vSxT.y = 0
+   vSxT.z = -0.102409
+
+   u0 = -0.193438
+   v0 = -0.0479223
+
+   u1 = -0.193438
+   v1 = -0.0479223
+
+   u2 = -0.193438
+   v2 = -0.0479223
+
+   u3 = -0.193438
+   v3 = -0.0479223
+
+Vertex 120 of 176
+
+   vPosition.x = 103
+   vPosition.y = 2.02799
+   vPosition.z = -12
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 0.971949
+   vS.y = 0
+   vS.z = 0.23519
+
+   vT.x = 0.23519
+   vT.y = 0
+   vT.z = -0.971949
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.937988
+   v0 = -0.0343818
+
+   u1 = 0.937988
+   v1 = -0.0343818
+
+   u2 = 0.937988
+   v2 = -0.0343818
+
+   u3 = 0.937988
+   v3 = -0.0343818
+
+Vertex 121 of 176
+
+   vPosition.x = 103
+   vPosition.y = 2.02799
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 0.97235
+   vS.y = 0
+   vS.z = 0.23353
+
+   vT.x = 0.23353
+   vT.y = 0
+   vT.z = -0.972349
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.941768
+   v0 = -0.0497567
+
+   u1 = 0.941768
+   v1 = -0.0497567
+
+   u2 = 0.941768
+   v2 = -0.0497567
+
+   u3 = 0.941768
+   v3 = -0.0497567
+
+Vertex 122 of 176
+
+   vPosition.x = 73.6434
+   vPosition.y = 2.02799
+   vPosition.z = -15.0479
+
+   vNormal.x = 1.00753e-007
+   vNormal.y = 1
+   vNormal.z = 3.27378e-008
+
+   vS.x = 0.929935
+   vS.y = -1.05732e-007
+   vS.z = 0.367725
+
+   vT.x = 0.367725
+   vT.y = -6.6055e-009
+   vT.z = -0.929935
+
+   vSxT.x = 1.00753e-007
+   vSxT.y = 1
+   vSxT.z = 3.27378e-008
+
+   u0 = 0.82384
+   v0 = -0.0497673
+
+   u1 = 0.82384
+   v1 = -0.0497673
+
+   u2 = 0.82384
+   v2 = -0.0497673
+
+   u3 = 0.82384
+   v3 = -0.0497673
+
+Vertex 123 of 176
+
+   vPosition.x = 74.8795
+   vPosition.y = 2.02799
+   vPosition.z = -18.8521
+
+   vNormal.x = 1.84586e-007
+   vNormal.y = 1
+   vNormal.z = 9.36461e-008
+
+   vS.x = 0.867087
+   vS.y = -2.06703e-007
+   vS.z = 0.498156
+
+   vT.x = 0.498156
+   vT.y = -1.07533e-008
+   vT.z = -0.867087
+
+   vSxT.x = 1.84586e-007
+   vSxT.y = 1
+   vSxT.z = 9.36461e-008
+
+   u0 = 0.82493
+   v0 = -0.0343942
+
+   u1 = 0.82493
+   v1 = -0.0343942
+
+   u2 = 0.82493
+   v2 = -0.0343942
+
+   u3 = 0.82493
+   v3 = -0.0343942
+
+Vertex 124 of 176
+
+   vPosition.x = 103
+   vPosition.y = -2.02801
+   vPosition.z = -8
+
+   vNormal.x = -3.3298e-007
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.97235
+   vS.y = -3.23773e-007
+   vS.z = 0.23353
+
+   vT.x = -0.23353
+   vT.y = 7.77609e-008
+   vT.z = 0.972349
+
+   vSxT.x = -3.3298e-007
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.941768
+   v0 = -0.0497567
+
+   u1 = 0.941768
+   v1 = -0.0497567
+
+   u2 = 0.941768
+   v2 = -0.0497567
+
+   u3 = 0.941768
+   v3 = -0.0497567
+
+Vertex 125 of 176
+
+   vPosition.x = 103
+   vPosition.y = -2.02801
+   vPosition.z = -12
+
+   vNormal.x = -3.27547e-007
+   vNormal.y = -1
+   vNormal.z = -5.23322e-008
+
+   vS.x = 0.971949
+   vS.y = -3.30667e-007
+   vS.z = 0.23519
+
+   vT.x = -0.23519
+   vT.y = 2.61715e-008
+   vT.z = 0.971949
+
+   vSxT.x = -3.27547e-007
+   vSxT.y = -1
+   vSxT.z = -5.23322e-008
+
+   u0 = 0.937988
+   v0 = -0.0343818
+
+   u1 = 0.937988
+   v1 = -0.0343818
+
+   u2 = 0.937988
+   v2 = -0.0343818
+
+   u3 = 0.937988
+   v3 = -0.0343818
+
+Vertex 126 of 176
+
+   vPosition.x = 73.6434
+   vPosition.y = -2.028
+   vPosition.z = -15.0479
+
+   vNormal.x = -2.18365e-007
+   vNormal.y = -1
+   vNormal.z = -3.48881e-008
+
+   vS.x = 0.929935
+   vS.y = -2.15894e-007
+   vS.z = 0.367725
+
+   vT.x = -0.367725
+   vT.y = 4.78544e-008
+   vT.z = 0.929935
+
+   vSxT.x = -2.18365e-007
+   vSxT.y = -1
+   vSxT.z = -3.48881e-008
+
+   u0 = 0.82384
+   v0 = -0.0497673
+
+   u1 = 0.82384
+   v1 = -0.0497673
+
+   u2 = 0.82384
+   v2 = -0.0497673
+
+   u3 = 0.82384
+   v3 = -0.0497673
+
+Vertex 127 of 176
+
+   vPosition.x = 74.8795
+   vPosition.y = -2.028
+   vPosition.z = -18.8521
+
+   vNormal.x = -1.07371e-007
+   vNormal.y = -1
+   vNormal.z = -3.48881e-008
+
+   vS.x = 0.867087
+   vS.y = -1.1048e-007
+   vS.z = 0.498156
+
+   vT.x = -0.498156
+   vT.y = 2.32365e-008
+   vT.z = 0.867087
+
+   vSxT.x = -1.07371e-007
+   vSxT.y = -1
+   vSxT.z = -3.48881e-008
+
+   u0 = 0.82493
+   v0 = -0.0343942
+
+   u1 = 0.82493
+   v1 = -0.0343942
+
+   u2 = 0.82493
+   v2 = -0.0343942
+
+   u3 = 0.82493
+   v3 = -0.0343942
+
+Vertex 128 of 176
+
+   vPosition.x = 74.8795
+   vPosition.y = 2.02799
+   vPosition.z = -18.8521
+
+   vNormal.x = 1.84586e-007
+   vNormal.y = 1
+   vNormal.z = 9.36461e-008
+
+   vS.x = 0.867087
+   vS.y = -2.06703e-007
+   vS.z = 0.498156
+
+   vT.x = 0.498156
+   vT.y = -1.07533e-008
+   vT.z = -0.867087
+
+   vSxT.x = 1.84586e-007
+   vSxT.y = 1
+   vSxT.z = 9.36461e-008
+
+   u0 = 0.819404
+   v0 = -0.0353279
+
+   u1 = 0.819404
+   v1 = -0.0353279
+
+   u2 = 0.819404
+   v2 = -0.0353279
+
+   u3 = 0.819404
+   v3 = -0.0353279
+
+Vertex 129 of 176
+
+   vPosition.x = 73.6434
+   vPosition.y = 2.02799
+   vPosition.z = -15.0479
+
+   vNormal.x = 1.00753e-007
+   vNormal.y = 1
+   vNormal.z = 3.27378e-008
+
+   vS.x = 0.929935
+   vS.y = -1.05732e-007
+   vS.z = 0.367725
+
+   vT.x = 0.367725
+   vT.y = -6.6055e-009
+   vT.z = -0.929935
+
+   vSxT.x = 1.00753e-007
+   vSxT.y = 1
+   vSxT.z = 3.27378e-008
+
+   u0 = 0.824748
+   v0 = -0.050476
+
+   u1 = 0.824748
+   v1 = -0.050476
+
+   u2 = 0.824748
+   v2 = -0.050476
+
+   u3 = 0.824748
+   v3 = -0.050476
+
+Vertex 130 of 176
+
+   vPosition.x = 47.1604
+   vPosition.y = 2.028
+   vPosition.z = -35.5016
+
+   vNormal.x = 1.84586e-007
+   vNormal.y = 1
+   vNormal.z = 9.36461e-008
+
+   vS.x = 0.718192
+   vS.y = -1.97731e-007
+   vS.z = 0.695845
+
+   vT.x = 0.695845
+   vT.y = -6.11873e-008
+   vT.z = -0.718192
+
+   vSxT.x = 1.84586e-007
+   vSxT.y = 1
+   vSxT.z = 9.36461e-008
+
+   u0 = 0.694039
+   v0 = -0.0504763
+
+   u1 = 0.694039
+   v1 = -0.0504763
+
+   u2 = 0.694039
+   v2 = -0.0504763
+
+   u3 = 0.694039
+   v3 = -0.0504763
+
+Vertex 131 of 176
+
+   vPosition.x = 49.5115
+   vPosition.y = 2.028
+   vPosition.z = -38.7376
+
+   vNormal.x = 8.38327e-008
+   vNormal.y = 1
+   vNormal.z = 6.09082e-008
+
+   vS.x = 0.635098
+   vS.y = -1.00289e-007
+   vS.z = 0.772432
+
+   vT.x = 0.772432
+   vT.y = -2.60723e-008
+   vT.z = -0.635098
+
+   vSxT.x = 8.38327e-008
+   vSxT.y = 1
+   vSxT.z = 6.09082e-008
+
+   u0 = 0.693494
+   v0 = -0.0353261
+
+   u1 = 0.693494
+   v1 = -0.0353261
+
+   u2 = 0.693494
+   v2 = -0.0353261
+
+   u3 = 0.693494
+   v3 = -0.0353261
+
+Vertex 132 of 176
+
+   vPosition.x = 73.6434
+   vPosition.y = -2.028
+   vPosition.z = -15.0479
+
+   vNormal.x = -2.18365e-007
+   vNormal.y = -1
+   vNormal.z = -3.48881e-008
+
+   vS.x = 0.929935
+   vS.y = -2.15894e-007
+   vS.z = 0.367725
+
+   vT.x = -0.367725
+   vT.y = 4.78544e-008
+   vT.z = 0.929935
+
+   vSxT.x = -2.18365e-007
+   vSxT.y = -1
+   vSxT.z = -3.48881e-008
+
+   u0 = 0.824748
+   v0 = -0.050476
+
+   u1 = 0.824748
+   v1 = -0.050476
+
+   u2 = 0.824748
+   v2 = -0.050476
+
+   u3 = 0.824748
+   v3 = -0.050476
+
+Vertex 133 of 176
+
+   vPosition.x = 74.8795
+   vPosition.y = -2.028
+   vPosition.z = -18.8521
+
+   vNormal.x = -1.07371e-007
+   vNormal.y = -1
+   vNormal.z = -3.48881e-008
+
+   vS.x = 0.867087
+   vS.y = -1.1048e-007
+   vS.z = 0.498156
+
+   vT.x = -0.498156
+   vT.y = 2.32365e-008
+   vT.z = 0.867087
+
+   vSxT.x = -1.07371e-007
+   vSxT.y = -1
+   vSxT.z = -3.48881e-008
+
+   u0 = 0.819404
+   v0 = -0.0353279
+
+   u1 = 0.819404
+   v1 = -0.0353279
+
+   u2 = 0.819404
+   v2 = -0.0353279
+
+   u3 = 0.819404
+   v3 = -0.0353279
+
+Vertex 134 of 176
+
+   vPosition.x = 47.1604
+   vPosition.y = -2.028
+   vPosition.z = -35.5016
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.718192
+   vS.y = 0
+   vS.z = 0.695845
+
+   vT.x = -0.695845
+   vT.y = 0
+   vT.z = 0.718192
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.694039
+   v0 = -0.0504763
+
+   u1 = 0.694039
+   v1 = -0.0504763
+
+   u2 = 0.694039
+   v2 = -0.0504763
+
+   u3 = 0.694039
+   v3 = -0.0504763
+
+Vertex 135 of 176
+
+   vPosition.x = 49.5115
+   vPosition.y = -2.028
+   vPosition.z = -38.7376
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.635098
+   vS.y = 0
+   vS.z = 0.772432
+
+   vT.x = -0.772432
+   vT.y = 0
+   vT.z = 0.635098
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.693494
+   v0 = -0.0353261
+
+   u1 = 0.693494
+   v1 = -0.0353261
+
+   u2 = 0.693494
+   v2 = -0.0353261
+
+   u3 = 0.693494
+   v3 = -0.0353261
+
+Vertex 136 of 176
+
+   vPosition.x = 49.5115
+   vPosition.y = 2.028
+   vPosition.z = -38.7376
+
+   vNormal.x = 8.38327e-008
+   vNormal.y = 1
+   vNormal.z = 6.09082e-008
+
+   vS.x = 0.635098
+   vS.y = -1.00289e-007
+   vS.z = 0.772432
+
+   vT.x = 0.772432
+   vT.y = -2.60723e-008
+   vT.z = -0.635098
+
+   vSxT.x = 8.38327e-008
+   vSxT.y = 1
+   vSxT.z = 6.09082e-008
+
+   u0 = 0.688197
+   v0 = -0.035745
+
+   u1 = 0.688197
+   v1 = -0.035745
+
+   u2 = 0.688197
+   v2 = -0.035745
+
+   u3 = 0.688197
+   v3 = -0.035745
+
+Vertex 137 of 176
+
+   vPosition.x = 47.1604
+   vPosition.y = 2.028
+   vPosition.z = -35.5016
+
+   vNormal.x = 1.84586e-007
+   vNormal.y = 1
+   vNormal.z = 9.36461e-008
+
+   vS.x = 0.718192
+   vS.y = -1.97731e-007
+   vS.z = 0.695845
+
+   vT.x = 0.695845
+   vT.y = -6.11873e-008
+   vT.z = -0.718192
+
+   vSxT.x = 1.84586e-007
+   vSxT.y = 1
+   vSxT.z = 9.36461e-008
+
+   u0 = 0.693541
+   v0 = -0.0508818
+
+   u1 = 0.693541
+   v1 = -0.0508818
+
+   u2 = 0.693541
+   v2 = -0.0508818
+
+   u3 = 0.693541
+   v3 = -0.0508818
+
+Vertex 138 of 176
+
+   vPosition.x = 26.1434
+   vPosition.y = 2.028
+   vPosition.z = -67.3589
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 0.474921
+   vS.y = 0
+   vS.z = 0.880029
+
+   vT.x = 0.880029
+   vT.y = 0
+   vT.z = -0.474921
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.544465
+   v0 = -0.0508821
+
+   u1 = 0.544465
+   v1 = -0.0508821
+
+   u2 = 0.544465
+   v2 = -0.0508821
+
+   u3 = 0.544465
+   v3 = -0.0508821
+
+Vertex 139 of 176
+
+   vPosition.x = 29.3795
+   vPosition.y = 2.028
+   vPosition.z = -69.7101
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 0.395557
+   vS.y = 0
+   vS.z = 0.918442
+
+   vT.x = 0.918442
+   vT.y = 0
+   vT.z = -0.395557
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.543919
+   v0 = -0.0357208
+
+   u1 = 0.543919
+   v1 = -0.0357208
+
+   u2 = 0.543919
+   v2 = -0.0357208
+
+   u3 = 0.543919
+   v3 = -0.0357208
+
+Vertex 140 of 176
+
+   vPosition.x = 47.1604
+   vPosition.y = -2.028
+   vPosition.z = -35.5016
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.718192
+   vS.y = 0
+   vS.z = 0.695845
+
+   vT.x = -0.695845
+   vT.y = 0
+   vT.z = 0.718192
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.693541
+   v0 = -0.0508818
+
+   u1 = 0.693541
+   v1 = -0.0508818
+
+   u2 = 0.693541
+   v2 = -0.0508818
+
+   u3 = 0.693541
+   v3 = -0.0508818
+
+Vertex 141 of 176
+
+   vPosition.x = 49.5115
+   vPosition.y = -2.028
+   vPosition.z = -38.7376
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.635098
+   vS.y = 0
+   vS.z = 0.772432
+
+   vT.x = -0.772432
+   vT.y = 0
+   vT.z = 0.635098
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.688197
+   v0 = -0.035745
+
+   u1 = 0.688197
+   v1 = -0.035745
+
+   u2 = 0.688197
+   v2 = -0.035745
+
+   u3 = 0.688197
+   v3 = -0.035745
+
+Vertex 142 of 176
+
+   vPosition.x = 26.1434
+   vPosition.y = -2.028
+   vPosition.z = -67.3589
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.474921
+   vS.y = 0
+   vS.z = 0.880029
+
+   vT.x = -0.880029
+   vT.y = 0
+   vT.z = 0.474921
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.544465
+   v0 = -0.0508821
+
+   u1 = 0.544465
+   v1 = -0.0508821
+
+   u2 = 0.544465
+   v2 = -0.0508821
+
+   u3 = 0.544465
+   v3 = -0.0508821
+
+Vertex 143 of 176
+
+   vPosition.x = 29.3795
+   vPosition.y = -2.028
+   vPosition.z = -69.7101
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.395557
+   vS.y = 0
+   vS.z = 0.918442
+
+   vT.x = -0.918442
+   vT.y = 0
+   vT.z = 0.395557
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.543919
+   v0 = -0.0357208
+
+   u1 = 0.543919
+   v1 = -0.0357208
+
+   u2 = 0.543919
+   v2 = -0.0357208
+
+   u3 = 0.543919
+   v3 = -0.0357208
+
+Vertex 144 of 176
+
+   vPosition.x = 29.3795
+   vPosition.y = 2.028
+   vPosition.z = -69.7101
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 0.395557
+   vS.y = 0
+   vS.z = 0.918442
+
+   vT.x = 0.918442
+   vT.y = 0
+   vT.z = -0.395557
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.540313
+   v0 = -0.0355741
+
+   u1 = 0.540313
+   v1 = -0.0355741
+
+   u2 = 0.540313
+   v2 = -0.0355741
+
+   u3 = 0.540313
+   v3 = -0.0355741
+
+Vertex 145 of 176
+
+   vPosition.x = 26.1434
+   vPosition.y = 2.028
+   vPosition.z = -67.3589
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 0
+
+   vS.x = 0.474921
+   vS.y = 0
+   vS.z = 0.880029
+
+   vT.x = 0.880029
+   vT.y = 0
+   vT.z = -0.474921
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 0
+
+   u0 = 0.545141
+   v0 = -0.0508173
+
+   u1 = 0.545141
+   v1 = -0.0508173
+
+   u2 = 0.545141
+   v2 = -0.0508173
+
+   u3 = 0.545141
+   v3 = -0.0508173
+
+Vertex 146 of 176
+
+   vPosition.x = 12.6496
+   vPosition.y = 2.028
+   vPosition.z = -107.502
+
+   vNormal.x = 2.30115e-008
+   vNormal.y = 1
+   vNormal.z = 7.08202e-008
+
+   vS.x = 0.246949
+   vS.y = -7.43094e-008
+   vS.z = 0.969029
+
+   vT.x = 0.969029
+   vT.y = -4.80981e-009
+   vT.z = -0.246949
+
+   vSxT.x = 2.30115e-008
+   vSxT.y = 1
+   vSxT.z = 7.08202e-008
+
+   u0 = 0.379721
+   v0 = -0.0508177
+
+   u1 = 0.379721
+   v1 = -0.0508177
+
+   u2 = 0.379721
+   v2 = -0.0508177
+
+   u3 = 0.379721
+   v3 = -0.0508177
+
+Vertex 147 of 176
+
+   vPosition.x = 16.4539
+   vPosition.y = 2.028
+   vPosition.z = -108.738
+
+   vNormal.x = 2.30115e-008
+   vNormal.y = 1
+   vNormal.z = 1.46137e-007
+
+   vS.x = 0.174495
+   vS.y = -1.4791e-007
+   vS.z = 0.984658
+
+   vT.x = 0.984658
+   vT.y = 2.84183e-009
+   vT.z = -0.174495
+
+   vSxT.x = 2.30115e-008
+   vSxT.y = 1
+   vSxT.z = 1.46137e-007
+
+   u0 = 0.379721
+   v0 = -0.0355757
+
+   u1 = 0.379721
+   v1 = -0.0355757
+
+   u2 = 0.379721
+   v2 = -0.0355757
+
+   u3 = 0.379721
+   v3 = -0.0355757
+
+Vertex 148 of 176
+
+   vPosition.x = 26.1434
+   vPosition.y = -2.028
+   vPosition.z = -67.3589
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.474921
+   vS.y = 0
+   vS.z = 0.880029
+
+   vT.x = -0.880029
+   vT.y = 0
+   vT.z = 0.474921
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.545141
+   v0 = -0.0508173
+
+   u1 = 0.545141
+   v1 = -0.0508173
+
+   u2 = 0.545141
+   v2 = -0.0508173
+
+   u3 = 0.545141
+   v3 = -0.0508173
+
+Vertex 149 of 176
+
+   vPosition.x = 29.3795
+   vPosition.y = -2.028
+   vPosition.z = -69.7101
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.395557
+   vS.y = 0
+   vS.z = 0.918442
+
+   vT.x = -0.918442
+   vT.y = 0
+   vT.z = 0.395557
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.540313
+   v0 = -0.0355741
+
+   u1 = 0.540313
+   v1 = -0.0355741
+
+   u2 = 0.540313
+   v2 = -0.0355741
+
+   u3 = 0.540313
+   v3 = -0.0355741
+
+Vertex 150 of 176
+
+   vPosition.x = 12.6496
+   vPosition.y = -2.028
+   vPosition.z = -107.502
+
+   vNormal.x = -2.35727e-008
+   vNormal.y = -1
+   vNormal.z = -7.25475e-008
+
+   vS.x = 0.246949
+   vS.y = -7.61219e-008
+   vS.z = 0.969029
+
+   vT.x = -0.969029
+   vT.y = 4.92713e-009
+   vT.z = 0.246949
+
+   vSxT.x = -2.35727e-008
+   vSxT.y = -1
+   vSxT.z = -7.25475e-008
+
+   u0 = 0.379721
+   v0 = -0.0508177
+
+   u1 = 0.379721
+   v1 = -0.0508177
+
+   u2 = 0.379721
+   v2 = -0.0508177
+
+   u3 = 0.379721
+   v3 = -0.0508177
+
+Vertex 151 of 176
+
+   vPosition.x = 16.4539
+   vPosition.y = -2.028
+   vPosition.z = -108.738
+
+   vNormal.x = -2.35727e-008
+   vNormal.y = -1
+   vNormal.z = -1.49701e-007
+
+   vS.x = 0.174495
+   vS.y = -1.51518e-007
+   vS.z = 0.984658
+
+   vT.x = -0.984658
+   vT.y = -2.91114e-009
+   vT.z = 0.174495
+
+   vSxT.x = -2.35727e-008
+   vSxT.y = -1
+   vSxT.z = -1.49701e-007
+
+   u0 = 0.379721
+   v0 = -0.0355757
+
+   u1 = 0.379721
+   v1 = -0.0355757
+
+   u2 = 0.379721
+   v2 = -0.0355757
+
+   u3 = 0.379721
+   v3 = -0.0355757
+
+Vertex 152 of 176
+
+   vPosition.x = 16.4539
+   vPosition.y = 2.028
+   vPosition.z = -108.738
+
+   vNormal.x = 2.30115e-008
+   vNormal.y = 1
+   vNormal.z = 1.46137e-007
+
+   vS.x = 0.174495
+   vS.y = -1.4791e-007
+   vS.z = 0.984658
+
+   vT.x = 0.984658
+   vT.y = 2.84183e-009
+   vT.z = -0.174495
+
+   vSxT.x = 2.30115e-008
+   vSxT.y = 1
+   vSxT.z = 1.46137e-007
+
+   u0 = 0.38112
+   v0 = -0.0351417
+
+   u1 = 0.38112
+   v1 = -0.0351417
+
+   u2 = 0.38112
+   v2 = -0.0351417
+
+   u3 = 0.38112
+   v3 = -0.0351417
+
+Vertex 153 of 176
+
+   vPosition.x = 12.6496
+   vPosition.y = 2.028
+   vPosition.z = -107.502
+
+   vNormal.x = 2.30115e-008
+   vNormal.y = 1
+   vNormal.z = 7.08202e-008
+
+   vS.x = 0.246949
+   vS.y = -7.43094e-008
+   vS.z = 0.969029
+
+   vT.x = 0.969029
+   vT.y = -4.80981e-009
+   vT.z = -0.246949
+
+   vSxT.x = 2.30115e-008
+   vSxT.y = 1
+   vSxT.z = 7.08202e-008
+
+   u0 = 0.384369
+   v0 = -0.0505501
+
+   u1 = 0.384369
+   v1 = -0.0505501
+
+   u2 = 0.384369
+   v2 = -0.0505501
+
+   u3 = 0.384369
+   v3 = -0.0505501
+
+Vertex 154 of 176
+
+   vPosition.x = 8
+   vPosition.y = 2.02801
+   vPosition.z = -152
+
+   vNormal.x = 3.45172e-008
+   vNormal.y = 1
+   vNormal.z = 2.19206e-007
+
+   vS.x = 0.103188
+   vS.y = -2.21597e-007
+   vS.z = 0.994662
+
+   vT.x = 0.994662
+   vT.y = -1.17135e-008
+   vT.z = -0.103188
+
+   vSxT.x = 3.45172e-008
+   vSxT.y = 1
+   vSxT.z = 2.19206e-007
+
+   u0 = 0.209601
+   v0 = -0.0505494
+
+   u1 = 0.209601
+   v1 = -0.0505494
+
+   u2 = 0.209601
+   v2 = -0.0505494
+
+   u3 = 0.209601
+   v3 = -0.0505494
+
+Vertex 155 of 176
+
+   vPosition.x = 12
+   vPosition.y = 2.02801
+   vPosition.z = -152
+
+   vNormal.x = 0
+   vNormal.y = 1
+   vNormal.z = 2.25951e-007
+
+   vS.x = 0.102449
+   vS.y = -2.24762e-007
+   vS.z = 0.994738
+
+   vT.x = 0.994738
+   vT.y = 2.31483e-008
+   vT.z = -0.102449
+
+   vSxT.x = 0
+   vSxT.y = 1
+   vSxT.z = 2.25951e-007
+
+   u0 = 0.211234
+   v0 = -0.0351349
+
+   u1 = 0.211234
+   v1 = -0.0351349
+
+   u2 = 0.211234
+   v2 = -0.0351349
+
+   u3 = 0.211234
+   v3 = -0.0351349
+
+Vertex 156 of 176
+
+   vPosition.x = 8
+   vPosition.y = -2.02799
+   vPosition.z = -152
+
+   vNormal.x = -3.53591e-008
+   vNormal.y = -1
+   vNormal.z = -2.24552e-007
+
+   vS.x = 0.103188
+   vS.y = -2.27002e-007
+   vS.z = 0.994662
+
+   vT.x = -0.994662
+   vT.y = 1.19992e-008
+   vT.z = 0.103188
+
+   vSxT.x = -3.53591e-008
+   vSxT.y = -1
+   vSxT.z = -2.24552e-007
+
+   u0 = 0.209601
+   v0 = -0.0505494
+
+   u1 = 0.209601
+   v1 = -0.0505494
+
+   u2 = 0.209601
+   v2 = -0.0505494
+
+   u3 = 0.209601
+   v3 = -0.0505494
+
+Vertex 157 of 176
+
+   vPosition.x = 16.4539
+   vPosition.y = -2.028
+   vPosition.z = -108.738
+
+   vNormal.x = -2.35727e-008
+   vNormal.y = -1
+   vNormal.z = -1.49701e-007
+
+   vS.x = 0.174495
+   vS.y = -1.51518e-007
+   vS.z = 0.984658
+
+   vT.x = -0.984658
+   vT.y = -2.91114e-009
+   vT.z = 0.174495
+
+   vSxT.x = -2.35727e-008
+   vSxT.y = -1
+   vSxT.z = -1.49701e-007
+
+   u0 = 0.38112
+   v0 = -0.0351417
+
+   u1 = 0.38112
+   v1 = -0.0351417
+
+   u2 = 0.38112
+   v2 = -0.0351417
+
+   u3 = 0.38112
+   v3 = -0.0351417
+
+Vertex 158 of 176
+
+   vPosition.x = 12
+   vPosition.y = -2.02799
+   vPosition.z = -152
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = -2.31462e-007
+
+   vS.x = 0.102449
+   vS.y = -2.30244e-007
+   vS.z = 0.994738
+
+   vT.x = -0.994738
+   vT.y = -2.37129e-008
+   vT.z = 0.102449
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = -2.31462e-007
+
+   u0 = 0.211234
+   v0 = -0.0351349
+
+   u1 = 0.211234
+   v1 = -0.0351349
+
+   u2 = 0.211234
+   v2 = -0.0351349
+
+   u3 = 0.211234
+   v3 = -0.0351349
+
+Vertex 159 of 176
+
+   vPosition.x = 12.6496
+   vPosition.y = -2.028
+   vPosition.z = -107.502
+
+   vNormal.x = -2.35727e-008
+   vNormal.y = -1
+   vNormal.z = -7.25475e-008
+
+   vS.x = 0.246949
+   vS.y = -7.61219e-008
+   vS.z = 0.969029
+
+   vT.x = -0.969029
+   vT.y = 4.92713e-009
+   vT.z = 0.246949
+
+   vSxT.x = -2.35727e-008
+   vSxT.y = -1
+   vSxT.z = -7.25475e-008
+
+   u0 = 0.384369
+   v0 = -0.0505501
+
+   u1 = 0.384369
+   v1 = -0.0505501
+
+   u2 = 0.384369
+   v2 = -0.0505501
+
+   u3 = 0.384369
+   v3 = -0.0505501
+
+Vertex 160 of 176
+
+   vPosition.x = 8
+   vPosition.y = 0.999996
+   vPosition.z = -10
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0.707107
+   vS.y = -2.29345e-006
+   vS.z = -0.707107
+
+   vT.x = -1.62171e-006
+   vT.y = -1
+   vT.z = 1.62171e-006
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = -0.131718
+   v0 = -0.00505501
+
+   u1 = -0.131718
+   v1 = -0.00505501
+
+   u2 = -0.131718
+   v2 = -0.00505501
+
+   u3 = -0.131718
+   v3 = -0.00505501
+
+Vertex 161 of 176
+
+   vPosition.x = 43
+   vPosition.y = -1
+   vPosition.z = -45
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0.707107
+   vS.y = -2.29345e-006
+   vS.z = -0.707107
+
+   vT.x = -1.62171e-006
+   vT.y = -1
+   vT.z = 1.62171e-006
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.0626137
+   v0 = -0.0129452
+
+   u1 = 0.0626137
+   v1 = -0.0129452
+
+   u2 = 0.0626137
+   v2 = -0.0129452
+
+   u3 = 0.0626137
+   v3 = -0.0129452
+
+Vertex 162 of 176
+
+   vPosition.x = 43
+   vPosition.y = 0.999995
+   vPosition.z = -45
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0.707107
+   vS.y = -2.30726e-006
+   vS.z = -0.707107
+
+   vT.x = -1.63148e-006
+   vT.y = -1
+   vT.z = 1.63148e-006
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = 0.0626137
+   v0 = -0.00505457
+
+   u1 = 0.0626137
+   v1 = -0.00505457
+
+   u2 = 0.0626137
+   v2 = -0.00505457
+
+   u3 = 0.0626137
+   v3 = -0.00505457
+
+Vertex 163 of 176
+
+   vPosition.x = 8
+   vPosition.y = -1
+   vPosition.z = -10
+
+   vNormal.x = -0.707107
+   vNormal.y = 0
+   vNormal.z = -0.707107
+
+   vS.x = 0.707107
+   vS.y = -2.27964e-006
+   vS.z = -0.707107
+
+   vT.x = -1.61195e-006
+   vT.y = -1
+   vT.z = 1.61195e-006
+
+   vSxT.x = -0.707107
+   vSxT.y = 0
+   vSxT.z = -0.707107
+
+   u0 = -0.131718
+   v0 = -0.0129456
+
+   u1 = -0.131718
+   v1 = -0.0129456
+
+   u2 = -0.131718
+   v2 = -0.0129456
+
+   u3 = -0.131718
+   v3 = -0.0129456
+
+Vertex 164 of 176
+
+   vPosition.x = 45
+   vPosition.y = -1
+   vPosition.z = -43
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = -2.29642e-006
+   vS.z = -0.707107
+
+   vT.x = 1.62382e-006
+   vT.y = 1
+   vT.z = -1.62382e-006
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.0627184
+   v0 = -0.0129452
+
+   u1 = 0.0627184
+   v1 = -0.0129452
+
+   u2 = 0.0627184
+   v2 = -0.0129452
+
+   u3 = 0.0627184
+   v3 = -0.0129452
+
+Vertex 165 of 176
+
+   vPosition.x = 10
+   vPosition.y = 0.999996
+   vPosition.z = -8
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = -2.29642e-006
+   vS.z = -0.707107
+
+   vT.x = 1.62382e-006
+   vT.y = 1
+   vT.z = -1.62382e-006
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = -0.131614
+   v0 = -0.00505501
+
+   u1 = -0.131614
+   v1 = -0.00505501
+
+   u2 = -0.131614
+   v2 = -0.00505501
+
+   u3 = -0.131614
+   v3 = -0.00505501
+
+Vertex 166 of 176
+
+   vPosition.x = 45
+   vPosition.y = 0.999995
+   vPosition.z = -43
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = -2.30367e-006
+   vS.z = -0.707107
+
+   vT.x = 1.62894e-006
+   vT.y = 1
+   vT.z = -1.62894e-006
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = 0.0627184
+   v0 = -0.00505457
+
+   u1 = 0.0627184
+   v1 = -0.00505457
+
+   u2 = 0.0627184
+   v2 = -0.00505457
+
+   u3 = 0.0627184
+   v3 = -0.00505457
+
+Vertex 167 of 176
+
+   vPosition.x = 10
+   vPosition.y = -1
+   vPosition.z = -8
+
+   vNormal.x = 0.707107
+   vNormal.y = 0
+   vNormal.z = 0.707107
+
+   vS.x = 0.707107
+   vS.y = -2.28917e-006
+   vS.z = -0.707107
+
+   vT.x = 1.61869e-006
+   vT.y = 1
+   vT.z = -1.61869e-006
+
+   vSxT.x = 0.707107
+   vSxT.y = 0
+   vSxT.z = 0.707107
+
+   u0 = -0.131614
+   v0 = -0.0129456
+
+   u1 = -0.131614
+   v1 = -0.0129456
+
+   u2 = -0.131614
+   v2 = -0.0129456
+
+   u3 = -0.131614
+   v3 = -0.0129456
+
+Vertex 168 of 176
+
+   vPosition.x = 8
+   vPosition.y = -1
+   vPosition.z = -10
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.707108
+   vS.y = 0
+   vS.z = -0.707105
+
+   vT.x = 0.707105
+   vT.y = 0
+   vT.z = 0.707108
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = -0.131142
+   v0 = -0.00296128
+
+   u1 = -0.131142
+   v1 = -0.00296128
+
+   u2 = -0.131142
+   v2 = -0.00296128
+
+   u3 = -0.131142
+   v3 = -0.00296128
+
+Vertex 169 of 176
+
+   vPosition.x = 10
+   vPosition.y = -1
+   vPosition.z = -8
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.707108
+   vS.y = 0
+   vS.z = -0.707105
+
+   vT.x = 0.707105
+   vT.y = 0
+   vT.z = 0.707108
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = -0.131146
+   v0 = -0.0140081
+
+   u1 = -0.131146
+   v1 = -0.0140081
+
+   u2 = -0.131146
+   v2 = -0.0140081
+
+   u3 = -0.131146
+   v3 = -0.0140081
+
+Vertex 170 of 176
+
+   vPosition.x = 43
+   vPosition.y = -1
+   vPosition.z = -45
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.707108
+   vS.y = 0
+   vS.z = -0.707105
+
+   vT.x = 0.707105
+   vT.y = 0
+   vT.z = 0.707108
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.0621756
+   v0 = -0.00296084
+
+   u1 = 0.0621756
+   v1 = -0.00296084
+
+   u2 = 0.0621756
+   v2 = -0.00296084
+
+   u3 = 0.0621756
+   v3 = -0.00296084
+
+Vertex 171 of 176
+
+   vPosition.x = 45
+   vPosition.y = -1
+   vPosition.z = -43
+
+   vNormal.x = 0
+   vNormal.y = -1
+   vNormal.z = 0
+
+   vS.x = 0.707108
+   vS.y = 0
+   vS.z = -0.707105
+
+   vT.x = 0.707105
+   vT.y = 0
+   vT.z = 0.707108
+
+   vSxT.x = 0
+   vSxT.y = -1
+   vSxT.z = 0
+
+   u0 = 0.0621756
+   v0 = -0.0140077
+
+   u1 = 0.0621756
+   v1 = -0.0140077
+
+   u2 = 0.0621756
+   v2 = -0.0140077
+
+   u3 = 0.0621756
+   v3 = -0.0140077
+
+Vertex 172 of 176
+
+   vPosition.x = 10
+   vPosition.y = 0.999996
+   vPosition.z = -8
+
+   vNormal.x = 1.44754e-008
+   vNormal.y = 1
+   vNormal.z = -1.44754e-008
+
+   vS.x = 0.707108
+   vS.y = -2.04713e-008
+   vS.z = -0.707105
+
+   vT.x = -0.707105
+   vT.y = -4.65913e-014
+   vT.z = -0.707108
+
+   vSxT.x = 1.44754e-008
+   vSxT.y = 1
+   vSxT.z = -1.44754e-008
+
+   u0 = -0.131146
+   v0 = -0.0140081
+
+   u1 = -0.131146
+   v1 = -0.0140081
+
+   u2 = -0.131146
+   v2 = -0.0140081
+
+   u3 = -0.131146
+   v3 = -0.0140081
+
+Vertex 173 of 176
+
+   vPosition.x = 8
+   vPosition.y = 0.999996
+   vPosition.z = -10
+
+   vNormal.x = 1.44754e-008
+   vNormal.y = 1
+   vNormal.z = -1.44754e-008
+
+   vS.x = 0.707108
+   vS.y = -2.04713e-008
+   vS.z = -0.707105
+
+   vT.x = -0.707105
+   vT.y = -4.74541e-014
+   vT.z = -0.707108
+
+   vSxT.x = 1.44754e-008
+   vSxT.y = 1
+   vSxT.z = -1.44754e-008
+
+   u0 = -0.131142
+   v0 = -0.00296128
+
+   u1 = -0.131142
+   v1 = -0.00296128
+
+   u2 = -0.131142
+   v2 = -0.00296128
+
+   u3 = -0.131142
+   v3 = -0.00296128
+
+Vertex 174 of 176
+
+   vPosition.x = 43
+   vPosition.y = 0.999995
+   vPosition.z = -45
+
+   vNormal.x = 1.44754e-008
+   vNormal.y = 1
+   vNormal.z = -1.44754e-008
+
+   vS.x = 0.707108
+   vS.y = -2.04713e-008
+   vS.z = -0.707105
+
+   vT.x = -0.707105
+   vT.y = -4.65913e-014
+   vT.z = -0.707108
+
+   vSxT.x = 1.44754e-008
+   vSxT.y = 1
+   vSxT.z = -1.44754e-008
+
+   u0 = 0.0621756
+   v0 = -0.00296084
+
+   u1 = 0.0621756
+   v1 = -0.00296084
+
+   u2 = 0.0621756
+   v2 = -0.00296084
+
+   u3 = 0.0621756
+   v3 = -0.00296084
+
+Vertex 175 of 176
+
+   vPosition.x = 45
+   vPosition.y = 0.999995
+   vPosition.z = -43
+
+   vNormal.x = 1.44754e-008
+   vNormal.y = 1
+   vNormal.z = -1.44754e-008
+
+   vS.x = 0.707108
+   vS.y = -2.04713e-008
+   vS.z = -0.707105
+
+   vT.x = -0.707105
+   vT.y = -4.57285e-014
+   vT.z = -0.707108
+
+   vSxT.x = 1.44754e-008
+   vSxT.y = 1
+   vSxT.z = -1.44754e-008
+
+   u0 = 0.0621756
+   v0 = -0.0140077
+
+   u1 = 0.0621756
+   v1 = -0.0140077
+
+   u2 = 0.0621756
+   v2 = -0.0140077
+
+   u3 = 0.0621756
+   v3 = -0.0140077
+
+
+
+
+
