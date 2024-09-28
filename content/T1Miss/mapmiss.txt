@@ -1,0 +1,14 @@
+Miss1: Training Mission
+Miss2: Lord Bafford's Scepter
+Miss3: Break From Cragcleft Prison
+Miss4: Down In The Bonehoard
+Miss5: Assassins
+Miss6: The Sword
+Miss7: The Haunted Cathedral
+Miss8: ???
+Miss9: The Lost City
+Miss10: Undercover
+Miss11: Return to the Cathedral
+Miss12: Escape !
+Miss13: Strange Bedfellows
+Miss14: Into the Maw
